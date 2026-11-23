@@ -1,0 +1,10 @@
+[project]
+name = "uloha-1-llm-tool-calling"
+version = "0.1.0"
+description = "Úloha 1 - LLM API + tool calling (Anthropic Claude)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.0.0",
+    "python-dotenv>=1.1.0",
+]

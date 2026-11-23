@@ -1,0 +1,451 @@
+{
+  "name": "Úloha 2 – E-shop analytik (Claude + Postgres + MongoDB)",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {
+          "responseMode": "lastNode"
+        }
+      },
+      "id": "ade4eb52-74aa-4397-ab51-e35945cb5466",
+      "name": "Chat – otázka",
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "webhookId": "5242d2ab-252a-4fd6-9e27-b797ae18e4cd"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "400af463-df0e-42c6-a5f4-d907b2bd9f99",
+              "name": "chatInput",
+              "value": "={{ $json.chatInput.trim() }}",
+              "type": "string"
+            },
+            {
+              "id": "d9089441-51ed-41a4-87e2-cb80ab468db6",
+              "name": "dnes",
+              "value": "={{ $now.setLocale('sk').toFormat('d. MMMM yyyy') }}",
+              "type": "string"
+            }
+          ]
+        },
+        "includeOtherFields": true,
+        "options": {}
+      },
+      "id": "2f3cba7f-5c7b-4802-a387-1b2e67af9e61",
+      "name": "Priprav kontext",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        240,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "=Si dátový analytik online obchodu (e-shop s elektronikou, oblečením, knihami, domácnosťou a športom). Dnes je {{ $json.dnes }}.\nOdpovedáš VŽDY po slovensky, stručne a vecne. Ceny v databáze sú v USD.\n\n## Zdroje dát a nástroje\n\n1. **SQL_dotaz_Postgres** – PostgreSQL, tabuľky obchodu:\n   - products(id, sku, name, description, category, brand, price, stock_quantity, rating, review_count, is_active)\n   - users(id, email, first_name, last_name, city, country, is_premium, registration_date, total_orders, total_spent)\n   - orders(id, order_number, user_id, order_date, status, subtotal, shipping_cost, tax_amount, total_amount, payment_method, shipping_city, shipping_country)\n   - order_items(id, order_id, product_id, product_name, quantity, unit_price, total_price)\n   Ak si nie si istý stĺpcom, najprv sa pozri do information_schema.columns.\n\n2. **Najdi_recenzie_MongoDB** – MongoDB kolekcia product_reviews, polia: product_id, product_name, product_category, user_name, rating (1–5), title, comment, pros, cons, created_at.\n   Filter ako JSON, napr. {\"rating\": 5} alebo {\"product_name\": {\"$regex\": \"tablet\", \"$options\": \"i\"} }.\n\n3. **Statistiky_recenzii_MongoDB** – agregačná pipeline ako JSON pole, napr.\n   [{\"$group\": {\"_id\": \"$product_name\", \"avg\": {\"$avg\": \"$rating\"}, \"count\": {\"$sum\": 1} } }, {\"$sort\": {\"avg\": -1} }, {\"$limit\": 5}]\n\n4. **Kalkulacka** – každý prepočet mimo SQL (DPH, percentá, prepočet meny, rozdiely) rob cez kalkulačku, nie spamäti.\n\n5. **Wikipedia** – všeobecné informácie, ktoré v databáze nie sú (napr. čo je to technológia alebo kategória produktu).\n\n## Pravidlá\n- Do SQL nástroja posielaj presne JEDEN príkaz SELECT, bez bodkočiarky na konci. Databáza je len na čítanie.\n- Keď otázka spája produkty a recenzie, kombinuj PostgreSQL (ceny, sklad, objednávky) a MongoDB (recenzie).\n- Nikdy si nevymýšľaj dáta. Ak dotaz nevráti žiadne riadky, povedz to.\n- Pri číslach uveď, z akého nástroja pochádzajú (napr. „podľa databázy objednávok…“).",
+          "maxIterations": 10,
+          "returnIntermediateSteps": false,
+          "enableStreaming": false
+        }
+      },
+      "id": "46cc03f2-aca1-4199-9aaf-eb8c143a9994",
+      "name": "AI Agent – E-shop analytik",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        600,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "claude-sonnet-4-6",
+          "cachedResultName": "Claude Sonnet 4.6"
+        },
+        "options": {
+          "maxTokensToSample": 2048
+        }
+      },
+      "id": "4e7d5262-8eae-43c3-a8d1-650a27b9541a",
+      "name": "Claude (Anthropic)",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1.3,
+      "position": [
+        260,
+        280
+      ],
+      "credentials": {
+        "anthropicApi": {
+          "id": "aNtHrOpIcCrEd001",
+          "name": "Anthropic account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "contextWindowLength": 10
+      },
+      "id": "45f9906d-4d5e-4dcb-8bd8-974315c958cd",
+      "name": "Pamäť konverzácie",
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.4,
+      "position": [
+        430,
+        280
+      ]
+    },
+    {
+      "parameters": {
+        "descriptionType": "manual",
+        "toolDescription": "Spustí JEDEN read-only príkaz SELECT nad PostgreSQL databázou e-shopu (products, users, orders, order_items) a vráti riadky (max. 50).",
+        "operation": "executeQuery",
+        "query": "=SELECT * FROM (\n{{ $fromAI('sql_query', 'Jeden PostgreSQL príkaz SELECT, bez bodkočiarky na konci', 'string') }}\n) AS result\nLIMIT 50",
+        "options": {}
+      },
+      "id": "34691ae2-1b25-4bda-a6e0-24225e109e1f",
+      "name": "SQL dotaz Postgres",
+      "type": "n8n-nodes-base.postgresTool",
+      "typeVersion": 2.8,
+      "position": [
+        600,
+        280
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "5twCMZ7n6HKzKHgv",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "descriptionType": "manual",
+        "toolDescription": "Nájde recenzie produktov v MongoDB (kolekcia product_reviews) podľa filtra v JSON. Vráti max. 10 recenzií.",
+        "operation": "find",
+        "collection": "product_reviews",
+        "query": "={{ $fromAI('filter', 'MongoDB filter ako JSON objekt, pozri príklady v system message', 'string') }}",
+        "options": {
+          "limit": 10,
+          "projection": "{\"_id\": 0, \"product_name\": 1, \"rating\": 1, \"title\": 1, \"comment\": 1, \"pros\": 1, \"cons\": 1, \"user_name\": 1}"
+        }
+      },
+      "id": "74b03883-294d-45a2-bc37-04d57b114d05",
+      "name": "Najdi recenzie MongoDB",
+      "type": "n8n-nodes-base.mongoDbTool",
+      "typeVersion": 1.5,
+      "position": [
+        770,
+        280
+      ],
+      "credentials": {
+        "mongoDb": {
+          "id": "cwlLs00up13QBOQ4",
+          "name": "MongoDB account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "descriptionType": "manual",
+        "toolDescription": "Spustí agregačnú pipeline nad product_reviews v MongoDB – na počty, priemery a rebríčky hodnotení.",
+        "operation": "aggregate",
+        "collection": "product_reviews",
+        "query": "={{ $fromAI('pipeline', 'MongoDB agregačná pipeline ako JSON pole', 'string') }}"
+      },
+      "id": "f5e50100-607f-4268-84ce-645a506680ce",
+      "name": "Statistiky recenzii MongoDB",
+      "type": "n8n-nodes-base.mongoDbTool",
+      "typeVersion": 1.5,
+      "position": [
+        940,
+        280
+      ],
+      "credentials": {
+        "mongoDb": {
+          "id": "cwlLs00up13QBOQ4",
+          "name": "MongoDB account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "id": "856ccf9f-4539-4def-9b23-6a1e478ef58c",
+      "name": "Kalkulacka",
+      "type": "@n8n/n8n-nodes-langchain.toolCalculator",
+      "typeVersion": 1,
+      "position": [
+        1110,
+        280
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "78d39909-5827-4873-91cd-292addf8752f",
+      "name": "Wikipedia",
+      "type": "@n8n/n8n-nodes-langchain.toolWikipedia",
+      "typeVersion": 1,
+      "position": [
+        1280,
+        280
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Krok po agentovi: pripraví záznam do logu konverzácií.\n// Beží raz pre každú odpoveď agenta.\nconst kontext = $('Priprav kontext').first().json;\nconst odpoved = $input.first().json.output ?? '';\n\nreturn [{\n  json: {\n    session_id: kontext.sessionId ?? 'bez-session',\n    otazka: kontext.chatInput,\n    odpoved,\n    dlzka_odpovede: odpoved.length,\n  },\n}];"
+      },
+      "id": "4abaf80c-8a67-4e30-9fe8-2539ac51f122",
+      "name": "Priprav záznam do logu",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1060,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "CREATE TABLE IF NOT EXISTS n8n_chat_log (\n  id              SERIAL PRIMARY KEY,\n  session_id      VARCHAR(255),\n  otazka          TEXT NOT NULL,\n  odpoved         TEXT,\n  dlzka_odpovede  INT,\n  created_at      TIMESTAMP DEFAULT now()\n);\nINSERT INTO n8n_chat_log (session_id, otazka, odpoved, dlzka_odpovede)\nVALUES ($1, $2, $3, $4)\nRETURNING id, created_at;",
+        "options": {
+          "queryReplacement": "={{ [ $json.session_id, $json.otazka, $json.odpoved, $json.dlzka_odpovede ] }}"
+        }
+      },
+      "id": "d105e9a8-6bdc-4580-ae83-3cd2821021e4",
+      "name": "Ulož do logu (Postgres)",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.8,
+      "position": [
+        1300,
+        0
+      ],
+      "credentials": {
+        "postgres": {
+          "id": "5twCMZ7n6HKzKHgv",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "924afa13-8856-4f52-bf04-68ed474b33fd",
+              "name": "output",
+              "value": "={{ $('AI Agent – E-shop analytik').first().json.output }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "7b48bdbb-b023-4018-a186-28749142458d",
+      "name": "Odpoveď do chatu",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1540,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Úloha 2 – E-shop analytik (n8n + Claude)\n\nAgent odpovedá na otázky o e-shope. Sám si píše **SQL do PostgreSQL** a **dotazy do MongoDB**, prepočty robí **kalkulačkou** a všeobecné info hľadá na **Wikipédii**. Model: **Anthropic Claude**.\n\n**Tok workflowu**\n1. **Chat – otázka** – používateľ napíše otázku\n2. **Priprav kontext** – doplní dnešný dátum, očistí vstup\n3. **AI Agent** – ReAct agent s pamäťou a 5 nástrojmi\n4. **Priprav záznam do logu** – Code node\n5. **Ulož do logu (Postgres)** – zapíše otázku a odpoveď do `n8n_chat_log`\n6. **Odpoveď do chatu** – vráti text používateľovi\n\nDatabáza tu teda slúži **aj ako nástroj agenta (čítanie), aj ako krok workflowu (zápis logu)**.",
+        "height": 560,
+        "width": 600,
+        "color": 7
+      },
+      "id": "bf8592f0-7723-4082-bee9-7365f68ca77c",
+      "name": "Popis workflowu",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -700,
+        -260
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Vyskúšaj tieto otázky\n\n- Ktorých 5 produktov je najdrahších a koľko kusov máme na sklade?\n- Ktorý zákazník minul najviac peňazí a koľko objednávok urobil?\n- Ktorý produkt má najlepšie priemerné hodnotenie v recenziách a koľko stojí s 23 % DPH?\n- Na čo sa zákazníci sťažujú v recenziách s 2 hviezdičkami a menej?\n- Aký je priemerný obrat na objednávku podľa stavu objednávky?\n- Predávame fitness tracker? Čo je to vlastne fitness tracker (Wikipedia)?\n\n(Pamäť drží posledných 10 správ, takže sa dá doplňujúco pýtať: „A koľko z toho je v kategórii Sports?“)",
+        "height": 340,
+        "width": 600,
+        "color": 5
+      },
+      "id": "47bfc4b8-2c33-45ab-a602-503b373c1558",
+      "name": "Ukážkové otázky",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -700,
+        340
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Nastavenie (credentials)\n\nDatabázy z kurzu: `03_N8N/databases` → `docker compose up -d`\n\n- **Postgres account** – host `host.docker.internal`, port `5433`, db `ecommerce`, user `postgres`, heslo `Heslo_1234`, SSL disable\n- **MongoDB account** – connection string `mongodb://admin:admin123@host.docker.internal:27017/?authSource=admin`, db `ecommerce`\n- **Anthropic account** – API Key: `TU JE API NA LLM ALE SOM CHUDOBNY` → sem patrí vlastný kľúč z console.anthropic.com\n\nPo importe otvor každý node s výstražným trojuholníkom a vyber svoj credential.",
+        "height": 280,
+        "width": 760,
+        "color": 3
+      },
+      "id": "699b2a9f-5401-4793-9d1a-5ae75288c06a",
+      "name": "Nastavenie",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        260,
+        500
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Chat – otázka": {
+      "main": [
+        [
+          {
+            "node": "Priprav kontext",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Priprav kontext": {
+      "main": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent – E-shop analytik": {
+      "main": [
+        [
+          {
+            "node": "Priprav záznam do logu",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Priprav záznam do logu": {
+      "main": [
+        [
+          {
+            "node": "Ulož do logu (Postgres)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Ulož do logu (Postgres)": {
+      "main": [
+        [
+          {
+            "node": "Odpoveď do chatu",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude (Anthropic)": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pamäť konverzácie": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "SQL dotaz Postgres": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Najdi recenzie MongoDB": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Statistiky recenzii MongoDB": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Kalkulacka": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wikipedia": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent – E-shop analytik",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": []
+}

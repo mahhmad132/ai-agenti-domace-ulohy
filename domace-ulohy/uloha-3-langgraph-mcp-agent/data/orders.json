@@ -1,0 +1,2811 @@
+[
+  {
+    "id": 1,
+    "order_number": "ORD00000001",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2025-08-23 01:03:15.860729",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "FashionForward Boots",
+        "quantity": 1,
+        "unit_price": 170,
+        "discounted_price": 170,
+        "discount_percentage": 0,
+        "total_price": 170,
+        "sku": "CLO-000009",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 10,
+        "product_name": "TrendSetter Sweater Elite",
+        "quantity": 1,
+        "unit_price": 89,
+        "discounted_price": 89,
+        "discount_percentage": 0,
+        "total_price": 89,
+        "sku": "CLO-000010",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 26,
+        "product_name": "EndurancePro Dumbbells Pro",
+        "quantity": 3,
+        "unit_price": 40.0,
+        "discounted_price": 40.0,
+        "discount_percentage": 0,
+        "total_price": 120.0,
+        "sku": "SPO-000026",
+        "category": "Sports"
+      },
+      {
+        "product_id": 1,
+        "product_name": "SmartLine Tablet",
+        "quantity": 1,
+        "unit_price": 1446,
+        "discounted_price": 1446,
+        "discount_percentage": 0,
+        "total_price": 1446,
+        "sku": "ELE-000001",
+        "category": "Electronics"
+      }
+    ],
+    "totals": {
+      "subtotal": 1825.0,
+      "tax_amount": 146.0,
+      "shipping_cost": 24.14,
+      "total": 1995.14
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "Express",
+      "tracking_number": "FED259368130",
+      "estimated_delivery": "2026-08-17",
+      "shipping_cost": 24.14
+    },
+    "payment_info": {
+      "method": "google_pay",
+      "amount": 1995.14,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN2242188455",
+      "processed_at": "2026-02-21 17:46:53.583091"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-08-23 01:03:15.860729",
+        "note": "Order received"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-08-23 03:03:15.860729",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-08-24 14:03:15.860729",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-08-25 14:03:15.860729",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-08-31 14:03:15.860729",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [
+      "Business address - deliver during office hours"
+    ],
+    "created_at": "2025-08-23 01:03:15.860729",
+    "updated_at": "2025-08-31 14:03:15.860729"
+  },
+  {
+    "id": 2,
+    "order_number": "ORD00000002",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2025-12-25 15:43:27.343226",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "InsightPublishing Biography",
+        "quantity": 2,
+        "unit_price": 11.0,
+        "discounted_price": 11.0,
+        "discount_percentage": 0,
+        "total_price": 22.0,
+        "sku": "BOO-000014",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 22.0,
+      "tax_amount": 1.76,
+      "shipping_cost": 21.23,
+      "total": 44.99
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "Express",
+      "tracking_number": "USP907303688",
+      "estimated_delivery": "2026-08-20",
+      "shipping_cost": 21.23
+    },
+    "payment_info": {
+      "method": "paypal",
+      "amount": 44.99,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN2378181407",
+      "processed_at": "2026-01-14 15:01:34.483593",
+      "paypal_transaction_id": "PAY734849722"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-12-25 15:43:27.343226",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-12-26 10:43:27.343226",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-12-27 03:43:27.343226",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-12-30 03:43:27.343226",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-01-04 03:43:27.343226",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-12-25 15:43:27.343226",
+    "updated_at": "2026-01-04 03:43:27.343226"
+  },
+  {
+    "id": 3,
+    "order_number": "ORD00000003",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2026-04-26 03:05:11.691388",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "PerformanceGear Basketball Plus",
+        "quantity": 3,
+        "unit_price": 97,
+        "discounted_price": 75.66,
+        "discount_percentage": 0.22,
+        "total_price": 226.98,
+        "sku": "SPO-000025",
+        "category": "Sports"
+      },
+      {
+        "product_id": 4,
+        "product_name": "InnoCore Smartwatch",
+        "quantity": 2,
+        "unit_price": 1641,
+        "discounted_price": 1263.57,
+        "discount_percentage": 0.23,
+        "total_price": 2527.14,
+        "sku": "ELE-000004",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 19,
+        "product_name": "HomeEssentials Coffee Maker Pro",
+        "quantity": 1,
+        "unit_price": 289,
+        "discounted_price": 289,
+        "discount_percentage": 0,
+        "total_price": 289,
+        "sku": "HOM-000019",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 12,
+        "product_name": "StyleCraft Dress",
+        "quantity": 2,
+        "unit_price": 74,
+        "discounted_price": 59.2,
+        "discount_percentage": 0.2,
+        "total_price": 118.4,
+        "sku": "CLO-000012",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 1,
+        "unit_price": 150,
+        "discounted_price": 150,
+        "discount_percentage": 0,
+        "total_price": 150,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 3311.52,
+      "tax_amount": 264.92,
+      "shipping_cost": 26.29,
+      "total": 3602.73
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Next Day",
+      "tracking_number": "DHL552253540",
+      "estimated_delivery": "2026-08-24",
+      "shipping_cost": 26.29
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 3602.73,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN1205895862",
+      "processed_at": "2026-06-01 21:28:27.404218",
+      "card_type": "Mastercard",
+      "last_four": "3172"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-04-26 03:05:11.691388",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-04-26 09:05:11.691388",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-04-28 02:05:11.691388",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-05-01 02:05:11.691388",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-05-04 02:05:11.691388",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-04-26 03:05:11.691388",
+    "updated_at": "2026-05-04 02:05:11.691388"
+  },
+  {
+    "id": 4,
+    "order_number": "ORD00000004",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2026-07-31 01:37:06.614738",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "NextGen Smartwatch",
+        "quantity": 1,
+        "unit_price": 1850,
+        "discounted_price": 1850,
+        "discount_percentage": 0,
+        "total_price": 1850,
+        "sku": "ELE-000002",
+        "category": "Electronics"
+      }
+    ],
+    "totals": {
+      "subtotal": 1850,
+      "tax_amount": 148.0,
+      "shipping_cost": 13.36,
+      "total": 2011.36
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "Amazon Logistics",
+      "service": "Standard",
+      "tracking_number": "AMA828637023",
+      "estimated_delivery": "2026-08-21",
+      "shipping_cost": 13.36
+    },
+    "payment_info": {
+      "method": "apple_pay",
+      "amount": 2011.36,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN7084755554",
+      "processed_at": "2026-03-22 18:35:42.878726"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-07-31 01:37:06.614738",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-07-31 05:37:06.614738",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-07-31 21:37:06.614738",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-08-01 21:37:06.614738",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-08-05 21:37:06.614738",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [
+      "Customer requested expedited shipping"
+    ],
+    "created_at": "2026-07-31 01:37:06.614738",
+    "updated_at": "2026-08-05 21:37:06.614738"
+  },
+  {
+    "id": 5,
+    "order_number": "ORD00000005",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2026-08-02 12:55:12.589763",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "ThoughtWorks History",
+        "quantity": 3,
+        "unit_price": 36.0,
+        "discounted_price": 28.44,
+        "discount_percentage": 0.21,
+        "total_price": 85.32,
+        "sku": "BOO-000016",
+        "category": "Books"
+      },
+      {
+        "product_id": 18,
+        "product_name": "ScholarPress Mystery",
+        "quantity": 3,
+        "unit_price": 87,
+        "discounted_price": 73.08,
+        "discount_percentage": 0.16,
+        "total_price": 219.24,
+        "sku": "BOO-000018",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 304.56,
+      "tax_amount": 24.36,
+      "shipping_cost": 6.09,
+      "total": 335.01
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "Next Day",
+      "tracking_number": "FED875594835",
+      "estimated_delivery": "2026-08-20",
+      "shipping_cost": 6.09
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 335.01,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN6889981532",
+      "processed_at": "2026-05-09 17:33:20.273629"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-08-02 12:55:12.589763",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-08-03 04:55:12.589763",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-08-04 18:55:12.589763",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-08-06 18:55:12.589763",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-08-12 18:55:12.589763",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-08-02 12:55:12.589763",
+    "updated_at": "2026-08-12 18:55:12.589763"
+  },
+  {
+    "id": 6,
+    "order_number": "ORD00000006",
+    "user_id": 2,
+    "user_email": "jessica.johnson@gmail.com",
+    "order_date": "2026-04-08 10:03:30.914860",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "HomeEssentials Furniture",
+        "quantity": 3,
+        "unit_price": 496,
+        "discounted_price": 496,
+        "discount_percentage": 0,
+        "total_price": 1488,
+        "sku": "HOM-000022",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 19,
+        "product_name": "HomeEssentials Coffee Maker Pro",
+        "quantity": 2,
+        "unit_price": 289,
+        "discounted_price": 289,
+        "discount_percentage": 0,
+        "total_price": 578,
+        "sku": "HOM-000019",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 21,
+        "product_name": "HomeStyle Garden Tools",
+        "quantity": 3,
+        "unit_price": 82,
+        "discounted_price": 62.32,
+        "discount_percentage": 0.24,
+        "total_price": 186.96,
+        "sku": "HOM-000021",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 14,
+        "product_name": "InsightPublishing Biography",
+        "quantity": 1,
+        "unit_price": 11.0,
+        "discounted_price": 10.23,
+        "discount_percentage": 0.07,
+        "total_price": 10.23,
+        "sku": "BOO-000014",
+        "category": "Books"
+      },
+      {
+        "product_id": 7,
+        "product_name": "StreetWear Dress",
+        "quantity": 2,
+        "unit_price": 163,
+        "discounted_price": 163,
+        "discount_percentage": 0,
+        "total_price": 326,
+        "sku": "CLO-000007",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 2589.19,
+      "tax_amount": 207.14,
+      "shipping_cost": 19.13,
+      "total": 2815.46
+    },
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "UPS",
+      "service": "Express",
+      "tracking_number": "UPS516514918",
+      "estimated_delivery": "2026-08-16",
+      "shipping_cost": 19.13
+    },
+    "payment_info": {
+      "method": "apple_pay",
+      "amount": 2815.46,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN2328350099",
+      "processed_at": "2026-04-24 10:28:17.601674"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-04-08 10:03:30.914860",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-04-08 17:03:30.914860",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-04-09 14:03:30.914860",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-04-11 14:03:30.914860",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-04-18 14:03:30.914860",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-04-08 10:03:30.914860",
+    "updated_at": "2026-04-18 14:03:30.914860"
+  },
+  {
+    "id": 7,
+    "order_number": "ORD00000007",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2026-03-20 08:21:02.785636",
+    "status": "pending",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "HomeEssentials Furniture",
+        "quantity": 1,
+        "unit_price": 496,
+        "discounted_price": 496,
+        "discount_percentage": 0,
+        "total_price": 496,
+        "sku": "HOM-000022",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 13,
+        "product_name": "KnowledgeHub Programming Guide",
+        "quantity": 3,
+        "unit_price": 22.0,
+        "discounted_price": 22.0,
+        "discount_percentage": 0,
+        "total_price": 66.0,
+        "sku": "BOO-000013",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 562.0,
+      "tax_amount": 44.96,
+      "shipping_cost": 14.79,
+      "total": 621.75
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "2-Day",
+      "tracking_number": "USP221375709",
+      "estimated_delivery": "2026-08-18",
+      "shipping_cost": 14.79
+    },
+    "payment_info": {
+      "method": "paypal",
+      "amount": 621.75,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN3113360701",
+      "processed_at": "2026-03-29 13:17:41.106525",
+      "paypal_transaction_id": "PAY502285402"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-03-20 08:21:02.785636",
+        "note": "Order received"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-03-20 08:21:02.785636",
+    "updated_at": "2026-03-20 08:21:02.785636"
+  },
+  {
+    "id": 8,
+    "order_number": "ORD00000008",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2026-06-07 21:06:44.898698",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "HomeStyle Garden Tools",
+        "quantity": 3,
+        "unit_price": 82,
+        "discounted_price": 82,
+        "discount_percentage": 0,
+        "total_price": 246,
+        "sku": "HOM-000021",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 20,
+        "product_name": "HomeStyle Kitchen Utensils Elite",
+        "quantity": 3,
+        "unit_price": 331,
+        "discounted_price": 331,
+        "discount_percentage": 0,
+        "total_price": 993,
+        "sku": "HOM-000020",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 10,
+        "product_name": "TrendSetter Sweater Elite",
+        "quantity": 2,
+        "unit_price": 89,
+        "discounted_price": 89,
+        "discount_percentage": 0,
+        "total_price": 178,
+        "sku": "CLO-000010",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 3,
+        "unit_price": 150,
+        "discounted_price": 150,
+        "discount_percentage": 0,
+        "total_price": 450,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 1867,
+      "tax_amount": 149.36,
+      "shipping_cost": 9.89,
+      "total": 2026.25
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "Standard",
+      "tracking_number": "USP686152051",
+      "estimated_delivery": "2026-08-17",
+      "shipping_cost": 9.89
+    },
+    "payment_info": {
+      "method": "google_pay",
+      "amount": 2026.25,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN2331756013",
+      "processed_at": "2025-09-21 09:07:16.548177"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-06-07 21:06:44.898698",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-06-08 00:06:44.898698",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-06-08 14:06:44.898698",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-06-10 14:06:44.898698",
+        "note": "Tracking number assigned"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-06-17 14:06:44.898698",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-06-07 21:06:44.898698",
+    "updated_at": "2026-06-17 14:06:44.898698"
+  },
+  {
+    "id": 9,
+    "order_number": "ORD00000009",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2025-11-26 04:27:36.660530",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "InsightPublishing Biography",
+        "quantity": 3,
+        "unit_price": 11.0,
+        "discounted_price": 11.0,
+        "discount_percentage": 0,
+        "total_price": 33.0,
+        "sku": "BOO-000014",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 33.0,
+      "tax_amount": 2.64,
+      "shipping_cost": 8.01,
+      "total": 43.65
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "Amazon Logistics",
+      "service": "Ground",
+      "tracking_number": "AMA777366225",
+      "estimated_delivery": "2026-08-17",
+      "shipping_cost": 8.01
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 43.65,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN5874368967",
+      "processed_at": "2025-12-20 06:13:54.650239",
+      "card_type": "American Express",
+      "last_four": "5907"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-11-26 04:27:36.660530",
+        "note": "Order received"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-11-26 05:27:36.660530",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-11-26 12:27:36.660530",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-11-27 12:27:36.660530",
+        "note": "Tracking number assigned"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-11-29 12:27:36.660530",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [
+      "Fragile items - handle with care"
+    ],
+    "created_at": "2025-11-26 04:27:36.660530",
+    "updated_at": "2025-11-29 12:27:36.660530"
+  },
+  {
+    "id": 10,
+    "order_number": "ORD00000010",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2025-11-02 03:27:52.291777",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "FitGear Bicycle",
+        "quantity": 2,
+        "unit_price": 209,
+        "discounted_price": 209,
+        "discount_percentage": 0,
+        "total_price": 418,
+        "sku": "SPO-000030",
+        "category": "Sports"
+      },
+      {
+        "product_id": 7,
+        "product_name": "StreetWear Dress",
+        "quantity": 1,
+        "unit_price": 163,
+        "discounted_price": 163,
+        "discount_percentage": 0,
+        "total_price": 163,
+        "sku": "CLO-000007",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 3,
+        "unit_price": 33.0,
+        "discounted_price": 29.04,
+        "discount_percentage": 0.12,
+        "total_price": 87.12,
+        "sku": "BOO-000015",
+        "category": "Books"
+      },
+      {
+        "product_id": 29,
+        "product_name": "PerformanceGear Water Bottle",
+        "quantity": 1,
+        "unit_price": 219,
+        "discounted_price": 219,
+        "discount_percentage": 0,
+        "total_price": 219,
+        "sku": "SPO-000029",
+        "category": "Sports"
+      },
+      {
+        "product_id": 12,
+        "product_name": "StyleCraft Dress",
+        "quantity": 2,
+        "unit_price": 74,
+        "discounted_price": 74,
+        "discount_percentage": 0,
+        "total_price": 148,
+        "sku": "CLO-000012",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 1035.12,
+      "tax_amount": 82.81,
+      "shipping_cost": 9.92,
+      "total": 1127.85
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "2-Day",
+      "tracking_number": "FED282092494",
+      "estimated_delivery": "2026-08-19",
+      "shipping_cost": 9.92
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 1127.85,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN2721511982",
+      "processed_at": "2025-10-26 14:02:12.000235",
+      "card_type": "Mastercard",
+      "last_four": "4242"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-11-02 03:27:52.291777",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-11-02 05:27:52.291777",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-11-02 20:27:52.291777",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-11-03 20:27:52.291777",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-11-07 20:27:52.291777",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-11-02 03:27:52.291777",
+    "updated_at": "2025-11-07 20:27:52.291777"
+  },
+  {
+    "id": 11,
+    "order_number": "ORD00000011",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2026-04-07 19:30:17.860227",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "PerformanceGear Basketball Plus",
+        "quantity": 1,
+        "unit_price": 97,
+        "discounted_price": 97,
+        "discount_percentage": 0,
+        "total_price": 97,
+        "sku": "SPO-000025",
+        "category": "Sports"
+      },
+      {
+        "product_id": 28,
+        "product_name": "FitGear Running Shoes",
+        "quantity": 1,
+        "unit_price": 192,
+        "discounted_price": 165.12,
+        "discount_percentage": 0.14,
+        "total_price": 165.12,
+        "sku": "SPO-000028",
+        "category": "Sports"
+      },
+      {
+        "product_id": 14,
+        "product_name": "InsightPublishing Biography",
+        "quantity": 1,
+        "unit_price": 11.0,
+        "discounted_price": 11.0,
+        "discount_percentage": 0,
+        "total_price": 11.0,
+        "sku": "BOO-000014",
+        "category": "Books"
+      },
+      {
+        "product_id": 13,
+        "product_name": "KnowledgeHub Programming Guide",
+        "quantity": 3,
+        "unit_price": 22.0,
+        "discounted_price": 22.0,
+        "discount_percentage": 0,
+        "total_price": 66.0,
+        "sku": "BOO-000013",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 339.12,
+      "tax_amount": 27.13,
+      "shipping_cost": 7.11,
+      "total": 373.36
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "Amazon Logistics",
+      "service": "Next Day",
+      "tracking_number": "AMA363243685",
+      "estimated_delivery": "2026-08-23",
+      "shipping_cost": 7.11
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 373.36,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN9775163585",
+      "processed_at": "2026-04-17 18:47:11.400330"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-04-07 19:30:17.860227",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-04-08 11:30:17.860227",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-04-08 13:30:17.860227",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-04-09 13:30:17.860227",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-04-12 13:30:17.860227",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [
+      "Customer requested expedited shipping"
+    ],
+    "created_at": "2026-04-07 19:30:17.860227",
+    "updated_at": "2026-04-12 13:30:17.860227"
+  },
+  {
+    "id": 12,
+    "order_number": "ORD00000012",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2025-10-09 05:22:57.762885",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "PerformanceGear Water Bottle",
+        "quantity": 1,
+        "unit_price": 219,
+        "discounted_price": 219,
+        "discount_percentage": 0,
+        "total_price": 219,
+        "sku": "SPO-000029",
+        "category": "Sports"
+      }
+    ],
+    "totals": {
+      "subtotal": 219,
+      "tax_amount": 17.52,
+      "shipping_cost": 16.3,
+      "total": 252.82
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Standard",
+      "tracking_number": "DHL347919902",
+      "estimated_delivery": "2026-08-15",
+      "shipping_cost": 16.3
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 252.82,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN7296388526",
+      "processed_at": "2026-04-10 18:46:37.985196"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-10-09 05:22:57.762885",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-10-09 21:22:57.762885",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-10-10 12:22:57.762885",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-10-13 12:22:57.762885",
+        "note": "Tracking number assigned"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-10-19 12:22:57.762885",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-10-09 05:22:57.762885",
+    "updated_at": "2025-10-19 12:22:57.762885"
+  },
+  {
+    "id": 13,
+    "order_number": "ORD00000013",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2026-06-14 16:16:27.795728",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "HomeStyle Kitchen Utensils Elite",
+        "quantity": 1,
+        "unit_price": 331,
+        "discounted_price": 331,
+        "discount_percentage": 0,
+        "total_price": 331,
+        "sku": "HOM-000020",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 1,
+        "product_name": "SmartLine Tablet",
+        "quantity": 2,
+        "unit_price": 1446,
+        "discounted_price": 1446,
+        "discount_percentage": 0,
+        "total_price": 2892,
+        "sku": "ELE-000001",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 14,
+        "product_name": "InsightPublishing Biography",
+        "quantity": 1,
+        "unit_price": 11.0,
+        "discounted_price": 7.92,
+        "discount_percentage": 0.28,
+        "total_price": 7.92,
+        "sku": "BOO-000014",
+        "category": "Books"
+      },
+      {
+        "product_id": 3,
+        "product_name": "DigitalMax Camera",
+        "quantity": 2,
+        "unit_price": 1981,
+        "discounted_price": 1981,
+        "discount_percentage": 0,
+        "total_price": 3962,
+        "sku": "ELE-000003",
+        "category": "Electronics"
+      }
+    ],
+    "totals": {
+      "subtotal": 7192.92,
+      "tax_amount": 575.43,
+      "shipping_cost": 18.06,
+      "total": 7786.41
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "2-Day",
+      "tracking_number": "USP517467089",
+      "estimated_delivery": "2026-08-17",
+      "shipping_cost": 18.06
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 7786.41,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN8892626623",
+      "processed_at": "2025-12-31 06:01:01.361835"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-06-14 16:16:27.795728",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-06-15 04:16:27.795728",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-06-15 08:16:27.795728",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-06-18 08:16:27.795728",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-06-20 08:16:27.795728",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [
+      "Business address - deliver during office hours"
+    ],
+    "created_at": "2026-06-14 16:16:27.795728",
+    "updated_at": "2026-06-20 08:16:27.795728"
+  },
+  {
+    "id": 14,
+    "order_number": "ORD00000014",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2025-10-16 11:53:59.890598",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "FashionForward Boots",
+        "quantity": 3,
+        "unit_price": 170,
+        "discounted_price": 170,
+        "discount_percentage": 0,
+        "total_price": 510,
+        "sku": "CLO-000009",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 6,
+        "product_name": "FutureTech Speaker X",
+        "quantity": 2,
+        "unit_price": 1408,
+        "discounted_price": 1126.4,
+        "discount_percentage": 0.2,
+        "total_price": 2252.8,
+        "sku": "ELE-000006",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 22,
+        "product_name": "HomeEssentials Furniture",
+        "quantity": 2,
+        "unit_price": 496,
+        "discounted_price": 496,
+        "discount_percentage": 0,
+        "total_price": 992,
+        "sku": "HOM-000022",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 5,
+        "product_name": "NextGen Headphones",
+        "quantity": 2,
+        "unit_price": 1288,
+        "discounted_price": 1288,
+        "discount_percentage": 0,
+        "total_price": 2576,
+        "sku": "ELE-000005",
+        "category": "Electronics"
+      }
+    ],
+    "totals": {
+      "subtotal": 6330.8,
+      "tax_amount": 506.46,
+      "shipping_cost": 7.44,
+      "total": 6844.7
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "UPS",
+      "service": "2-Day",
+      "tracking_number": "UPS444238392",
+      "estimated_delivery": "2026-08-16",
+      "shipping_cost": 7.44
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 6844.7,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN8450901960",
+      "processed_at": "2025-08-30 11:50:05.840671"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-10-16 11:53:59.890598",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-10-16 21:53:59.890598",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-10-18 07:53:59.890598",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-10-21 07:53:59.890598",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-10-26 07:53:59.890598",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-10-16 11:53:59.890598",
+    "updated_at": "2025-10-26 07:53:59.890598"
+  },
+  {
+    "id": 15,
+    "order_number": "ORD00000015",
+    "user_id": 3,
+    "user_email": "joshua.case@yahoo.com",
+    "order_date": "2026-01-26 04:29:43.610668",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "HomeEssentials Furniture",
+        "quantity": 3,
+        "unit_price": 496,
+        "discounted_price": 496,
+        "discount_percentage": 0,
+        "total_price": 1488,
+        "sku": "HOM-000022",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 2,
+        "unit_price": 150,
+        "discounted_price": 150,
+        "discount_percentage": 0,
+        "total_price": 300,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 27,
+        "product_name": "SportsPro Fitness Tracker",
+        "quantity": 2,
+        "unit_price": 241,
+        "discounted_price": 241,
+        "discount_percentage": 0,
+        "total_price": 482,
+        "sku": "SPO-000027",
+        "category": "Sports"
+      }
+    ],
+    "totals": {
+      "subtotal": 2270,
+      "tax_amount": 181.6,
+      "shipping_cost": 8.65,
+      "total": 2460.25
+    },
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "2-Day",
+      "tracking_number": "DHL664656716",
+      "estimated_delivery": "2026-08-15",
+      "shipping_cost": 8.65
+    },
+    "payment_info": {
+      "method": "apple_pay",
+      "amount": 2460.25,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN4091492097",
+      "processed_at": "2026-02-06 11:54:21.122036"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-01-26 04:29:43.610668",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-01-26 09:29:43.610668",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-01-27 15:29:43.610668",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-01-28 15:29:43.610668",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-02-01 15:29:43.610668",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-01-26 04:29:43.610668",
+    "updated_at": "2026-02-01 15:29:43.610668"
+  },
+  {
+    "id": 16,
+    "order_number": "ORD00000016",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2026-03-15 07:02:14.198189",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "HomeEssentials Coffee Maker Pro",
+        "quantity": 3,
+        "unit_price": 289,
+        "discounted_price": 289,
+        "discount_percentage": 0,
+        "total_price": 867,
+        "sku": "HOM-000019",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 21,
+        "product_name": "HomeStyle Garden Tools",
+        "quantity": 2,
+        "unit_price": 82,
+        "discounted_price": 82,
+        "discount_percentage": 0,
+        "total_price": 164,
+        "sku": "HOM-000021",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 3,
+        "unit_price": 33.0,
+        "discounted_price": 33.0,
+        "discount_percentage": 0,
+        "total_price": 99.0,
+        "sku": "BOO-000015",
+        "category": "Books"
+      },
+      {
+        "product_id": 13,
+        "product_name": "KnowledgeHub Programming Guide",
+        "quantity": 2,
+        "unit_price": 22.0,
+        "discounted_price": 22.0,
+        "discount_percentage": 0,
+        "total_price": 44.0,
+        "sku": "BOO-000013",
+        "category": "Books"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 2,
+        "unit_price": 150,
+        "discounted_price": 118.5,
+        "discount_percentage": 0.21,
+        "total_price": 237.0,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 1411.0,
+      "tax_amount": 112.88,
+      "shipping_cost": 26.18,
+      "total": 1550.06
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Ground",
+      "tracking_number": "DHL417846329",
+      "estimated_delivery": "2026-08-20",
+      "shipping_cost": 26.18
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 1550.06,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN2748603704",
+      "processed_at": "2025-12-10 15:03:36.134246"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-03-15 07:02:14.198189",
+        "note": "Order received"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-03-15 09:02:14.198189",
+        "note": "Payment confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-03-15 11:02:14.198189",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-03-18 11:02:14.198189",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-03-25 11:02:14.198189",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-03-15 07:02:14.198189",
+    "updated_at": "2026-03-25 11:02:14.198189"
+  },
+  {
+    "id": 17,
+    "order_number": "ORD00000017",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2026-06-26 21:07:21.133737",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "StyleCraft Dress",
+        "quantity": 2,
+        "unit_price": 74,
+        "discounted_price": 74,
+        "discount_percentage": 0,
+        "total_price": 148,
+        "sku": "CLO-000012",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 2,
+        "unit_price": 150,
+        "discounted_price": 150,
+        "discount_percentage": 0,
+        "total_price": 300,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 13,
+        "product_name": "KnowledgeHub Programming Guide",
+        "quantity": 1,
+        "unit_price": 22.0,
+        "discounted_price": 22.0,
+        "discount_percentage": 0,
+        "total_price": 22.0,
+        "sku": "BOO-000013",
+        "category": "Books"
+      },
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 2,
+        "unit_price": 33.0,
+        "discounted_price": 33.0,
+        "discount_percentage": 0,
+        "total_price": 66.0,
+        "sku": "BOO-000015",
+        "category": "Books"
+      },
+      {
+        "product_id": 25,
+        "product_name": "PerformanceGear Basketball Plus",
+        "quantity": 1,
+        "unit_price": 97,
+        "discounted_price": 97,
+        "discount_percentage": 0,
+        "total_price": 97,
+        "sku": "SPO-000025",
+        "category": "Sports"
+      }
+    ],
+    "totals": {
+      "subtotal": 633.0,
+      "tax_amount": 50.64,
+      "shipping_cost": 21.07,
+      "total": 704.71
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Standard",
+      "tracking_number": "DHL268986660",
+      "estimated_delivery": "2026-08-20",
+      "shipping_cost": 21.07
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 704.71,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN6812512455",
+      "processed_at": "2025-11-05 14:47:54.097199"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-06-26 21:07:21.133737",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-06-27 00:07:21.133737",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-06-27 22:07:21.133737",
+        "note": "Packaging in progress"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-06-30 22:07:21.133737",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-07-02 22:07:21.133737",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [
+      "Leave with neighbor if not home"
+    ],
+    "created_at": "2026-06-26 21:07:21.133737",
+    "updated_at": "2026-07-02 22:07:21.133737"
+  },
+  {
+    "id": 18,
+    "order_number": "ORD00000018",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2026-01-19 13:29:40.892794",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "StreetWear Dress",
+        "quantity": 3,
+        "unit_price": 163,
+        "discounted_price": 163,
+        "discount_percentage": 0,
+        "total_price": 489,
+        "sku": "CLO-000007",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 25,
+        "product_name": "PerformanceGear Basketball Plus",
+        "quantity": 2,
+        "unit_price": 97,
+        "discounted_price": 97,
+        "discount_percentage": 0,
+        "total_price": 194,
+        "sku": "SPO-000025",
+        "category": "Sports"
+      }
+    ],
+    "totals": {
+      "subtotal": 683,
+      "tax_amount": 54.64,
+      "shipping_cost": 15.71,
+      "total": 753.35
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Ground",
+      "tracking_number": "DHL749845258",
+      "estimated_delivery": "2026-08-16",
+      "shipping_cost": 15.71
+    },
+    "payment_info": {
+      "method": "google_pay",
+      "amount": 753.35,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN1961148784",
+      "processed_at": "2025-12-13 21:53:10.418921"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-01-19 13:29:40.892794",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-01-20 00:29:40.892794",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-01-21 04:29:40.892794",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-01-23 04:29:40.892794",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-01-29 04:29:40.892794",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [
+      "Call before delivery"
+    ],
+    "created_at": "2026-01-19 13:29:40.892794",
+    "updated_at": "2026-01-29 04:29:40.892794"
+  },
+  {
+    "id": 19,
+    "order_number": "ORD00000019",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2025-12-26 03:58:14.391461",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 2,
+        "unit_price": 150,
+        "discounted_price": 150,
+        "discount_percentage": 0,
+        "total_price": 300,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 5,
+        "product_name": "NextGen Headphones",
+        "quantity": 1,
+        "unit_price": 1288,
+        "discounted_price": 978.88,
+        "discount_percentage": 0.24,
+        "total_price": 978.88,
+        "sku": "ELE-000005",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 1,
+        "unit_price": 33.0,
+        "discounted_price": 33.0,
+        "discount_percentage": 0,
+        "total_price": 33.0,
+        "sku": "BOO-000015",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 1311.88,
+      "tax_amount": 104.95,
+      "shipping_cost": 19.54,
+      "total": 1436.37
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "2-Day",
+      "tracking_number": "FED352941851",
+      "estimated_delivery": "2026-08-24",
+      "shipping_cost": 19.54
+    },
+    "payment_info": {
+      "method": "paypal",
+      "amount": 1436.37,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN2489369822",
+      "processed_at": "2026-05-25 14:34:17.883629",
+      "paypal_transaction_id": "PAY330667579"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-12-26 03:58:14.391461",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-12-26 22:58:14.391461",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-12-27 04:58:14.391461",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-12-28 04:58:14.391461",
+        "note": "Tracking number assigned"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-12-30 04:58:14.391461",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [
+      "Gift wrapping requested",
+      "Fragile items - handle with care"
+    ],
+    "created_at": "2025-12-26 03:58:14.391461",
+    "updated_at": "2025-12-30 04:58:14.391461"
+  },
+  {
+    "id": 20,
+    "order_number": "ORD00000020",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2026-03-26 15:44:05.075948",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "FitGear Running Shoes",
+        "quantity": 3,
+        "unit_price": 192,
+        "discounted_price": 192,
+        "discount_percentage": 0,
+        "total_price": 576,
+        "sku": "SPO-000028",
+        "category": "Sports"
+      },
+      {
+        "product_id": 24,
+        "product_name": "QualityHome Plant Pot Max",
+        "quantity": 3,
+        "unit_price": 498,
+        "discounted_price": 498,
+        "discount_percentage": 0,
+        "total_price": 1494,
+        "sku": "HOM-000024",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 23,
+        "product_name": "HomeStyle Kitchen Utensils Max",
+        "quantity": 1,
+        "unit_price": 111,
+        "discounted_price": 111,
+        "discount_percentage": 0,
+        "total_price": 111,
+        "sku": "HOM-000023",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 11,
+        "product_name": "ModernFit Hoodie",
+        "quantity": 2,
+        "unit_price": 150,
+        "discounted_price": 124.5,
+        "discount_percentage": 0.17,
+        "total_price": 249.0,
+        "sku": "CLO-000011",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 2430.0,
+      "tax_amount": 194.4,
+      "shipping_cost": 18.78,
+      "total": 2643.18
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "DHL",
+      "service": "Express",
+      "tracking_number": "DHL729360664",
+      "estimated_delivery": "2026-08-20",
+      "shipping_cost": 18.78
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 2643.18,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN9276891233",
+      "processed_at": "2025-11-05 22:04:41.685322",
+      "card_type": "Visa",
+      "last_four": "7211"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-03-26 15:44:05.075948",
+        "note": "Payment pending"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-03-27 03:44:05.075948",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-03-27 23:44:05.075948",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-03-29 23:44:05.075948",
+        "note": "Tracking number assigned"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-04-01 23:44:05.075948",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-03-26 15:44:05.075948",
+    "updated_at": "2026-04-01 23:44:05.075948"
+  },
+  {
+    "id": 21,
+    "order_number": "ORD00000021",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2025-12-20 04:43:23.262064",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "NextGen Headphones",
+        "quantity": 2,
+        "unit_price": 1288,
+        "discounted_price": 1288,
+        "discount_percentage": 0,
+        "total_price": 2576,
+        "sku": "ELE-000005",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 27,
+        "product_name": "SportsPro Fitness Tracker",
+        "quantity": 1,
+        "unit_price": 241,
+        "discounted_price": 241,
+        "discount_percentage": 0,
+        "total_price": 241,
+        "sku": "SPO-000027",
+        "category": "Sports"
+      },
+      {
+        "product_id": 12,
+        "product_name": "StyleCraft Dress",
+        "quantity": 2,
+        "unit_price": 74,
+        "discounted_price": 74,
+        "discount_percentage": 0,
+        "total_price": 148,
+        "sku": "CLO-000012",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 9,
+        "product_name": "FashionForward Boots",
+        "quantity": 2,
+        "unit_price": 170,
+        "discounted_price": 170,
+        "discount_percentage": 0,
+        "total_price": 340,
+        "sku": "CLO-000009",
+        "category": "Clothing"
+      }
+    ],
+    "totals": {
+      "subtotal": 3305,
+      "tax_amount": 264.4,
+      "shipping_cost": 28.67,
+      "total": 3598.07
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "Standard",
+      "tracking_number": "FED475273825",
+      "estimated_delivery": "2026-08-22",
+      "shipping_cost": 28.67
+    },
+    "payment_info": {
+      "method": "debit_card",
+      "amount": 3598.07,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN9413116836",
+      "processed_at": "2025-10-06 05:11:43.206999"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-12-20 04:43:23.262064",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-12-21 00:43:23.262064",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-12-22 04:43:23.262064",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-12-25 04:43:23.262064",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-12-29 04:43:23.262064",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-12-20 04:43:23.262064",
+    "updated_at": "2025-12-29 04:43:23.262064"
+  },
+  {
+    "id": 22,
+    "order_number": "ORD00000022",
+    "user_id": 4,
+    "user_email": "charles.snow@gmail.com",
+    "order_date": "2026-05-29 05:50:42.035672",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "HomeStyle Kitchen Utensils Max",
+        "quantity": 3,
+        "unit_price": 111,
+        "discounted_price": 111,
+        "discount_percentage": 0,
+        "total_price": 333,
+        "sku": "HOM-000023",
+        "category": "Home & Garden"
+      },
+      {
+        "product_id": 29,
+        "product_name": "PerformanceGear Water Bottle",
+        "quantity": 3,
+        "unit_price": 219,
+        "discounted_price": 219,
+        "discount_percentage": 0,
+        "total_price": 657,
+        "sku": "SPO-000029",
+        "category": "Sports"
+      },
+      {
+        "product_id": 1,
+        "product_name": "SmartLine Tablet",
+        "quantity": 3,
+        "unit_price": 1446,
+        "discounted_price": 1446,
+        "discount_percentage": 0,
+        "total_price": 4338,
+        "sku": "ELE-000001",
+        "category": "Electronics"
+      },
+      {
+        "product_id": 13,
+        "product_name": "KnowledgeHub Programming Guide",
+        "quantity": 3,
+        "unit_price": 22.0,
+        "discounted_price": 22.0,
+        "discount_percentage": 0,
+        "total_price": 66.0,
+        "sku": "BOO-000013",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 5394.0,
+      "tax_amount": 431.52,
+      "shipping_cost": 18.99,
+      "total": 5844.51
+    },
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "FedEx",
+      "service": "Standard",
+      "tracking_number": "FED726930562",
+      "estimated_delivery": "2026-08-24",
+      "shipping_cost": 18.99
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 5844.51,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN7477105279",
+      "processed_at": "2025-09-16 11:13:58.086562",
+      "card_type": "Visa",
+      "last_four": "5899"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-05-29 05:50:42.035672",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-05-30 04:50:42.035672",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-06-01 02:50:42.035672",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-06-04 02:50:42.035672",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-06-11 02:50:42.035672",
+        "note": "Delivery confirmed"
+      }
+    ],
+    "notes": [
+      "Call before delivery",
+      "Delivery to front door"
+    ],
+    "created_at": "2026-05-29 05:50:42.035672",
+    "updated_at": "2026-06-11 02:50:42.035672"
+  },
+  {
+    "id": 23,
+    "order_number": "ORD00000023",
+    "user_id": 5,
+    "user_email": "russell.johnson@gmail.com",
+    "order_date": "2025-08-27 17:00:42.304547",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "PerformanceGear Basketball Plus",
+        "quantity": 2,
+        "unit_price": 97,
+        "discounted_price": 97,
+        "discount_percentage": 0,
+        "total_price": 194,
+        "sku": "SPO-000025",
+        "category": "Sports"
+      },
+      {
+        "product_id": 9,
+        "product_name": "FashionForward Boots",
+        "quantity": 1,
+        "unit_price": 170,
+        "discounted_price": 170,
+        "discount_percentage": 0,
+        "total_price": 170,
+        "sku": "CLO-000009",
+        "category": "Clothing"
+      },
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 1,
+        "unit_price": 33.0,
+        "discounted_price": 33.0,
+        "discount_percentage": 0,
+        "total_price": 33.0,
+        "sku": "BOO-000015",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 397.0,
+      "tax_amount": 31.76,
+      "shipping_cost": 29.62,
+      "total": 458.38
+    },
+    "shipping_address": {
+      "street": "62469 Norton Bypass",
+      "city": "North Jessica",
+      "state": "Nevada",
+      "postal_code": "94097",
+      "country": "AE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "69204 Miranda Neck",
+      "city": "Port Caitlinport",
+      "state": "Oklahoma",
+      "postal_code": "96366",
+      "country": "FM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "UPS",
+      "service": "Standard",
+      "tracking_number": "UPS335027336",
+      "estimated_delivery": "2026-08-23",
+      "shipping_cost": 29.62
+    },
+    "payment_info": {
+      "method": "apple_pay",
+      "amount": 458.38,
+      "currency": "USD",
+      "status": "failed",
+      "transaction_id": "TXN8640424554",
+      "processed_at": "2026-07-18 21:02:47.118355"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2025-08-27 17:00:42.304547",
+        "note": "Awaiting confirmation"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2025-08-28 14:00:42.304547",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2025-08-30 00:00:42.304547",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2025-08-31 00:00:42.304547",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2025-09-04 00:00:42.304547",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2025-08-27 17:00:42.304547",
+    "updated_at": "2025-09-04 00:00:42.304547"
+  },
+  {
+    "id": 24,
+    "order_number": "ORD00000024",
+    "user_id": 5,
+    "user_email": "russell.johnson@gmail.com",
+    "order_date": "2026-01-16 05:47:22.067525",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "ClearPath Novel",
+        "quantity": 3,
+        "unit_price": 33.0,
+        "discounted_price": 33.0,
+        "discount_percentage": 0,
+        "total_price": 99.0,
+        "sku": "BOO-000015",
+        "category": "Books"
+      }
+    ],
+    "totals": {
+      "subtotal": 99.0,
+      "tax_amount": 7.92,
+      "shipping_cost": 16.97,
+      "total": 123.89
+    },
+    "shipping_address": {
+      "street": "62469 Norton Bypass",
+      "city": "North Jessica",
+      "state": "Nevada",
+      "postal_code": "94097",
+      "country": "AE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "69204 Miranda Neck",
+      "city": "Port Caitlinport",
+      "state": "Oklahoma",
+      "postal_code": "96366",
+      "country": "FM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "2-Day",
+      "tracking_number": "USP857811949",
+      "estimated_delivery": "2026-08-17",
+      "shipping_cost": 16.97
+    },
+    "payment_info": {
+      "method": "apple_pay",
+      "amount": 123.89,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN9966151802",
+      "processed_at": "2026-06-26 19:43:59.813017"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-01-16 05:47:22.067525",
+        "note": "Order received"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-01-16 12:47:22.067525",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-01-16 23:47:22.067525",
+        "note": "Items collected"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-01-18 23:47:22.067525",
+        "note": "Package in transit"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-01-25 23:47:22.067525",
+        "note": "Package delivered"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-01-16 05:47:22.067525",
+    "updated_at": "2026-01-25 23:47:22.067525"
+  },
+  {
+    "id": 25,
+    "order_number": "ORD00000025",
+    "user_id": 5,
+    "user_email": "russell.johnson@gmail.com",
+    "order_date": "2026-04-29 21:08:54.225399",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "PerformanceGear Water Bottle",
+        "quantity": 2,
+        "unit_price": 219,
+        "discounted_price": 219,
+        "discount_percentage": 0,
+        "total_price": 438,
+        "sku": "SPO-000029",
+        "category": "Sports"
+      },
+      {
+        "product_id": 3,
+        "product_name": "DigitalMax Camera",
+        "quantity": 3,
+        "unit_price": 1981,
+        "discounted_price": 1981,
+        "discount_percentage": 0,
+        "total_price": 5943,
+        "sku": "ELE-000003",
+        "category": "Electronics"
+      }
+    ],
+    "totals": {
+      "subtotal": 6381,
+      "tax_amount": 510.48,
+      "shipping_cost": 9.88,
+      "total": 6901.36
+    },
+    "shipping_address": {
+      "street": "62469 Norton Bypass",
+      "city": "North Jessica",
+      "state": "Nevada",
+      "postal_code": "94097",
+      "country": "AE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "69204 Miranda Neck",
+      "city": "Port Caitlinport",
+      "state": "Oklahoma",
+      "postal_code": "96366",
+      "country": "FM",
+      "is_default": true
+    },
+    "shipping_info": {
+      "carrier": "USPS",
+      "service": "Next Day",
+      "tracking_number": "USP903132771",
+      "estimated_delivery": "2026-08-18",
+      "shipping_cost": 9.88
+    },
+    "payment_info": {
+      "method": "credit_card",
+      "amount": 6901.36,
+      "currency": "USD",
+      "status": "completed",
+      "transaction_id": "TXN6570351694",
+      "processed_at": "2025-12-22 02:54:10.427240",
+      "card_type": "American Express",
+      "last_four": "1299"
+    },
+    "status_history": [
+      {
+        "status": "pending",
+        "timestamp": "2026-04-29 21:08:54.225399",
+        "note": "Order received"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-04-30 06:08:54.225399",
+        "note": "Processing started"
+      },
+      {
+        "status": "processing",
+        "timestamp": "2026-04-30 16:08:54.225399",
+        "note": "Preparing items"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-05-01 16:08:54.225399",
+        "note": "Order shipped"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-05-08 16:08:54.225399",
+        "note": "Order completed"
+      }
+    ],
+    "notes": [],
+    "created_at": "2026-04-29 21:08:54.225399",
+    "updated_at": "2026-05-08 16:08:54.225399"
+  }
+]

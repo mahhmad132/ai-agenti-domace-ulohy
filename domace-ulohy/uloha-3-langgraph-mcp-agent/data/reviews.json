@@ -1,0 +1,4496 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "product_name": "SmartLine Tablet",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Great little tablet for the price!",
+    "comment": "I bought this mostly for reading and watching videos on my commute. The 8\" screen is the perfect size to hold with one hand, and that 256GB of storage is huge! The battery life is also impressive; I can go a couple of days without needing a charge. Super happy with it.",
+    "pros": [
+      "Easy to use",
+      "Great performance",
+      "Good build quality"
+    ],
+    "cons": [
+      "Battery life could be better"
+    ],
+    "helpfulness": {
+      "helpful_votes": 91,
+      "total_votes": 100,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-06 05:50:42.035672",
+    "created_at": "2026-06-06 05:50:42.035672",
+    "updated_at": "2026-06-06 05:50:42.035672"
+  },
+  {
+    "id": 2,
+    "product_id": 1,
+    "product_name": "SmartLine Tablet",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Great little tablet for traveling!",
+    "comment": "I bought this for my flight and the 8\" screen is perfect size. The 256GB storage holds tons of movies, and the battery lasted through a long trip without any issues. The processor is decent for streaming, though it's not a gaming beast. Overall, really happy with it!",
+    "pros": [
+      "Fast delivery",
+      "Good value"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 60,
+      "total_votes": 63,
+      "helpfulness_ratio": 0.95
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-19 01:03:15.860729",
+    "created_at": "2025-09-19 01:03:15.860729",
+    "updated_at": "2025-09-19 01:03:15.860729"
+  },
+  {
+    "id": 3,
+    "product_id": 1,
+    "product_name": "SmartLine Tablet",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Best little tablet I have ever owned!",
+    "comment": "I am obsessed with this SmartLine tablet! The 8\" screen is perfect for reading, and having 256GB of storage means I can download tons of movies without worrying. Plus, the 8000mAh battery lasts forever! Its super snappy too thanks to the Helio processor. Honestly, I couldn't be happier with this purchase!",
+    "pros": [
+      "Good value",
+      "Easy to use",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 100,
+      "total_votes": 112,
+      "helpfulness_ratio": 0.89
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-18 16:16:27.795728",
+    "created_at": "2026-06-18 16:16:27.795728",
+    "updated_at": "2026-06-18 16:16:27.795728"
+  },
+  {
+    "id": 4,
+    "product_id": 1,
+    "product_name": "SmartLine Tablet",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Great little tablet for travel!",
+    "comment": "I bought this for flights and the 8\" screen is perfect for reading. The 256GB storage holds way more books and movies than I expected! The battery life is also impressive; it easily lasts all day. It's not a gaming powerhouse, but for the price, I'm very happy with it.",
+    "pros": [
+      "Good build quality",
+      "Fast delivery",
+      "Good value"
+    ],
+    "cons": [
+      "Battery life could be better"
+    ],
+    "helpfulness": {
+      "helpful_votes": 99,
+      "total_votes": 102,
+      "helpfulness_ratio": 0.97
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-23 13:42:38.977374",
+    "created_at": "2026-07-23 13:42:38.977374",
+    "updated_at": "2026-07-23 13:42:38.977374"
+  },
+  {
+    "id": 5,
+    "product_id": 1,
+    "product_name": "SmartLine Tablet",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely perfect little powerhouse!",
+    "comment": "I am obsessed with this tablet! The 8\" screen is the perfect size for reading, and I can't believe how much I can fit on it with 256GB of storage. The battery life is insane tooit easily lasts me all day. Definitely worth every penny!",
+    "pros": [
+      "Easy to use",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 11,
+      "total_votes": 23,
+      "helpfulness_ratio": 0.48
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-03 01:29:47.882810",
+    "created_at": "2026-02-03 01:29:47.882810",
+    "updated_at": "2026-02-03 01:29:47.882810"
+  },
+  {
+    "id": 6,
+    "product_id": 2,
+    "product_name": "NextGen Smartwatch",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 3,
+    "title": "Decent watch but some odd quirks",
+    "comment": "The wireless connectivity is seamless and the 3-year warranty gives me peace of mind. However, Im a bit confused by the power specs since it's a watch. It looks great on my wrist, but overall it's just okay for the price. Mixed feelings so far.",
+    "pros": [
+      "Good value"
+    ],
+    "cons": [
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 54,
+      "total_votes": 55,
+      "helpfulness_ratio": 0.98
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-28 00:26:18.233634",
+    "created_at": "2026-04-28 00:26:18.233634",
+    "updated_at": "2026-04-28 00:26:18.233634"
+  },
+  {
+    "id": 7,
+    "product_id": 2,
+    "product_name": "NextGen Smartwatch",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Best smartwatch I have ever owned!",
+    "comment": "I am obsessed with this watch! The wireless connectivity is seamless with my phone, and I love that it charges so quickly via the AC power adapter. Plus, having a 3-year warranty gives me such peace of mind. Its stylish, super fast, and honestly worth every single penny!",
+    "pros": [
+      "Fast delivery",
+      "Great performance",
+      "Good value"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 67,
+      "total_votes": 80,
+      "helpfulness_ratio": 0.84
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-01 17:19:46.359139",
+    "created_at": "2026-07-01 17:19:46.359139",
+    "updated_at": "2026-07-01 17:19:46.359139"
+  },
+  {
+    "id": 8,
+    "product_id": 2,
+    "product_name": "NextGen Smartwatch",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Great smartwatch with solid build quality",
+    "comment": "Ive been using this for a week now and the wireless syncing is seamless with my phone. It looks premium, and knowing it has a 3-year warranty gives me peace of mind. Only docking one star because the charging cable is a bit short, but otherwise, it's perfect!",
+    "pros": [
+      "Good build quality",
+      "Easy to use"
+    ],
+    "cons": [
+      "Battery life could be better"
+    ],
+    "helpfulness": {
+      "helpful_votes": 31,
+      "total_votes": 38,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-06 02:31:25.044029",
+    "created_at": "2026-03-06 02:31:25.044029",
+    "updated_at": "2026-03-06 02:31:25.044029"
+  },
+  {
+    "id": 9,
+    "product_id": 2,
+    "product_name": "NextGen Smartwatch",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 3,
+    "title": "Good features but some connectivity issues",
+    "comment": "The 3-year warranty gives me peace of mind, and the design is sleek. However, Ive had some annoying wireless drops when my phone is in my pocket. It works fine when plugged into AC power for charging, but the sync issues make it a bit frustrating for daily use.",
+    "pros": [
+      "Good value"
+    ],
+    "cons": [
+      "Setup was confusing",
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 58,
+      "total_votes": 67,
+      "helpfulness_ratio": 0.87
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-15 01:37:06.614738",
+    "created_at": "2026-08-15 01:37:06.614738",
+    "updated_at": "2026-08-15 01:37:06.614738"
+  },
+  {
+    "id": 10,
+    "product_id": 2,
+    "product_name": "NextGen Smartwatch",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new watch!",
+    "comment": "I am so happy with this purchase! The wireless connectivity is seamless and it syncs to my phone instantly. Plus, having a 3-year warranty gives me such peace of mind. It looks sleek and works perfectly every single time. Best tech upgrade I've made all year!",
+    "pros": [
+      "Fast delivery",
+      "Good build quality",
+      "Easy to use",
+      "Great performance"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 88,
+      "total_votes": 92,
+      "helpfulness_ratio": 0.96
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-21 16:47:12.379247",
+    "created_at": "2025-09-21 16:47:12.379247",
+    "updated_at": "2025-09-21 16:47:12.379247"
+  },
+  {
+    "id": 11,
+    "product_id": 3,
+    "product_name": "DigitalMax Camera",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Best purchase I have made all year!",
+    "comment": "I am obsessed with this camera! The wireless connectivity makes transferring photos to my phone so easy. Plus, being USB rechargeable is a total lifesaver for traveling. It feels super high-quality and having that 1-year warranty gives me such peace of mind. Honestly, I can't stop taking pictures!",
+    "pros": [
+      "Good build quality",
+      "Easy to use",
+      "Fast delivery"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 23,
+      "total_votes": 42,
+      "helpfulness_ratio": 0.55
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-26 11:37:58.836362",
+    "created_at": "2026-06-26 11:37:58.836362",
+    "updated_at": "2026-06-26 11:37:58.836362"
+  },
+  {
+    "id": 12,
+    "product_id": 3,
+    "product_name": "DigitalMax Camera",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this little camera!",
+    "comment": "I am so in love with my DigitalMax! The wireless connectivity makes transferring photos to my phone a breeze. I also love that it's USB rechargeable so I never have to hunt for batteries. Plus, having a 1-year warranty gives me total peace of mind. Highly recommend!",
+    "pros": [
+      "Easy to use",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 100,
+      "total_votes": 107,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-16 21:08:54.225399",
+    "created_at": "2026-05-16 21:08:54.225399",
+    "updated_at": "2026-05-16 21:08:54.225399"
+  },
+  {
+    "id": 13,
+    "product_id": 3,
+    "product_name": "DigitalMax Camera",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this little camera!",
+    "comment": "I am so happy with my DigitalMax purchase! The wireless connectivity makes transferring photos to my phone a breeze. Plus, being USB rechargeable is such a lifesaver since I don't have to carry extra batteries everywhere. It feels high-quality too, and the 1-year warranty gives me great peace of mind!",
+    "pros": [
+      "Easy to use",
+      "Good value",
+      "Fast delivery",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 10,
+      "total_votes": 14,
+      "helpfulness_ratio": 0.71
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-27 00:46:55.682350",
+    "created_at": "2025-11-27 00:46:55.682350",
+    "updated_at": "2025-11-27 00:46:55.682350"
+  },
+  {
+    "id": 14,
+    "product_id": 3,
+    "product_name": "DigitalMax Camera",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 3,
+    "title": "Good features but battery life is meh",
+    "comment": "The wireless connectivity works great and it was super easy to charge via USB. However, the battery doesn't last nearly as long as I expected for a digital camera. Its decent for the price, but I'm a bit worried about the 1-year warranty limit. Mixed feelings so far.",
+    "pros": [
+      "Good value",
+      "Fast delivery"
+    ],
+    "cons": [
+      "Battery life could be better",
+      "Setup was confusing"
+    ],
+    "helpfulness": {
+      "helpful_votes": 97,
+      "total_votes": 117,
+      "helpfulness_ratio": 0.83
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-07-10 16:16:27.795728",
+    "created_at": "2026-07-10 16:16:27.795728",
+    "updated_at": "2026-07-10 16:16:27.795728"
+  },
+  {
+    "id": 15,
+    "product_id": 3,
+    "product_name": "DigitalMax Camera",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new camera!",
+    "comment": "I am so in love with this DigitalMax! The wireless connectivity makes transferring photos to my phone super fast, which is a lifesaver. Plus, being USB rechargeable means I never have to hunt for batteries. Its so easy to use, and the 1-year warranty gives me total peace of mind!",
+    "pros": [
+      "Good value",
+      "Easy to use"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 6,
+      "total_votes": 7,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": true,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-01-19 08:45:41.353939",
+    "created_at": "2026-01-19 08:45:41.353939",
+    "updated_at": "2026-01-19 08:45:41.353939"
+  },
+  {
+    "id": 16,
+    "product_id": 4,
+    "product_name": "InnoCore Smartwatch",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new smartwatch!",
+    "comment": "I am so happy with this purchase! The Bluetooth syncs instantly to my phone without any glitches. Plus, knowing it has a 3-year warranty gives me such peace of mind. It looks sleek and works perfectlydefinitely the best tech upgrade I've made all year!",
+    "pros": [
+      "Great performance",
+      "Easy to use",
+      "Fast delivery",
+      "Good value"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 30,
+      "total_votes": 32,
+      "helpfulness_ratio": 0.94
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-22 08:48:32.851487",
+    "created_at": "2026-03-22 08:48:32.851487",
+    "updated_at": "2026-03-22 08:48:32.851487"
+  },
+  {
+    "id": 17,
+    "product_id": 4,
+    "product_name": "InnoCore Smartwatch",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new InnoCore!",
+    "comment": "I am so happy with this purchase! The Bluetooth pairing was seamless with my phone, and it looks stunning on my wrist. Plus, knowing it has a 3-year warranty gives me such peace of mind. Its easily the best tech upgrade I've made all year!",
+    "pros": [
+      "Fast delivery",
+      "Good value",
+      "Easy to use",
+      "Great performance"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 79,
+      "total_votes": 94,
+      "helpfulness_ratio": 0.84
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-22 20:30:51.606587",
+    "created_at": "2026-03-22 20:30:51.606587",
+    "updated_at": "2026-03-22 20:30:51.606587"
+  },
+  {
+    "id": 18,
+    "product_id": 4,
+    "product_name": "InnoCore Smartwatch",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new InnoCore!",
+    "comment": "I am so happy with this purchase! The Bluetooth connectivity is seamless with my phone, and it looks stunning. I also feel so much better knowing it comes with a 3-year warranty for peace of mind. Its easily the best tech upgrade I've made all year!",
+    "pros": [
+      "Good value",
+      "Good build quality",
+      "Fast delivery",
+      "Great performance"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 4,
+      "total_votes": 10,
+      "helpfulness_ratio": 0.4
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-08-26 14:10:22.309733",
+    "created_at": "2025-08-26 14:10:22.309733",
+    "updated_at": "2025-08-26 14:10:22.309733"
+  },
+  {
+    "id": 19,
+    "product_id": 4,
+    "product_name": "InnoCore Smartwatch",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new watch!",
+    "comment": "I am so in love with the InnoCore! The Bluetooth pairing was instant, and it looks stunning on my wrist. Plus, having a 3-year warranty gives me such peace of mind. Its been my daily driver since it arrived, and I couldn't be happier with this purchase!",
+    "pros": [
+      "Easy to use",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 20,
+      "total_votes": 32,
+      "helpfulness_ratio": 0.62
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-28 03:05:11.691388",
+    "created_at": "2026-04-28 03:05:11.691388",
+    "updated_at": "2026-04-28 03:05:11.691388"
+  },
+  {
+    "id": 20,
+    "product_id": 4,
+    "product_name": "InnoCore Smartwatch",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with my new smartwatch!",
+    "comment": "I am so happy with this purchase! The Bluetooth connection is seamless with my phone, and the design looks premium. Plus, knowing it comes with a 3-year warranty gives me such peace of mind. Its easily the best tech upgrade Ive made all year! Highly recommend it to everyone.",
+    "pros": [
+      "Fast delivery",
+      "Great performance",
+      "Good build quality",
+      "Easy to use"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 78,
+      "total_votes": 90,
+      "helpfulness_ratio": 0.87
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-28 07:20:31.432533",
+    "created_at": "2026-04-28 07:20:31.432533",
+    "updated_at": "2026-04-28 07:20:31.432533"
+  },
+  {
+    "id": 21,
+    "product_id": 5,
+    "product_name": "NextGen Headphones",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 3,
+    "title": "Great sound but a bit uncomfortable",
+    "comment": "The noise cancellation is actually impressive and the Bluetooth pairing was super easy. However, after wearing them for an hour, the over-ear cups feel a bit tight on my head. The 20-hour battery life is decent, but I expected more comfort for the price. Mixed feelings so far.",
+    "pros": [
+      "Fast delivery"
+    ],
+    "cons": [
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 5,
+      "total_votes": 8,
+      "helpfulness_ratio": 0.62
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-04 12:35:58.937155",
+    "created_at": "2025-11-04 12:35:58.937155",
+    "updated_at": "2025-11-04 12:35:58.937155"
+  },
+  {
+    "id": 22,
+    "product_id": 5,
+    "product_name": "NextGen Headphones",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely life-changing sound and noise cancellation!",
+    "comment": "I am obsessed with these! The noise cancellation is legitit completely blocks out my loud office background. Ive been using them all day and the 20-hour battery life is no joke. Bluetooth pairing was instant too. Honestly, best tech purchase I've made in a long time!",
+    "pros": [
+      "Great performance",
+      "Good value",
+      "Fast delivery",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 86,
+      "total_votes": 90,
+      "helpfulness_ratio": 0.96
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-14 11:53:59.890598",
+    "created_at": "2025-11-14 11:53:59.890598",
+    "updated_at": "2025-11-14 11:53:59.890598"
+  },
+  {
+    "id": 23,
+    "product_id": 5,
+    "product_name": "NextGen Headphones",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely life-changing sound and noise cancellation!",
+    "comment": "I am obsessed with these! The noise cancellation is legitit completely blocks out my noisy neighbors. The battery lasts forever, and the Bluetooth connection is super seamless with my phone. Ive been wearing these over-ear pads all day and they are so comfy. Best purchase ever!",
+    "pros": [
+      "Good value",
+      "Easy to use"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 100,
+      "total_votes": 107,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-19 19:29:07.601196",
+    "created_at": "2025-10-19 19:29:07.601196",
+    "updated_at": "2025-10-19 19:29:07.601196"
+  },
+  {
+    "id": 24,
+    "product_id": 5,
+    "product_name": "NextGen Headphones",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Best headphones I have ever owned!",
+    "comment": "Seriously, these are incredible! The noise cancellation is so good it actually blocks out my noisy neighbors completely. Ive been using them all day and the 20-hour battery life is a lifesaver. The Bluetooth connection is super stable too. If you're on the fence, just get them!",
+    "pros": [
+      "Good build quality",
+      "Fast delivery",
+      "Great performance"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 78,
+      "total_votes": 78,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-07 23:10:52.916128",
+    "created_at": "2026-01-07 23:10:52.916128",
+    "updated_at": "2026-01-07 23:10:52.916128"
+  },
+  {
+    "id": 25,
+    "product_id": 5,
+    "product_name": "NextGen Headphones",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely obsessed with these new headphones!",
+    "comment": "I am so impressed! The noise cancellation is a total game changer for my daily commuteit blocks everything out. Plus, the Bluetooth 5.0 pairs instantly with my phone. Even after using them all day, the battery life is still going strong. Truly worth every penny!",
+    "pros": [
+      "Great performance",
+      "Easy to use",
+      "Good build quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 76,
+      "total_votes": 85,
+      "helpfulness_ratio": 0.89
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-04 03:58:14.391461",
+    "created_at": "2026-01-04 03:58:14.391461",
+    "updated_at": "2026-01-04 03:58:14.391461"
+  },
+  {
+    "id": 26,
+    "product_id": 6,
+    "product_name": "FutureTech Speaker X",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 2,
+    "title": "Decent sound but too many limitations",
+    "comment": "I really wanted to love this. The audio quality is clear, and the 3-year warranty gives peace of mind. However, being strictly wired is a huge hassle for my desk setup. I was expecting more versatility for the price, so its honestly just okay.",
+    "pros": [
+      "Good value"
+    ],
+    "cons": [
+      "Setup was confusing",
+      "Battery life could be better",
+      "Not as described"
+    ],
+    "helpfulness": {
+      "helpful_votes": 48,
+      "total_votes": 62,
+      "helpfulness_ratio": 0.77
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-17 12:03:47.111802",
+    "created_at": "2025-12-17 12:03:47.111802",
+    "updated_at": "2025-12-17 12:03:47.111802"
+  },
+  {
+    "id": 27,
+    "product_id": 6,
+    "product_name": "FutureTech Speaker X",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Great sound quality and very reliable",
+    "comment": "I love that this uses a wired connection because theres zero lag when watching movies. It needs to stay plugged into AC power, but the sound is incredibly crisp. Plus, having a 3-year warranty gives me peace of mind. Its been a solid addition to my home office setup!",
+    "pros": [
+      "Great performance",
+      "Fast delivery"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 6,
+      "total_votes": 6,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-23 10:48:45.669663",
+    "created_at": "2026-07-23 10:48:45.669663",
+    "updated_at": "2026-07-23 10:48:45.669663"
+  },
+  {
+    "id": 28,
+    "product_id": 6,
+    "product_name": "FutureTech Speaker X",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Decent sound but very limited setup",
+    "comment": "The audio quality is solid, and I love the 3-year warranty for peace of mind. However, I was disappointed that its strictly wired connectivity. Since it requires AC power, my desk setup is getting pretty cluttered. It works well, but its definitely not as convenient as I expected.",
+    "pros": [
+      "Fast delivery",
+      "Good value"
+    ],
+    "cons": [
+      "Setup was confusing"
+    ],
+    "helpfulness": {
+      "helpful_votes": 68,
+      "total_votes": 88,
+      "helpfulness_ratio": 0.77
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-14 00:11:18.534140",
+    "created_at": "2026-06-14 00:11:18.534140",
+    "updated_at": "2026-06-14 00:11:18.534140"
+  },
+  {
+    "id": 29,
+    "product_id": 6,
+    "product_name": "FutureTech Speaker X",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Great sound quality and solid build",
+    "comment": "Im really happy with this speaker. Since it uses wired connectivity, the audio is super clear without any lag. It needs to be plugged into AC power, so its not portable, but it sounds great on my desk. Plus, the 3-year warranty gives me peace of mind!",
+    "pros": [
+      "Good build quality",
+      "Great performance",
+      "Easy to use"
+    ],
+    "cons": [
+      "Setup was confusing"
+    ],
+    "helpfulness": {
+      "helpful_votes": 33,
+      "total_votes": 48,
+      "helpfulness_ratio": 0.69
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-21 12:26:30.318804",
+    "created_at": "2026-05-21 12:26:30.318804",
+    "updated_at": "2026-05-21 12:26:30.318804"
+  },
+  {
+    "id": 30,
+    "product_id": 6,
+    "product_name": "FutureTech Speaker X",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolute game changer for my home setup!",
+    "comment": "I am obsessed with this speaker! The sound quality is incredible, and since its wired, theres zero lag or connection issues. It plugs right into the wall for constant power, so I never worry about batteries dying mid-song. Plus, that 3-year warranty gives me total peace of mind!",
+    "pros": [
+      "Good value",
+      "Fast delivery",
+      "Great performance",
+      "Easy to use"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 83,
+      "total_votes": 86,
+      "helpfulness_ratio": 0.97
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-11-01 11:53:59.890598",
+    "created_at": "2025-11-01 11:53:59.890598",
+    "updated_at": "2025-11-01 11:53:59.890598"
+  },
+  {
+    "id": 31,
+    "product_id": 7,
+    "product_name": "StreetWear Dress",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Cute design but sizing is tricky",
+    "comment": "The blue denim material is really high quality and looks exactly like the photos. However, I ordered a size S and its way tighter than expected around the waist. Its super cute for a night out, but definitely consider sizing up if you want to be comfortable.",
+    "pros": [
+      "Nice color"
+    ],
+    "cons": [
+      "Fabric quality poor",
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 18,
+      "total_votes": 29,
+      "helpfulness_ratio": 0.62
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-28 13:29:40.892794",
+    "created_at": "2026-02-28 13:29:40.892794",
+    "updated_at": "2026-02-28 13:29:40.892794"
+  },
+  {
+    "id": 32,
+    "product_id": 7,
+    "product_name": "StreetWear Dress",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Super cute denim dress, fits great!",
+    "comment": "I ordered this in blue and the color is exactly like the photos. The denim material is a bit thicker than I expected, which makes it feel high quality, but its still comfortable. The small fits perfectly on me. Only giving 4 stars because the zipper is a little stiff!",
+    "pros": [
+      "Good quality fabric",
+      "True to size",
+      "Nice color",
+      "Stylish design"
+    ],
+    "cons": [
+      "Runs small"
+    ],
+    "helpfulness": {
+      "helpful_votes": 80,
+      "total_votes": 100,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-11-25 03:27:52.291777",
+    "created_at": "2025-11-25 03:27:52.291777",
+    "updated_at": "2025-11-25 03:27:52.291777"
+  },
+  {
+    "id": 33,
+    "product_id": 7,
+    "product_name": "StreetWear Dress",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Super cute blue denim dress!",
+    "comment": "I ordered this in size S and the fit is actually perfect. The denim material is soft, not stiff at all, which I was worried about. Its the perfect casual piece for hanging out. Only giving 4 stars because shipping took a bit longer than expected, but the dress itself is great!",
+    "pros": [
+      "Stylish design",
+      "True to size",
+      "Nice color"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 85,
+      "total_votes": 103,
+      "helpfulness_ratio": 0.83
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-21 00:30:25.949043",
+    "created_at": "2026-07-21 00:30:25.949043",
+    "updated_at": "2026-07-21 00:30:25.949043"
+  },
+  {
+    "id": 34,
+    "product_id": 7,
+    "product_name": "StreetWear Dress",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 3,
+    "title": "Cute design but the fit is tricky",
+    "comment": "The blue denim material is actually really high quality and looks exactly like the photos. However, I ordered a size S and its a bit tighter than expected around the waist. Its super cute for a night out, but I might need to size up next time.",
+    "pros": [
+      "Stylish design"
+    ],
+    "cons": [
+      "Runs small",
+      "Fabric quality poor"
+    ],
+    "helpfulness": {
+      "helpful_votes": 25,
+      "total_votes": 31,
+      "helpfulness_ratio": 0.81
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-10-13 17:39:41.790694",
+    "created_at": "2025-10-13 17:39:41.790694",
+    "updated_at": "2025-10-13 17:39:41.790694"
+  },
+  {
+    "id": 35,
+    "product_id": 7,
+    "product_name": "StreetWear Dress",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 3,
+    "title": "Cute design but the fit is off",
+    "comment": "I love the blue denim material; its a really pretty shade and feels high quality. However, I ordered a size S and its much tighter than expected around the waist. It looks great with sneakers, but I might have should have sized up for a more comfortable fit.",
+    "pros": [
+      "Stylish design"
+    ],
+    "cons": [
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 88,
+      "total_votes": 90,
+      "helpfulness_ratio": 0.98
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-05 10:03:30.914860",
+    "created_at": "2026-05-05 10:03:30.914860",
+    "updated_at": "2026-05-05 10:03:30.914860"
+  },
+  {
+    "id": 36,
+    "product_id": 8,
+    "product_name": "FashionForward Jeans",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 2,
+    "title": "Disappointed with the fit and feel",
+    "comment": "I really wanted to love these navy jeans, but the XL feels much smaller than expected. Also, the polyester material is a bit scratchy and doesn't breathe well at all. They look nice in photos, but theyre just not comfortable enough for everyday wear.",
+    "pros": [
+      "Good quality fabric"
+    ],
+    "cons": [
+      "Color different than expected",
+      "Expensive",
+      "Runs small"
+    ],
+    "helpfulness": {
+      "helpful_votes": 22,
+      "total_votes": 29,
+      "helpfulness_ratio": 0.76
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-01-19 08:59:16.037046",
+    "created_at": "2026-01-19 08:59:16.037046",
+    "updated_at": "2026-01-19 08:59:16.037046"
+  },
+  {
+    "id": 37,
+    "product_id": 8,
+    "product_name": "FashionForward Jeans",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Best fit ever, absolutely love these!",
+    "comment": "I am obsessed with these navy jeans! Finding an XL that actually fits right can be such a struggle, but these are perfect. The polyester material feels so smooth and high-quality, not cheap at all. They are super comfortable for all-day wear. I'll definitely be ordering more colors!",
+    "pros": [
+      "Stylish design",
+      "Good quality fabric"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 10,
+      "total_votes": 20,
+      "helpfulness_ratio": 0.5
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-31 14:40:20.293386",
+    "created_at": "2025-10-31 14:40:20.293386",
+    "updated_at": "2025-10-31 14:40:20.293386"
+  },
+  {
+    "id": 38,
+    "product_id": 8,
+    "product_name": "FashionForward Jeans",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely love these navy jeans!",
+    "comment": "I am so obsessed with these! Finding an XL that actually fits perfectly is usually a struggle, but these are amazing. The navy color is gorgeous and the polyester material feels so smooth and high-quality. They are super comfortable for all-day wear. I'll definitely be ordering more!",
+    "pros": [
+      "Comfortable fit",
+      "True to size",
+      "Nice color",
+      "Good quality fabric"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 44,
+      "total_votes": 60,
+      "helpfulness_ratio": 0.73
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-24 17:54:45.615630",
+    "created_at": "2025-10-24 17:54:45.615630",
+    "updated_at": "2025-10-24 17:54:45.615630"
+  },
+  {
+    "id": 39,
+    "product_id": 8,
+    "product_name": "FashionForward Jeans",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Best fit and color I've found!",
+    "comment": "I am obsessed with these Navy jeans! Finding an XL that fits perfectly can be tricky, but these are so comfortable. The polyester material has the perfect amount of stretch and feels really high-quality. I've already worn them twice this week and gotten so many compliments!",
+    "pros": [
+      "Comfortable fit",
+      "Nice color",
+      "Stylish design",
+      "True to size"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 76,
+      "total_votes": 96,
+      "helpfulness_ratio": 0.79
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-04 22:13:46.838838",
+    "created_at": "2026-01-04 22:13:46.838838",
+    "updated_at": "2026-01-04 22:13:46.838838"
+  },
+  {
+    "id": 40,
+    "product_id": 8,
+    "product_name": "FashionForward Jeans",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with these navy jeans!",
+    "comment": "I am so happy with my XL purchase! The navy color is gorgeous and looks much more expensive than it actually was. Even though they're polyester, the material feels surprisingly soft and high-quality against my skin. They fit perfectly and Ive already received so many compliments! Highly recommend!",
+    "pros": [
+      "Comfortable fit",
+      "Stylish design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 40,
+      "total_votes": 42,
+      "helpfulness_ratio": 0.95
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-15 03:34:50.628372",
+    "created_at": "2026-07-15 03:34:50.628372",
+    "updated_at": "2026-07-15 03:34:50.628372"
+  },
+  {
+    "id": 41,
+    "product_id": 9,
+    "product_name": "FashionForward Boots",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Super stylish and very comfortable!",
+    "comment": "I ordered these in black, size 11, and they fit my regular width perfectly. The cotton blend material feels surprisingly durable for the price. They look great with jeans, though they took a day or two to break in. Overall, Im really happy with this purchase!",
+    "pros": [
+      "Nice color",
+      "True to size",
+      "Comfortable fit",
+      "Stylish design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 68,
+      "total_votes": 68,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-14 06:49:48.480830",
+    "created_at": "2025-09-14 06:49:48.480830",
+    "updated_at": "2025-09-14 06:49:48.480830"
+  },
+  {
+    "id": 42,
+    "product_id": 9,
+    "product_name": "FashionForward Boots",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Really stylish and great fit!",
+    "comment": "I ordered these in black, size 11, and they fit my regular width feet perfectly. The cotton blend material feels high quality and looks much more expensive than it was. They are super comfortable for all-day wear, though they took a day to break in slightly. Definitely happy with this purchase!",
+    "pros": [
+      "Nice color",
+      "Good quality fabric",
+      "Stylish design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 19,
+      "total_votes": 22,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-17 04:43:23.262064",
+    "created_at": "2026-02-17 04:43:23.262064",
+    "updated_at": "2026-02-17 04:43:23.262064"
+  },
+  {
+    "id": 43,
+    "product_id": 9,
+    "product_name": "FashionForward Boots",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 1,
+    "title": "Absolute waste of money, do not buy",
+    "comment": "I ordered these in size 11 black, but the fit is completely wrong. They are much narrower than a regular width and feel incredibly stiff. For a cotton blend, I expected more comfort, but they're just uncomfortable and look cheap in person. Total disappointment.",
+    "pros": [],
+    "cons": [
+      "Runs small",
+      "Expensive",
+      "Fabric quality poor"
+    ],
+    "helpfulness": {
+      "helpful_votes": 2,
+      "total_votes": 10,
+      "helpfulness_ratio": 0.2
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-02 17:00:42.304547",
+    "created_at": "2025-09-02 17:00:42.304547",
+    "updated_at": "2025-09-02 17:00:42.304547"
+  },
+  {
+    "id": 44,
+    "product_id": 9,
+    "product_name": "FashionForward Boots",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Great looking boots, very comfortable",
+    "comment": "I ordered these in black, size 11, and they fit my regular width perfectly. The cotton blend material feels surprisingly durable for the price. They look much more expensive than they actually are! Only giving 4 stars because they took a little while to break in, but overall I'm very happy.",
+    "pros": [
+      "Stylish design",
+      "Good quality fabric",
+      "Comfortable fit"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 12,
+      "total_votes": 19,
+      "helpfulness_ratio": 0.63
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-29 01:03:15.860729",
+    "created_at": "2025-09-29 01:03:15.860729",
+    "updated_at": "2025-09-29 01:03:15.860729"
+  },
+  {
+    "id": 45,
+    "product_id": 9,
+    "product_name": "FashionForward Boots",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 3,
+    "title": "Great look but sizing is a bit off",
+    "comment": "I ordered these in black, size 11, and they look exactly like the photos. The cotton blend material feels nice, but the regular width felt a little tight on my feet. They're stylish for everyday wear, but Im not sure if they'll hold up long-term.",
+    "pros": [
+      "True to size"
+    ],
+    "cons": [
+      "Color different than expected",
+      "Fabric quality poor"
+    ],
+    "helpfulness": {
+      "helpful_votes": 57,
+      "total_votes": 62,
+      "helpfulness_ratio": 0.92
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-31 11:53:59.890598",
+    "created_at": "2025-10-31 11:53:59.890598",
+    "updated_at": "2025-10-31 11:53:59.890598"
+  },
+  {
+    "id": 46,
+    "product_id": 10,
+    "product_name": "TrendSetter Sweater Elite",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Great color, love the denim texture!",
+    "comment": "I ordered the XL in red and it fits perfectly. The denim material is a bit thicker than I expected, but that makes it feel really high quality. Its super comfortable for casual outings. Only giving 4 stars because the red is slightly darker than the photo, but I still love it!",
+    "pros": [
+      "Stylish design",
+      "Comfortable fit"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 57,
+      "total_votes": 59,
+      "helpfulness_ratio": 0.97
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-12 01:11:49.228139",
+    "created_at": "2026-02-12 01:11:49.228139",
+    "updated_at": "2026-02-12 01:11:49.228139"
+  },
+  {
+    "id": 47,
+    "product_id": 10,
+    "product_name": "TrendSetter Sweater Elite",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this red denim!",
+    "comment": "I am in love! The red color is so vibrant and the XL fits perfectly without being too baggy. I was surprised by how soft the denim material is, but it feels really high quality. Its officially my new favorite piece for going out!",
+    "pros": [
+      "Nice color",
+      "True to size",
+      "Comfortable fit"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 72,
+      "total_votes": 81,
+      "helpfulness_ratio": 0.89
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-20 21:06:44.898698",
+    "created_at": "2026-06-20 21:06:44.898698",
+    "updated_at": "2026-06-20 21:06:44.898698"
+  },
+  {
+    "id": 48,
+    "product_id": 10,
+    "product_name": "TrendSetter Sweater Elite",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this red denim!",
+    "comment": "I am in love! The red color is so vibrant and the XL fits perfectly without being too baggy. I wasn't sure about a denim sweater, but the material is surprisingly soft and cozy. Its definitely my new favorite piece for going out! Highly recommend!",
+    "pros": [
+      "Good quality fabric",
+      "Nice color"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 83,
+      "total_votes": 93,
+      "helpfulness_ratio": 0.89
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-09 01:03:15.860729",
+    "created_at": "2025-10-09 01:03:15.860729",
+    "updated_at": "2025-10-09 01:03:15.860729"
+  },
+  {
+    "id": 49,
+    "product_id": 11,
+    "product_name": "ModernFit Hoodie",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 3,
+    "title": "Nice look but sizing is tricky",
+    "comment": "The gray color looks great and the cotton blend feels soft, but the Large runs a bit small for me. Its a bit tighter in the sleeves than I expected. Its a decent hoodie for the price, but I might need to size up next time.",
+    "pros": [
+      "Stylish design"
+    ],
+    "cons": [
+      "Expensive"
+    ],
+    "helpfulness": {
+      "helpful_votes": 19,
+      "total_votes": 25,
+      "helpfulness_ratio": 0.76
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-09 06:51:52.170024",
+    "created_at": "2026-04-09 06:51:52.170024",
+    "updated_at": "2026-04-09 06:51:52.170024"
+  },
+  {
+    "id": 50,
+    "product_id": 11,
+    "product_name": "ModernFit Hoodie",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Best hoodie I have ever owned!",
+    "comment": "Seriously obsessed with this gray hoodie! I ordered a Large and the fit is absolutely perfectnot too baggy but still super comfy. The cotton blend material feels so high-quality and soft against my skin. Ive already worn it three days in a row! Highly recommend this to everyone.",
+    "pros": [
+      "Good quality fabric",
+      "Comfortable fit"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 86,
+      "total_votes": 95,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-01 07:02:14.198189",
+    "created_at": "2026-05-01 07:02:14.198189",
+    "updated_at": "2026-05-01 07:02:14.198189"
+  },
+  {
+    "id": 51,
+    "product_id": 11,
+    "product_name": "ModernFit Hoodie",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this gray hoodie!",
+    "comment": "I ordered the Large in Gray and it fits like a dream. The cotton blend is so soft against my skin, not scratchy at all! Its the perfect weight for layering. Honestly, Ive already worn it three days in a row. Totally worth every penny!",
+    "pros": [
+      "Good quality fabric",
+      "Comfortable fit",
+      "True to size",
+      "Nice color"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 90,
+      "total_votes": 100,
+      "helpfulness_ratio": 0.9
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-10-04 05:28:10.322809",
+    "created_at": "2025-10-04 05:28:10.322809",
+    "updated_at": "2025-10-04 05:28:10.322809"
+  },
+  {
+    "id": 52,
+    "product_id": 11,
+    "product_name": "ModernFit Hoodie",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Seriously the best hoodie I own!",
+    "comment": "I ordered this in gray, size Large, and it fits like a dream! The cotton blend material is so soft against my skin and feels much higher quality than I expected. Its become my new daily go-to for lounging and running errands. Honestly, I'm obsessed!",
+    "pros": [
+      "Good quality fabric",
+      "Nice color"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 99,
+      "total_votes": 105,
+      "helpfulness_ratio": 0.94
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-12 21:06:44.898698",
+    "created_at": "2026-07-12 21:06:44.898698",
+    "updated_at": "2026-07-12 21:06:44.898698"
+  },
+  {
+    "id": 53,
+    "product_id": 11,
+    "product_name": "ModernFit Hoodie",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely love this hoodie, perfect fit!",
+    "comment": "I ordered the Gray in size Large and it is perfection! The cotton blend material feels so soft against my skin and isn't too heavy. It fits exactly how I wanted, not too baggy but still super comfy. Honestly, Im already thinking about ordering it in another color!",
+    "pros": [
+      "Comfortable fit",
+      "Stylish design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 68,
+      "total_votes": 87,
+      "helpfulness_ratio": 0.78
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-05 03:05:11.691388",
+    "created_at": "2026-06-05 03:05:11.691388",
+    "updated_at": "2026-06-05 03:05:11.691388"
+  },
+  {
+    "id": 54,
+    "product_id": 12,
+    "product_name": "StyleCraft Dress",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Cute color but sizing is tricky",
+    "comment": "The black looks great and the polyester material is nice and lightweight for summer. However, I ordered the XXL and its a bit tighter in the bust than I expected. It's a cute dress, but definitely consider sizing up if you want a looser fit.",
+    "pros": [
+      "Comfortable fit",
+      "Stylish design"
+    ],
+    "cons": [
+      "Fabric quality poor",
+      "Color different than expected"
+    ],
+    "helpfulness": {
+      "helpful_votes": 82,
+      "total_votes": 88,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-12 21:07:21.133737",
+    "created_at": "2026-07-12 21:07:21.133737",
+    "updated_at": "2026-07-12 21:07:21.133737"
+  },
+  {
+    "id": 55,
+    "product_id": 12,
+    "product_name": "StyleCraft Dress",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this black dress!",
+    "comment": "I am so happy with my purchase! Finding a perfect XXL can be tricky, but this fits like a dream. The black color is so sleek, and even though it's polyester, the material feels high-quality and not cheap at all. I felt so confident wearing it last night!",
+    "pros": [
+      "Stylish design",
+      "Comfortable fit",
+      "Good quality fabric",
+      "True to size"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 55,
+      "total_votes": 57,
+      "helpfulness_ratio": 0.96
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-05-09 03:05:11.691388",
+    "created_at": "2026-05-09 03:05:11.691388",
+    "updated_at": "2026-05-09 03:05:11.691388"
+  },
+  {
+    "id": 56,
+    "product_id": 12,
+    "product_name": "StyleCraft Dress",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 3,
+    "title": "Nice color but fit is a bit weird",
+    "comment": "The black color looks exactly like the photos, and the polyester fabric is lightweight for summer. However, I ordered an XXL and it felt a bit boxy in the waist. Its decent for the price, but I wasn't sure if it was meant to be this oversized.",
+    "pros": [
+      "Comfortable fit"
+    ],
+    "cons": [
+      "Color different than expected"
+    ],
+    "helpfulness": {
+      "helpful_votes": 7,
+      "total_votes": 16,
+      "helpfulness_ratio": 0.44
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-11 03:27:52.291777",
+    "created_at": "2025-12-11 03:27:52.291777",
+    "updated_at": "2025-12-11 03:27:52.291777"
+  },
+  {
+    "id": 57,
+    "product_id": 12,
+    "product_name": "StyleCraft Dress",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Beautiful dress, great fit for curves!",
+    "comment": "I ordered this in black, size XXL, and it fits perfectly. The polyester material is surprisingly soft and hasn't wrinkled much so far. Its very flattering on my figure! I only gave it 4 stars because the fabric is a bit thinner than I expected, but it's still a great purchase.",
+    "pros": [
+      "Comfortable fit",
+      "True to size"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 81,
+      "total_votes": 81,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-26 07:31:25.857547",
+    "created_at": "2026-03-26 07:31:25.857547",
+    "updated_at": "2026-03-26 07:31:25.857547"
+  },
+  {
+    "id": 58,
+    "product_id": 12,
+    "product_name": "StyleCraft Dress",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Super cute and fits perfectly!",
+    "comment": "I ordered this in black, size XXL, and the fit is actually really flattering. The polyester material is lightweight and hasn't wrinkled much so far, which is a huge plus for me. Its not super thick, but it's perfect for a night out. Really happy with this purchase!",
+    "pros": [
+      "Good quality fabric",
+      "Stylish design",
+      "Comfortable fit"
+    ],
+    "cons": [
+      "Runs small"
+    ],
+    "helpfulness": {
+      "helpful_votes": 76,
+      "total_votes": 89,
+      "helpfulness_ratio": 0.85
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-15 06:42:31.875859",
+    "created_at": "2025-10-15 06:42:31.875859",
+    "updated_at": "2025-10-15 06:42:31.875859"
+  },
+  {
+    "id": 59,
+    "product_id": 13,
+    "product_name": "KnowledgeHub Programming Guide",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Great concise guide for beginners",
+    "comment": "Im really happy with this paperback. At 178 pages, it isn't overwhelming and is perfect for a quick study session. The English is clear and easy to follow, making complex concepts much simpler. It's a bit thin, but it's exactly the focused refresher I needed!",
+    "pros": [
+      "Engaging content",
+      "Informative",
+      "Easy to read",
+      "Good research"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 85,
+      "total_votes": 93,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-29 12:07:34.685410",
+    "created_at": "2026-01-29 12:07:34.685410",
+    "updated_at": "2026-01-29 12:07:34.685410"
+  },
+  {
+    "id": 60,
+    "product_id": 13,
+    "product_name": "KnowledgeHub Programming Guide",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great concise guide for beginners",
+    "comment": "I was surprised by how much info is packed into 178 pages. Its not an overwhelming textbook, just a solid, practical guide that fits easily on my desk. The paperback quality is good too. Its not a deep dive, but definitely worth it for a quick refresher!",
+    "pros": [
+      "Easy to read",
+      "Good research",
+      "Engaging content",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 32,
+      "total_votes": 40,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-12 19:51:15.700913",
+    "created_at": "2026-04-12 19:51:15.700913",
+    "updated_at": "2026-04-12 19:51:15.700913"
+  },
+  {
+    "id": 61,
+    "product_id": 13,
+    "product_name": "KnowledgeHub Programming Guide",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely perfect for absolute beginners!",
+    "comment": "I was so nervous about learning to code, but this paperback is a lifesaver! Even though its only 178 pages, it covers everything I needed without being overwhelming. The English is super easy to follow and the layout is great. Honestly, its become my favorite desk companion!",
+    "pros": [
+      "Informative",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 25,
+      "total_votes": 43,
+      "helpfulness_ratio": 0.58
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-09-15 19:00:27.935972",
+    "created_at": "2025-09-15 19:00:27.935972",
+    "updated_at": "2025-09-15 19:00:27.935972"
+  },
+  {
+    "id": 62,
+    "product_id": 13,
+    "product_name": "KnowledgeHub Programming Guide",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Great concise guide for beginners",
+    "comment": "I was looking for something not too overwhelming, and this 178-page paperback is perfect. Its easy to carry around in my bag and gets straight to the point without unnecessary fluff. The English is clear and easy to follow. Only docking one star because I wish it had a few more advanced exercises!",
+    "pros": [
+      "Good research",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 20,
+      "total_votes": 20,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-24 07:02:14.198189",
+    "created_at": "2026-03-24 07:02:14.198189",
+    "updated_at": "2026-03-24 07:02:14.198189"
+  },
+  {
+    "id": 63,
+    "product_id": 13,
+    "product_name": "KnowledgeHub Programming Guide",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 3,
+    "title": "Decent guide but a bit thin",
+    "comment": "The content is actually quite good for beginners, but I was surprised by how short it is. At only 178 pages, it feels more like a quick primer than a deep dive. It's a decent paperback to have on your desk, but I expected more depth for the price.",
+    "pros": [
+      "Easy to read"
+    ],
+    "cons": [
+      "Poor editing"
+    ],
+    "helpfulness": {
+      "helpful_votes": 10,
+      "total_votes": 30,
+      "helpfulness_ratio": 0.33
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-19 08:21:02.785636",
+    "created_at": "2026-04-19 08:21:02.785636",
+    "updated_at": "2026-04-19 08:21:02.785636"
+  },
+  {
+    "id": 64,
+    "product_id": 14,
+    "product_name": "InsightPublishing Biography",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely gripping read, couldn't put it down!",
+    "comment": "I just finished this and wow! The 291 pages flew by because the story is so engaging. The paperback quality is great tooit's easy to hold while reading in bed. If you love a deep, moving life story, you definitely need this one in your collection!",
+    "pros": [
+      "Good research",
+      "Informative",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 12,
+      "total_votes": 21,
+      "helpfulness_ratio": 0.57
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-26 02:12:30.440356",
+    "created_at": "2026-03-26 02:12:30.440356",
+    "updated_at": "2026-03-26 02:12:30.440356"
+  },
+  {
+    "id": 65,
+    "product_id": 15,
+    "product_name": "ClearPath Novel",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 3,
+    "title": "Interesting concept but a bit slow",
+    "comment": "The story started strong, but at 562 pages, it felt like it dragged toward the middle. The paperback quality is decent for the price, though some pages arrived slightly bent. Its a good read if you have time to settle in, but it wasn't exactly a page-turner for me.",
+    "pros": [
+      "Well written"
+    ],
+    "cons": [
+      "Too technical",
+      "Outdated information"
+    ],
+    "helpfulness": {
+      "helpful_votes": 85,
+      "total_votes": 103,
+      "helpfulness_ratio": 0.83
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-18 03:27:52.291777",
+    "created_at": "2025-11-18 03:27:52.291777",
+    "updated_at": "2025-11-18 03:27:52.291777"
+  },
+  {
+    "id": 66,
+    "product_id": 15,
+    "product_name": "ClearPath Novel",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely couldn't put this book down!",
+    "comment": "I finished all 562 pages in just two days! The paperback feels high-quality and was so easy to carry around. I am obsessed with the plotI stayed up way too late reading it, but it was totally worth it. Honestly, a must-read for everyone!",
+    "pros": [
+      "Well written",
+      "Engaging content"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 32,
+      "total_votes": 47,
+      "helpfulness_ratio": 0.68
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-13 01:40:16.944800",
+    "created_at": "2026-07-13 01:40:16.944800",
+    "updated_at": "2026-07-13 01:40:16.944800"
+  },
+  {
+    "id": 67,
+    "product_id": 15,
+    "product_name": "ClearPath Novel",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely couldn't put this book down!",
+    "comment": "I finished all 562 pages in just two sittings! The paperback quality is greatit's easy to hold while reading in bed. I honestly haven't been this gripped by a story in ages. If you love an immersive novel, definitely grab this one!",
+    "pros": [
+      "Good research",
+      "Engaging content",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 78,
+      "total_votes": 95,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-03-19 07:02:14.198189",
+    "created_at": "2026-03-19 07:02:14.198189",
+    "updated_at": "2026-03-19 07:02:14.198189"
+  },
+  {
+    "id": 68,
+    "product_id": 15,
+    "product_name": "ClearPath Novel",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 2,
+    "title": "Great concept but the pacing dragged",
+    "comment": "I really wanted to love this. The story is intriguing, but with 562 pages, it felt like it dragged on way too long in the middle. The paperback quality is decent, but the pacing made it hard to stay invested. Its a decent read, just not quite life-changing.",
+    "pros": [],
+    "cons": [
+      "Poor editing",
+      "Boring content",
+      "Too technical"
+    ],
+    "helpfulness": {
+      "helpful_votes": 63,
+      "total_votes": 66,
+      "helpfulness_ratio": 0.95
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-06 17:00:42.304547",
+    "created_at": "2025-09-06 17:00:42.304547",
+    "updated_at": "2025-09-06 17:00:42.304547"
+  },
+  {
+    "id": 69,
+    "product_id": 15,
+    "product_name": "ClearPath Novel",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 2,
+    "title": "Great concept, but the pacing dragged",
+    "comment": "I really wanted to love this. The story is interesting, but with 562 pages, it felt way too long for the plot. I found myself skimming toward the end just to finish. Its a decent read, but definitely not worth the thick paperback weight.",
+    "pros": [
+      "Good research"
+    ],
+    "cons": [
+      "Too technical",
+      "Boring content",
+      "Outdated information"
+    ],
+    "helpfulness": {
+      "helpful_votes": 8,
+      "total_votes": 23,
+      "helpfulness_ratio": 0.35
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-10-05 13:37:37.488262",
+    "created_at": "2025-10-05 13:37:37.488262",
+    "updated_at": "2025-10-05 13:37:37.488262"
+  },
+  {
+    "id": 70,
+    "product_id": 16,
+    "product_name": "ThoughtWorks History",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely stunning hardcover, worth every penny!",
+    "comment": "I am obsessed with this book! The hardcover quality feels so premium and it's a beautiful addition to my bookshelf. Even with 554 pages, the reading flow was incredible. I couldn't put it down once I started. If you love deep dives into history, you need this in your collection!",
+    "pros": [
+      "Good research",
+      "Engaging content",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 2,
+      "total_votes": 7,
+      "helpfulness_ratio": 0.29
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-26 08:19:15.686869",
+    "created_at": "2026-02-26 08:19:15.686869",
+    "updated_at": "2026-02-26 08:19:15.686869"
+  },
+  {
+    "id": 71,
+    "product_id": 16,
+    "product_name": "ThoughtWorks History",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely stunning hardcover masterpiece!",
+    "comment": "I am obsessed with this book! The 554 pages are packed with such fascinating details, and the hardcover feels so premium in my hands. It arrived in perfect condition and looks beautiful on my shelf. If you love deep historical dives, you definitely need this in your collection!",
+    "pros": [
+      "Engaging content",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 9,
+      "total_votes": 29,
+      "helpfulness_ratio": 0.31
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-04 12:55:12.589763",
+    "created_at": "2026-08-04 12:55:12.589763",
+    "updated_at": "2026-08-04 12:55:12.589763"
+  },
+  {
+    "id": 72,
+    "product_id": 16,
+    "product_name": "ThoughtWorks History",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great hardcover edition, very comprehensive read",
+    "comment": "Im really enjoying this. The hardcover feels high-quality and looks great on my shelf. At 554 pages, its a deep dive but very engaging. It took me a few days to get through the first chapter, but it's definitely worth the read for anyone interested in history.",
+    "pros": [
+      "Engaging content",
+      "Informative"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 22,
+      "total_votes": 38,
+      "helpfulness_ratio": 0.58
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-07 08:48:16.377844",
+    "created_at": "2025-10-07 08:48:16.377844",
+    "updated_at": "2025-10-07 08:48:16.377844"
+  },
+  {
+    "id": 73,
+    "product_id": 16,
+    "product_name": "ThoughtWorks History",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 2,
+    "title": "Interesting topic but very difficult read",
+    "comment": "I really wanted to love this hardcover. The subject matter is fascinating, but at 554 pages, it feels incredibly repetitive in places. I found myself skimming just to get through certain chapters. Its a solid book, but the pacing made it much harder to finish than I expected.",
+    "pros": [
+      "Good research"
+    ],
+    "cons": [
+      "Outdated information",
+      "Boring content",
+      "Too technical"
+    ],
+    "helpfulness": {
+      "helpful_votes": 45,
+      "total_votes": 46,
+      "helpfulness_ratio": 0.98
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-23 00:31:50.497539",
+    "created_at": "2025-10-23 00:31:50.497539",
+    "updated_at": "2025-10-23 00:31:50.497539"
+  },
+  {
+    "id": 74,
+    "product_id": 16,
+    "product_name": "ThoughtWorks History",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Great content but a bit heavy",
+    "comment": "The hardcover quality feels premium and the 554 pages are packed with interesting detail. However, its a lot to digest in one sitting and feels a bit bulky to carry around. I enjoyed the writing, but it took me much longer to finish than I originally expected.",
+    "pros": [
+      "Well written",
+      "Easy to read"
+    ],
+    "cons": [
+      "Outdated information",
+      "Boring content"
+    ],
+    "helpfulness": {
+      "helpful_votes": 39,
+      "total_votes": 39,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-14 00:25:57.036629",
+    "created_at": "2026-01-14 00:25:57.036629",
+    "updated_at": "2026-01-14 00:25:57.036629"
+  },
+  {
+    "id": 75,
+    "product_id": 17,
+    "product_name": "LearningPress Mystery Pro",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolute masterpiece! Best purchase this year!",
+    "comment": "I am obsessed with this hardcover! Its a massive 781 pages, but I finished it in two sittings because the writing is so gripping. The quality of the binding is amazing for a book this thick. If you love deep, complex mysteries, you need this on your shelf immediately!",
+    "pros": [
+      "Well written",
+      "Good research"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 39,
+      "total_votes": 54,
+      "helpfulness_ratio": 0.72
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-21 17:13:10.872517",
+    "created_at": "2026-06-21 17:13:10.872517",
+    "updated_at": "2026-06-21 17:13:10.872517"
+  },
+  {
+    "id": 76,
+    "product_id": 17,
+    "product_name": "LearningPress Mystery Pro",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this massive masterpiece!",
+    "comment": "I couldn't put this down! The hardcover feels so premium and sturdy, which is great because at 781 pages, it's a serious commitment. The English prose is beautiful and kept me hooked until the very last chapter. If you love deep, immersive reads, you need this on your shelf!",
+    "pros": [
+      "Informative",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 6,
+      "total_votes": 14,
+      "helpfulness_ratio": 0.43
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-26 15:53:33.395435",
+    "created_at": "2025-11-26 15:53:33.395435",
+    "updated_at": "2025-11-26 15:53:33.395435"
+  },
+  {
+    "id": 77,
+    "product_id": 17,
+    "product_name": "LearningPress Mystery Pro",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this massive masterpiece!",
+    "comment": "I honestly can't put this down! The hardcover feels so premium in my hands, and with 781 pages, I have plenty of reading ahead of me. The English is so engaging and the plot twists are wild. Its heavy, but totally worth it! Best purchase ever!",
+    "pros": [
+      "Informative",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 67,
+      "total_votes": 83,
+      "helpfulness_ratio": 0.81
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-12 19:54:49.999059",
+    "created_at": "2025-12-12 19:54:49.999059",
+    "updated_at": "2025-12-12 19:54:49.999059"
+  },
+  {
+    "id": 78,
+    "product_id": 17,
+    "product_name": "LearningPress Mystery Pro",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this massive tome!",
+    "comment": "I couldn't put this down! The hardcover feels so premium and sturdy, which is great because at 781 pages, its definitely a heavy read. The English translation is perfect and the storytelling kept me hooked until the very last page. Highly recommend for anyone looking for a deep dive!",
+    "pros": [
+      "Well written",
+      "Engaging content",
+      "Good research"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 2,
+      "total_votes": 19,
+      "helpfulness_ratio": 0.11
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-12 10:31:38.328461",
+    "created_at": "2026-03-12 10:31:38.328461",
+    "updated_at": "2026-03-12 10:31:38.328461"
+  },
+  {
+    "id": 79,
+    "product_id": 17,
+    "product_name": "LearningPress Mystery Pro",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this massive tome!",
+    "comment": "I am blown away by the quality of this hardcover! At 781 pages, its a total beast but so easy to get lost in. I couldn't put it down all weekend. If you love deep, immersive stories, you need this in your collection right now!",
+    "pros": [
+      "Easy to read",
+      "Good research",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 99,
+      "total_votes": 105,
+      "helpfulness_ratio": 0.94
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-09 20:02:43.261580",
+    "created_at": "2026-06-09 20:02:43.261580",
+    "updated_at": "2026-06-09 20:02:43.261580"
+  },
+  {
+    "id": 80,
+    "product_id": 18,
+    "product_name": "ScholarPress Mystery",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Beautiful hardcover, great weekend read!",
+    "comment": "I bought this on a whim and loved it. The hardcover feels really high-quality and looks great on my shelf. At 193 pages, it was the perfect length for a quick weekend read without being too long. The writing is engaging and kept me hooked until the very end!",
+    "pros": [
+      "Informative",
+      "Good research",
+      "Engaging content"
+    ],
+    "cons": [
+      "Poor editing"
+    ],
+    "helpfulness": {
+      "helpful_votes": 90,
+      "total_votes": 102,
+      "helpfulness_ratio": 0.88
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-13 18:48:37.890525",
+    "created_at": "2025-12-13 18:48:37.890525",
+    "updated_at": "2025-12-13 18:48:37.890525"
+  },
+  {
+    "id": 81,
+    "product_id": 18,
+    "product_name": "ScholarPress Mystery",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this mystery!",
+    "comment": "I couldn't put this down! The hardcover feels so premium in my hands, and at 193 pages, it was the perfect length for a weekend binge. I finished it in one sitting! If you love fast-paced English thrillers, you definitely need to grab this. So good!",
+    "pros": [
+      "Easy to read",
+      "Engaging content",
+      "Well written"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 55,
+      "total_votes": 63,
+      "helpfulness_ratio": 0.87
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-02-21 17:44:57.066240",
+    "created_at": "2026-02-21 17:44:57.066240",
+    "updated_at": "2026-02-21 17:44:57.066240"
+  },
+  {
+    "id": 82,
+    "product_id": 18,
+    "product_name": "ScholarPress Mystery",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely gripping from the first page!",
+    "comment": "I couldn't put this down! The hardcover feels so premium in my hands, and at 193 pages, it was the perfect length for a weekend binge. The plot twists kept me guessing until the very end. If you love a fast-paced mystery, you definitely need this one!",
+    "pros": [
+      "Easy to read",
+      "Well written",
+      "Engaging content",
+      "Good research"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 91,
+      "total_votes": 100,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-15 06:38:03.119298",
+    "created_at": "2025-12-15 06:38:03.119298",
+    "updated_at": "2025-12-15 06:38:03.119298"
+  },
+  {
+    "id": 83,
+    "product_id": 18,
+    "product_name": "ScholarPress Mystery",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this gorgeous book!",
+    "comment": "I just finished reading this and wow! The hardcover feels so premium and looks beautiful on my shelf. Even with 193 pages, the pacing was perfectI couldn't put it down! Im so glad I picked this up; it was the perfect weekend read. Highly recommend!",
+    "pros": [
+      "Informative",
+      "Engaging content",
+      "Easy to read"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 77,
+      "total_votes": 77,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-30 12:55:12.589763",
+    "created_at": "2026-08-30 12:55:12.589763",
+    "updated_at": "2026-08-30 12:55:12.589763"
+  },
+  {
+    "id": 84,
+    "product_id": 18,
+    "product_name": "ScholarPress Mystery",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this gorgeous book!",
+    "comment": "I am so in love! The hardcover feels so high-quality and sturdy in my hands. Even though its a quick 193-page read, the story kept me hooked until the very last page. It looks stunning on my bookshelf too. If you're looking for a great new mystery, grab this!",
+    "pros": [
+      "Engaging content",
+      "Easy to read",
+      "Well written",
+      "Good research"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 43,
+      "total_votes": 47,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-30 00:09:49.480291",
+    "created_at": "2026-06-30 00:09:49.480291",
+    "updated_at": "2026-06-30 00:09:49.480291"
+  },
+  {
+    "id": 85,
+    "product_id": 19,
+    "product_name": "HomeEssentials Coffee Maker Pro",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Best purchase for our busy mornings!",
+    "comment": "I am obsessed with this coffee maker! The 12-cup capacity is a total lifesaver for our family; I love that I can make one big pot and it lasts all morning. It brews so much faster than my old machine, too. Honestly, it's perfect!",
+    "pros": [
+      "Durable",
+      "Good quality",
+      "Good design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 26,
+      "total_votes": 34,
+      "helpfulness_ratio": 0.76
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-11 03:05:11.691388",
+    "created_at": "2026-05-11 03:05:11.691388",
+    "updated_at": "2026-05-11 03:05:11.691388"
+  },
+  {
+    "id": 86,
+    "product_id": 19,
+    "product_name": "HomeEssentials Coffee Maker Pro",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Great for busy mornings at home",
+    "comment": "I love that the 12-cup capacity is enough for my whole family without constant refills. It brews quickly and the drip is very consistent. My only tiny complaint is that it's a bit loud when brewing, but the coffee tastes great so I can live with it!",
+    "pros": [
+      "Durable",
+      "Good quality",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 2,
+      "total_votes": 18,
+      "helpfulness_ratio": 0.11
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-22 17:36:27.313739",
+    "created_at": "2025-10-22 17:36:27.313739",
+    "updated_at": "2025-10-22 17:36:27.313739"
+  },
+  {
+    "id": 87,
+    "product_id": 19,
+    "product_name": "HomeEssentials Coffee Maker Pro",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Best decision for my busy mornings!",
+    "comment": "I am obsessed with this brewer! The 12-cup capacity is a lifesaver for hosting brunch, and it brews so much faster than my old machine. Its super easy to use and makes a delicious, hot pot of coffee every single time. Honestly, it's been a total game changer!",
+    "pros": [
+      "Works as expected",
+      "Good design",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 34,
+      "total_votes": 40,
+      "helpfulness_ratio": 0.85
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-03 07:15:39.204039",
+    "created_at": "2026-04-03 07:15:39.204039",
+    "updated_at": "2026-04-03 07:15:39.204039"
+  },
+  {
+    "id": 88,
+    "product_id": 19,
+    "product_name": "HomeEssentials Coffee Maker Pro",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "The absolute best addition to my kitchen!",
+    "comment": "I am obsessed with this coffee maker! The 12-cup capacity is a total lifesaver for our busy morningsno more making multiple batches. It brews so much faster than my old machine and the coffee tastes incredibly smooth every single time. Honestly, its been a total game changer for us!",
+    "pros": [
+      "Good quality",
+      "Works as expected",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 59,
+      "total_votes": 71,
+      "helpfulness_ratio": 0.83
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-02-27 18:41:58.605720",
+    "created_at": "2026-02-27 18:41:58.605720",
+    "updated_at": "2026-02-27 18:41:58.605720"
+  },
+  {
+    "id": 89,
+    "product_id": 19,
+    "product_name": "HomeEssentials Coffee Maker Pro",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Best purchase for my busy mornings!",
+    "comment": "I am obsessed with this coffee maker! The 12-cup capacity is a total lifesaver for my family since we don't have to brew multiple batches. Its so easy to use and makes a perfect, delicious pot every single time. Honestly, it has completely upgraded my morning routine!",
+    "pros": [
+      "Good design",
+      "Durable",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 17,
+      "total_votes": 26,
+      "helpfulness_ratio": 0.65
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-01 07:02:14.198189",
+    "created_at": "2026-05-01 07:02:14.198189",
+    "updated_at": "2026-05-01 07:02:14.198189"
+  },
+  {
+    "id": 90,
+    "product_id": 20,
+    "product_name": "HomeStyle Kitchen Utensils Elite",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolute game changer for my kitchen!",
+    "comment": "I am obsessed with this set! The silicone heads are so sturdy but don't scratch my pans, and the wooden handles look stunning on my counter. Everything feels high-quality and well-balanced in my hand. Cooking has actually become more fun lately. Truly worth every single penny!",
+    "pros": [
+      "Good quality",
+      "Works as expected",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 38,
+      "total_votes": 44,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-08-08 14:28:40.967320",
+    "created_at": "2026-08-08 14:28:40.967320",
+    "updated_at": "2026-08-08 14:28:40.967320"
+  },
+  {
+    "id": 91,
+    "product_id": 20,
+    "product_name": "HomeStyle Kitchen Utensils Elite",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this set!",
+    "comment": "I am so impressed with these! The silicone heads are super durable and don't scratch my pans, and the wooden handles feel so premium in my hand. They look stunning sitting on my counter too. Honestly, they've made meal prep so much more fun. Highly recommend!",
+    "pros": [
+      "Good design",
+      "Durable",
+      "Easy to install",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 11,
+      "total_votes": 14,
+      "helpfulness_ratio": 0.79
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-10 11:25:21.863132",
+    "created_at": "2026-04-10 11:25:21.863132",
+    "updated_at": "2026-04-10 11:25:21.863132"
+  },
+  {
+    "id": 92,
+    "product_id": 20,
+    "product_name": "HomeStyle Kitchen Utensils Elite",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely love these! Total game changer.",
+    "comment": "I am obsessed with this set! The silicone heads are so high quality and don't scratch my pans at all. They feel heavy and expensive in my hand, not cheap like my old set. Cooking has actually become way more fun lately. Highly recommend to everyone!",
+    "pros": [
+      "Works as expected",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 41,
+      "total_votes": 51,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-13 13:18:03.902647",
+    "created_at": "2026-02-13 13:18:03.902647",
+    "updated_at": "2026-02-13 13:18:03.902647"
+  },
+  {
+    "id": 93,
+    "product_id": 20,
+    "product_name": "HomeStyle Kitchen Utensils Elite",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this set!",
+    "comment": "I am so impressed! The silicone heads are super durable and don't scratch my pans at all. They feel high-quality and heavy in the hand, not cheap like my old set. Everything looks so chic on my counter too. Honestly, best kitchen upgrade I've made in ages!",
+    "pros": [
+      "Easy to install",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 80,
+      "total_votes": 81,
+      "helpfulness_ratio": 0.99
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-01 08:37:17.825070",
+    "created_at": "2026-04-01 08:37:17.825070",
+    "updated_at": "2026-04-01 08:37:17.825070"
+  },
+  {
+    "id": 94,
+    "product_id": 20,
+    "product_name": "HomeStyle Kitchen Utensils Elite",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Great upgrade for my kitchen setup",
+    "comment": "These utensils feel really high-quality and the silicone heads don't scratch my pans. The wooden handles look beautiful on my counter, too. I docked one star because the large slotted spoon is a bit longer than expected, but they still work perfectly for daily cooking!",
+    "pros": [
+      "Easy to install",
+      "Works as expected",
+      "Good quality"
+    ],
+    "cons": [
+      "Instructions unclear"
+    ],
+    "helpfulness": {
+      "helpful_votes": 16,
+      "total_votes": 16,
+      "helpfulness_ratio": 1.0
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-19 21:06:44.898698",
+    "created_at": "2026-08-19 21:06:44.898698",
+    "updated_at": "2026-08-19 21:06:44.898698"
+  },
+  {
+    "id": 95,
+    "product_id": 21,
+    "product_name": "HomeStyle Garden Tools",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely perfect for my backyard garden!",
+    "comment": "I am obsessed with this set! The ergonomic handles make weeding so much easier on my wrists, and the trowel is incredibly sturdy. Ive used them every single day this week and they still look brand new. Seriously, if you love gardening, you need these in your life!",
+    "pros": [
+      "Durable",
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 13,
+      "total_votes": 25,
+      "helpfulness_ratio": 0.52
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-27 21:06:44.898698",
+    "created_at": "2026-07-27 21:06:44.898698",
+    "updated_at": "2026-07-27 21:06:44.898698"
+  },
+  {
+    "id": 96,
+    "product_id": 21,
+    "product_name": "HomeStyle Garden Tools",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely perfect for my flower beds!",
+    "comment": "I am obsessed with this set! The ergonomic handles make digging so much easier on my wrists, and the stainless steel trowel is super sturdy. I spent all morning in the garden and didn't feel tired at all. These tools are definitely worth every penny!",
+    "pros": [
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 48,
+      "total_votes": 52,
+      "helpfulness_ratio": 0.92
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-16 10:03:30.914860",
+    "created_at": "2026-06-16 10:03:30.914860",
+    "updated_at": "2026-06-16 10:03:30.914860"
+  },
+  {
+    "id": 97,
+    "product_id": 21,
+    "product_name": "HomeStyle Garden Tools",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Great quality tools for my backyard",
+    "comment": "Im really happy with this set. The hand trowel is super sturdy and didn't bend when I hit some rocky soil. The handles are comfortable to hold, too. My only tiny complaint is the trowel is a bit heavy, but overall it's a great value for the price!",
+    "pros": [
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [
+      "Overpriced"
+    ],
+    "helpfulness": {
+      "helpful_votes": 95,
+      "total_votes": 110,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-13 07:02:14.198189",
+    "created_at": "2026-06-13 07:02:14.198189",
+    "updated_at": "2026-06-13 07:02:14.198189"
+  },
+  {
+    "id": 98,
+    "product_id": 21,
+    "product_name": "HomeStyle Garden Tools",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great tools for my backyard garden",
+    "comment": "Im really happy with this set. The hand trowel and weeding tool feel very sturdy in my hands, not flimsy like others I've bought. The grips are comfortable even after an hour of digging. Only docking one star because the wooden handles could be a bit smoother, but overall, great value!",
+    "pros": [
+      "Good quality",
+      "Works as expected",
+      "Good design",
+      "Easy to install"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 25,
+      "total_votes": 39,
+      "helpfulness_ratio": 0.64
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-26 02:01:26.593828",
+    "created_at": "2026-01-26 02:01:26.593828",
+    "updated_at": "2026-01-26 02:01:26.593828"
+  },
+  {
+    "id": 99,
+    "product_id": 21,
+    "product_name": "HomeStyle Garden Tools",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolute game changer for my backyard!",
+    "comment": "I am obsessed with this set! The ergonomic handles make digging so much easier on my wrists, and the stainless steel trowel is super sturdy. I spent all morning weeding my flower beds and didn't get tired once. If you love gardening, you definitely need these!",
+    "pros": [
+      "Works as expected",
+      "Good quality",
+      "Easy to install",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 47,
+      "total_votes": 59,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-12-30 05:38:09.090583",
+    "created_at": "2025-12-30 05:38:09.090583",
+    "updated_at": "2025-12-30 05:38:09.090583"
+  },
+  {
+    "id": 100,
+    "product_id": 22,
+    "product_name": "HomeEssentials Furniture",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Great quality but assembly took time",
+    "comment": "Im really happy with this coffee table! The wood grain looks much more expensive in person than it did online. Its very sturdy, though the instructions were a bit tricky to follow. Once it was put together, it fit perfectly in my living room. Definitely worth the price!",
+    "pros": [
+      "Easy to install",
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [
+      "Overpriced"
+    ],
+    "helpfulness": {
+      "helpful_votes": 48,
+      "total_votes": 58,
+      "helpfulness_ratio": 0.83
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-14 11:31:35.289546",
+    "created_at": "2026-01-14 11:31:35.289546",
+    "updated_at": "2026-01-14 11:31:35.289546"
+  },
+  {
+    "id": 101,
+    "product_id": 22,
+    "product_name": "HomeEssentials Furniture",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Great quality table, just tricky assembly",
+    "comment": "We bought the oak dining table and it looks much more expensive in person. The wood finish is beautiful! Assembly took a bit longer than expected because the instructions were slightly vague, but once it was all put together, it felt very sturdy. Overall, we are really happy with it.",
+    "pros": [
+      "Good design",
+      "Easy to install",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 24,
+      "total_votes": 30,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-20 08:21:02.785636",
+    "created_at": "2026-04-20 08:21:02.785636",
+    "updated_at": "2026-04-20 08:21:02.785636"
+  },
+  {
+    "id": 102,
+    "product_id": 22,
+    "product_name": "HomeEssentials Furniture",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great looking desk, assembly was a bit tricky",
+    "comment": "I love how this desk looks in my small home office! The wood finish is much nicer in person than in the photos. Assembly took a little longer than expected because of the instructions, but once it was up, it felt very sturdy. Definitely worth the price!",
+    "pros": [
+      "Durable",
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 88,
+      "total_votes": 96,
+      "helpfulness_ratio": 0.92
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-14 19:27:28.968668",
+    "created_at": "2026-04-14 19:27:28.968668",
+    "updated_at": "2026-04-14 19:27:28.968668"
+  },
+  {
+    "id": 103,
+    "product_id": 22,
+    "product_name": "HomeEssentials Furniture",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 3,
+    "title": "Decent table but assembly was tricky",
+    "comment": "The wood finish looks great in my living room and feels sturdy enough. However, the instructions were super confusing, and two of the pre-drilled holes didn't line up properly. It took much longer to put together than I expected, but it looks nice now that it's done.",
+    "pros": [
+      "Easy to install"
+    ],
+    "cons": [
+      "Overpriced",
+      "Build quality poor"
+    ],
+    "helpfulness": {
+      "helpful_votes": 46,
+      "total_votes": 59,
+      "helpfulness_ratio": 0.78
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-11 10:03:30.914860",
+    "created_at": "2026-05-11 10:03:30.914860",
+    "updated_at": "2026-05-11 10:03:30.914860"
+  },
+  {
+    "id": 104,
+    "product_id": 22,
+    "product_name": "HomeEssentials Furniture",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Decent look but assembly was difficult",
+    "comment": "The coffee table looks great in my living room and the wood finish is nice. However, the pre-drilled holes didn't line up perfectly, making assembly a bit of a headache. It feels sturdy enough for now, but I'm not sure about the long-term durability. It's okay for the price.",
+    "pros": [
+      "Good quality",
+      "Good design"
+    ],
+    "cons": [
+      "Overpriced",
+      "Installation difficult"
+    ],
+    "helpfulness": {
+      "helpful_votes": 81,
+      "total_votes": 96,
+      "helpfulness_ratio": 0.84
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-08 05:53:08.728543",
+    "created_at": "2025-11-08 05:53:08.728543",
+    "updated_at": "2025-11-08 05:53:08.728543"
+  },
+  {
+    "id": 105,
+    "product_id": 23,
+    "product_name": "HomeStyle Kitchen Utensils Max",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Great set, looks beautiful in my kitchen",
+    "comment": "Im really happy with this set! The silicone heads are high quality and don't scratch my pans, which is a huge plus. They look very sleek on my countertop too. Only giving 4 stars because the wooden handles are a bit thinner than I expected, but they still feel sturdy.",
+    "pros": [
+      "Durable",
+      "Easy to install",
+      "Good design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 27,
+      "total_votes": 47,
+      "helpfulness_ratio": 0.57
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": true,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-18 15:44:05.075948",
+    "created_at": "2026-04-18 15:44:05.075948",
+    "updated_at": "2026-04-18 15:44:05.075948"
+  },
+  {
+    "id": 106,
+    "product_id": 23,
+    "product_name": "HomeStyle Kitchen Utensils Max",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this utensil set!",
+    "comment": "I am so in love with these! The silicone heads are super sturdy but don't scratch my pans, and the wooden handles feel so premium in my hand. They look beautiful sitting on my counter too. Honestly, upgrading my kitchen was so worth it!",
+    "pros": [
+      "Good design",
+      "Works as expected",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 30,
+      "total_votes": 33,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-16 06:07:53.208111",
+    "created_at": "2026-06-16 06:07:53.208111",
+    "updated_at": "2026-06-16 06:07:53.208111"
+  },
+  {
+    "id": 107,
+    "product_id": 23,
+    "product_name": "HomeStyle Kitchen Utensils Max",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolute game changer for my kitchen!",
+    "comment": "I am obsessed with this set! The silicone heads are so much better than my old plastic onesno more scratching my pans. Plus, they look stunning sitting on my counter. Everything feels high-quality and heavy-duty. If you're on the fence, just get them! You won't regret it.",
+    "pros": [
+      "Good quality",
+      "Works as expected",
+      "Easy to install",
+      "Good design"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 30,
+      "total_votes": 37,
+      "helpfulness_ratio": 0.81
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-18 02:47:02.128093",
+    "created_at": "2025-10-18 02:47:02.128093",
+    "updated_at": "2025-10-18 02:47:02.128093"
+  },
+  {
+    "id": 108,
+    "product_id": 23,
+    "product_name": "HomeStyle Kitchen Utensils Max",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great upgrade for my kitchen setup",
+    "comment": "Im really happy with this set. The silicone heads feel sturdy and don't scratch my pans, which was my main concern. They look sleek on the counter too! Only giving 4 stars because the wooden handles are a bit thinner than I expected, but they work perfectly fine.",
+    "pros": [
+      "Good design",
+      "Durable"
+    ],
+    "cons": [
+      "Installation difficult"
+    ],
+    "helpfulness": {
+      "helpful_votes": 53,
+      "total_votes": 65,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-08-27 21:38:51.725742",
+    "created_at": "2025-08-27 21:38:51.725742",
+    "updated_at": "2025-08-27 21:38:51.725742"
+  },
+  {
+    "id": 109,
+    "product_id": 23,
+    "product_name": "HomeStyle Kitchen Utensils Max",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely love this set, total game changer!",
+    "comment": "I am obsessed with these! The silicone heads are so much better than my old metal ones because they don't scratch my pans. Everything feels really sturdy and high-quality, not cheap at all. My kitchen looks so much more organized now. Honestly, it was worth every single penny!",
+    "pros": [
+      "Durable",
+      "Good design",
+      "Easy to install",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 13,
+      "total_votes": 22,
+      "helpfulness_ratio": 0.59
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-09-28 17:04:26.680018",
+    "created_at": "2025-09-28 17:04:26.680018",
+    "updated_at": "2025-09-28 17:04:26.680018"
+  },
+  {
+    "id": 110,
+    "product_id": 24,
+    "product_name": "QualityHome Plant Pot Max",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Beautiful pot but a bit heavy",
+    "comment": "I love how this looks on my windowsill! The matte finish is gorgeous and the drainage hole works perfectly for my succulents. My only small issue is that its much heavier than I expected, so it's a bit tricky to move around. Otherwise, it feels very high quality!",
+    "pros": [
+      "Durable",
+      "Easy to install"
+    ],
+    "cons": [
+      "Build quality poor"
+    ],
+    "helpfulness": {
+      "helpful_votes": 55,
+      "total_votes": 71,
+      "helpfulness_ratio": 0.77
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-17 23:26:31.484052",
+    "created_at": "2026-03-17 23:26:31.484052",
+    "updated_at": "2026-03-17 23:26:31.484052"
+  },
+  {
+    "id": 111,
+    "product_id": 24,
+    "product_name": "QualityHome Plant Pot Max",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 4,
+    "title": "Beautiful pot, just slightly heavy",
+    "comment": "I love the matte finish on this! It looks much more expensive than it actually was. Its quite heavy, so make sure you have a sturdy shelf before placing your plants in it. Overall, a great addition to my living room decor.",
+    "pros": [
+      "Good quality",
+      "Easy to install",
+      "Good design",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 3,
+      "total_votes": 16,
+      "helpfulness_ratio": 0.19
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-07 06:29:29.509202",
+    "created_at": "2026-07-07 06:29:29.509202",
+    "updated_at": "2026-07-07 06:29:29.509202"
+  },
+  {
+    "id": 112,
+    "product_id": 24,
+    "product_name": "QualityHome Plant Pot Max",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 4,
+    "title": "Stylish and sturdy, just as described!",
+    "comment": "I love how the matte finish looks on my windowsill. It feels much heavier and higher quality than the cheap plastic ones I usually buy. My monstera fits perfectly, though its a bit smaller than I expected. Overall, it's a beautiful addition to my living room!",
+    "pros": [
+      "Good design",
+      "Good quality"
+    ],
+    "cons": [
+      "Overpriced"
+    ],
+    "helpfulness": {
+      "helpful_votes": 95,
+      "total_votes": 111,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-09 15:44:05.075948",
+    "created_at": "2026-06-09 15:44:05.075948",
+    "updated_at": "2026-06-09 15:44:05.075948"
+  },
+  {
+    "id": 113,
+    "product_id": 24,
+    "product_name": "QualityHome Plant Pot Max",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Really stylish and looks great!",
+    "comment": "I love the matte finish on this pot; it looks much more expensive than it actually was. Its a bit heavier than I expected, which is good for stability, but it took a moment to fit my drainage saucer. Overall, my monstera looks beautiful in it!",
+    "pros": [
+      "Good quality",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 63,
+      "total_votes": 81,
+      "helpfulness_ratio": 0.78
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-03-29 20:00:49.202732",
+    "created_at": "2026-03-29 20:00:49.202732",
+    "updated_at": "2026-03-29 20:00:49.202732"
+  },
+  {
+    "id": 114,
+    "product_id": 24,
+    "product_name": "QualityHome Plant Pot Max",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great look, but slightly smaller than expected",
+    "comment": "I love the matte finish and the weight of these pots; they feel really premium on my windowsill. The drainage holes are a huge plus for my succulents. They're just a tiny bit smaller than I imagined from the photos, but they look beautiful regardless!",
+    "pros": [
+      "Easy to install",
+      "Durable",
+      "Good design",
+      "Works as expected"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 73,
+      "total_votes": 91,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-15 11:45:04.692048",
+    "created_at": "2026-08-15 11:45:04.692048",
+    "updated_at": "2026-08-15 11:45:04.692048"
+  },
+  {
+    "id": 115,
+    "product_id": 25,
+    "product_name": "PerformanceGear Basketball Plus",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 4,
+    "title": "Great grip and very durable rubber",
+    "comment": "I bought this for my son and myself to use together. The rubber material feels high-quality and has a really solid grip, even when playing outdoors. Its been a few weeks and it still looks new. Only giving 4 stars because it's a bit heavy, but otherwise perfect!",
+    "pros": [
+      "Comfortable",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 73,
+      "total_votes": 89,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-06-18 03:05:11.691388",
+    "created_at": "2026-06-18 03:05:11.691388",
+    "updated_at": "2026-06-18 03:05:11.691388"
+  },
+  {
+    "id": 116,
+    "product_id": 25,
+    "product_name": "PerformanceGear Basketball Plus",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Best rubber grip I have ever felt!",
+    "comment": "Honestly, this ball is incredible! The rubber material has such a solid grip, even when my hands get sweaty during intense games. I bought it for both me and my son to use, and it's perfect for everyone. Definitely worth every pennyhighly recommend!",
+    "pros": [
+      "Good quality",
+      "Comfortable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 88,
+      "total_votes": 107,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-04-30 19:30:17.860227",
+    "created_at": "2026-04-30 19:30:17.860227",
+    "updated_at": "2026-04-30 19:30:17.860227"
+  },
+  {
+    "id": 117,
+    "product_id": 25,
+    "product_name": "PerformanceGear Basketball Plus",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Best grip I have ever felt!",
+    "comment": "Honestly, this ball is a game changer. The rubber material has such an amazing grip, even when my hands get sweaty during games. My son and I have been using it all weekend and it's perfect for both of us. Definitely worth every penny!",
+    "pros": [
+      "Good quality",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 58,
+      "total_votes": 64,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-01-03 04:40:15.127953",
+    "created_at": "2026-01-03 04:40:15.127953",
+    "updated_at": "2026-01-03 04:40:15.127953"
+  },
+  {
+    "id": 118,
+    "product_id": 25,
+    "product_name": "PerformanceGear Basketball Plus",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Great grip and really solid feel",
+    "comment": "I bought this for my son and myself to share. The rubber material has a really nice grip, even when our hands get a bit sweaty during games. It feels durable enough for outdoor courts too. Only giving 4 stars because it was a bit harder than expected, but otherwise great!",
+    "pros": [
+      "Good quality",
+      "Comfortable",
+      "Durable",
+      "Works well"
+    ],
+    "cons": [
+      "Poor durability"
+    ],
+    "helpfulness": {
+      "helpful_votes": 95,
+      "total_votes": 99,
+      "helpfulness_ratio": 0.96
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-09-28 17:00:42.304547",
+    "created_at": "2025-09-28 17:00:42.304547",
+    "updated_at": "2025-09-28 17:00:42.304547"
+  },
+  {
+    "id": 119,
+    "product_id": 25,
+    "product_name": "PerformanceGear Basketball Plus",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Best grip and feel ever!",
+    "comment": "I am obsessed with this ball! The rubber material has an amazing grip, even when my hands get sweaty during games. My son and I both use it, so its perfect for us. Its honestly the best purchase I've made all year. Highly recommend it to everyone!",
+    "pros": [
+      "Works well",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 84,
+      "total_votes": 92,
+      "helpfulness_ratio": 0.91
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-11 21:07:21.133737",
+    "created_at": "2026-08-11 21:07:21.133737",
+    "updated_at": "2026-08-11 21:07:21.133737"
+  },
+  {
+    "id": 120,
+    "product_id": 26,
+    "product_name": "EndurancePro Dumbbells Pro",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely perfect for my morning workouts!",
+    "comment": "I am obsessed with these! The neoprene coating feels so high-quality and makes them super easy to grip without slipping. Being 5 lbs, they are exactly what I needed for high-rep toning exercises. They look great toodefinitely my new favorite workout buddies! Highly recommend!",
+    "pros": [
+      "Works well",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 13,
+      "total_votes": 28,
+      "helpfulness_ratio": 0.46
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2025-08-26 01:03:15.860729",
+    "created_at": "2025-08-26 01:03:15.860729",
+    "updated_at": "2025-08-26 01:03:15.860729"
+  },
+  {
+    "id": 121,
+    "product_id": 26,
+    "product_name": "EndurancePro Dumbbells Pro",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Absolutely perfect for my morning workouts!",
+    "comment": "I am obsessed with these! The 5 lbs weight is exactly what I needed for high-rep toning. The neoprene material feels so soft and grippy in my hands, even when I get sweaty. They look great too! Honestly, they've made my daily routine so much more fun. Highly recommend!",
+    "pros": [
+      "Works well",
+      "Good quality",
+      "Durable",
+      "Good value"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 37,
+      "total_votes": 41,
+      "helpfulness_ratio": 0.9
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-16 07:02:16.320950",
+    "created_at": "2025-10-16 07:02:16.320950",
+    "updated_at": "2025-10-16 07:02:16.320950"
+  },
+  {
+    "id": 122,
+    "product_id": 26,
+    "product_name": "EndurancePro Dumbbells Pro",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely perfect for my morning workouts!",
+    "comment": "I am obsessed with these! The 5 lbs weight is perfect for my high-rep toning sessions, and the neoprene material feels so soft and grippy in my hands. They don't slip at all even when I get sweaty. Honestly, such a great quality purchase!",
+    "pros": [
+      "Good value",
+      "Durable",
+      "Works well"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 99,
+      "total_votes": 113,
+      "helpfulness_ratio": 0.88
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-22 15:41:55.424796",
+    "created_at": "2026-05-22 15:41:55.424796",
+    "updated_at": "2026-05-22 15:41:55.424796"
+  },
+  {
+    "id": 123,
+    "product_id": 26,
+    "product_name": "EndurancePro Dumbbells Pro",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely love these lightweight dumbbells!",
+    "comment": "I am so obsessed with these! The neoprene coating feels super soft and grippy, making them so easy to hold during my morning yoga. The 5 lbs weight is perfect for high-rep toning exercises. They look cute in my living room toodefinitely worth every penny!",
+    "pros": [
+      "Good value",
+      "Works well",
+      "Good quality",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 52,
+      "total_votes": 65,
+      "helpfulness_ratio": 0.8
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-04-04 00:33:11.761225",
+    "created_at": "2026-04-04 00:33:11.761225",
+    "updated_at": "2026-04-04 00:33:11.761225"
+  },
+  {
+    "id": 124,
+    "product_id": 26,
+    "product_name": "EndurancePro Dumbbells Pro",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolute game changer for my workouts!",
+    "comment": "I am obsessed with these! The 5 lbs weight is perfect for my high-rep toning sessions. I love the neoprene material because its so soft and doesn't slip even when my hands get sweaty. They feel super high-quality and are definitely worth every penny!",
+    "pros": [
+      "Good value",
+      "Comfortable",
+      "Works well",
+      "Good quality"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 99,
+      "total_votes": 103,
+      "helpfulness_ratio": 0.96
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-22 16:59:00.287766",
+    "created_at": "2025-11-22 16:59:00.287766",
+    "updated_at": "2025-11-22 16:59:00.287766"
+  },
+  {
+    "id": 125,
+    "product_id": 27,
+    "product_name": "SportsPro Fitness Tracker",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this gorgeous tracker!",
+    "comment": "I am so in love with this! The leather strap feels incredibly premium and looks so classy for my indoor yoga sessions. Its super comfortable to wear all day, and the tracking is spot on. Honestly, it looks more like a high-end watch than a fitness tracker! Total game changer.",
+    "pros": [
+      "Comfortable",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 80,
+      "total_votes": 92,
+      "helpfulness_ratio": 0.87
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-02-04 04:29:43.610668",
+    "created_at": "2026-02-04 04:29:43.610668",
+    "updated_at": "2026-02-04 04:29:43.610668"
+  },
+  {
+    "id": 126,
+    "product_id": 27,
+    "product_name": "SportsPro Fitness Tracker",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 4,
+    "title": "Stylish enough for daily wear!",
+    "comment": "I bought this primarily for my indoor gym sessions. The leather strap looks really premium and feels great on the wrist, though it's definitely more of a lifestyle piece. It tracks my workouts perfectly so far. Just wish the battery lasted a bit longer, but otherwise, I'm very happy with it!",
+    "pros": [
+      "Durable",
+      "Good value"
+    ],
+    "cons": [
+      "Poor durability"
+    ],
+    "helpfulness": {
+      "helpful_votes": 80,
+      "total_votes": 99,
+      "helpfulness_ratio": 0.81
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-12 00:09:41.595271",
+    "created_at": "2026-07-12 00:09:41.595271",
+    "updated_at": "2026-07-12 00:09:41.595271"
+  },
+  {
+    "id": 127,
+    "product_id": 27,
+    "product_name": "SportsPro Fitness Tracker",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 5,
+    "title": "Absolutely love this stylish fitness tracker!",
+    "comment": "I am obsessed with the leather strapit feels so premium and looks amazing for indoor workouts. Its super comfortable to wear all day, even when I'm just lounging. Honestly, its the perfect mix of style and function. I couldn't be happier with this purchase!",
+    "pros": [
+      "Good quality",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 51,
+      "total_votes": 57,
+      "helpfulness_ratio": 0.89
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-01-18 04:43:23.262064",
+    "created_at": "2026-01-18 04:43:23.262064",
+    "updated_at": "2026-01-18 04:43:23.262064"
+  },
+  {
+    "id": 128,
+    "product_id": 27,
+    "product_name": "SportsPro Fitness Tracker",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely obsessed with this gorgeous tracker!",
+    "comment": "I am so in love! The leather strap feels incredibly premium and looks so classy for my indoor pilates sessions. Its super comfortable to wear all day, and the tracking is spot on. Honestly, it looks more like a high-end watch than a fitness tracker. Totally worth every penny!",
+    "pros": [
+      "Good quality",
+      "Good value",
+      "Comfortable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 30,
+      "total_votes": 32,
+      "helpfulness_ratio": 0.94
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-02-17 00:50:38.483385",
+    "created_at": "2026-02-17 00:50:38.483385",
+    "updated_at": "2026-02-17 00:50:38.483385"
+  },
+  {
+    "id": 129,
+    "product_id": 27,
+    "product_name": "SportsPro Fitness Tracker",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Stylish design and works great indoors",
+    "comment": "I love the leather strap; it looks much classier than those plastic fitness trackers. Its perfect for my indoor workouts and daily steps tracking. The only reason I'm not giving five stars is that the leather feels a bit stiff at first, but otherwise, it's a solid purchase!",
+    "pros": [
+      "Good quality",
+      "Works well",
+      "Comfortable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 13,
+      "total_votes": 28,
+      "helpfulness_ratio": 0.46
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-10-23 11:07:09.715856",
+    "created_at": "2025-10-23 11:07:09.715856",
+    "updated_at": "2025-10-23 11:07:09.715856"
+  },
+  {
+    "id": 130,
+    "product_id": 28,
+    "product_name": "FitGear Running Shoes",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 2,
+    "title": "Not the best for trail running",
+    "comment": "I bought these in a 9.5 for weekend trails, but they're disappointing. The grip is okay on dirt, but the cushioning feels really stiff after a few miles. Theyre fine for flat pavement, but definitely not the rugged support I was expecting for the price.",
+    "pros": [
+      "Good quality"
+    ],
+    "cons": [
+      "Poor durability",
+      "Uncomfortable",
+      "Not as expected"
+    ],
+    "helpfulness": {
+      "helpful_votes": 75,
+      "total_votes": 93,
+      "helpfulness_ratio": 0.81
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-08-05 03:04:06.898109",
+    "created_at": "2026-08-05 03:04:06.898109",
+    "updated_at": "2026-08-05 03:04:06.898109"
+  },
+  {
+    "id": 131,
+    "product_id": 28,
+    "product_name": "FitGear Running Shoes",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 1,
+    "title": "Total waste of money for trail runners",
+    "comment": "I bought these in a 9.5 for trail runs, but the grip is nonexistent. I slipped twice on light dirt paths today. For this price, I expected way better traction and support. They feel cheap and unstable. Honestly, don't bother if you actually run off-road.",
+    "pros": [],
+    "cons": [
+      "Uncomfortable",
+      "Not as expected"
+    ],
+    "helpfulness": {
+      "helpful_votes": 53,
+      "total_votes": 73,
+      "helpfulness_ratio": 0.73
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-03-03 10:17:49.548088",
+    "created_at": "2026-03-03 10:17:49.548088",
+    "updated_at": "2026-03-03 10:17:49.548088"
+  },
+  {
+    "id": 132,
+    "product_id": 28,
+    "product_name": "FitGear Running Shoes",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Good grip but a bit narrow",
+    "comment": "I took these 9.5s out on some local trails yesterday. The traction is solid on dirt and rocks, but they felt a bit tight across the toe box after a few miles. They look great, but Im still deciding if they're comfortable enough for long runs.",
+    "pros": [
+      "Good value"
+    ],
+    "cons": [
+      "Uncomfortable",
+      "Poor durability"
+    ],
+    "helpfulness": {
+      "helpful_votes": 82,
+      "total_votes": 100,
+      "helpfulness_ratio": 0.82
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": true
+    },
+    "review_date": "2026-04-14 15:44:05.075948",
+    "created_at": "2026-04-14 15:44:05.075948",
+    "updated_at": "2026-04-14 15:44:05.075948"
+  },
+  {
+    "id": 133,
+    "product_id": 28,
+    "product_name": "FitGear Running Shoes",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 4,
+    "title": "Great grip for weekend trail runs",
+    "comment": "I ordered the 9.5 and they fit perfectly right out of the box. I took them on some local dirt trails yesterday and the traction is impressive. They feel very stable on uneven ground, though they are a little stiff initially. Overall, definitely worth it for the price!",
+    "pros": [
+      "Good value",
+      "Durable",
+      "Works well",
+      "Good quality"
+    ],
+    "cons": [
+      "Poor durability"
+    ],
+    "helpfulness": {
+      "helpful_votes": 73,
+      "total_votes": 85,
+      "helpfulness_ratio": 0.86
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-07-04 08:55:27.639772",
+    "created_at": "2026-07-04 08:55:27.639772",
+    "updated_at": "2026-07-04 08:55:27.639772"
+  },
+  {
+    "id": 134,
+    "product_id": 28,
+    "product_name": "FitGear Running Shoes",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 2,
+    "title": "Great look, but poor trail performance",
+    "comment": "I bought these in a 9.5 for weekend hikes, but they aren't great for actual trails. The grip is pretty weak on dirt and loose gravel, making them feel slippery. Theyre comfortable enough for walking, but I expected better traction for the price. Definitely not a heavy-duty trail shoe.",
+    "pros": [],
+    "cons": [
+      "Not as expected",
+      "Poor durability"
+    ],
+    "helpfulness": {
+      "helpful_votes": 65,
+      "total_votes": 82,
+      "helpfulness_ratio": 0.79
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-24 19:30:17.860227",
+    "created_at": "2026-05-24 19:30:17.860227",
+    "updated_at": "2026-05-24 19:30:17.860227"
+  },
+  {
+    "id": 135,
+    "product_id": 29,
+    "product_name": "PerformanceGear Water Bottle",
+    "user_id": 2,
+    "user_name": "Jessica J.",
+    "rating": 5,
+    "title": "Absolutely love this durable water bottle!",
+    "comment": "I bought this for my indoor spin classes and its perfect. The nylon material feels super high-quality and lightweight, so it's easy to carry around the gym. It has already survived a few accidental drops without any scratches! Honestly, Im obsessed with it. Highly recommend for anyone!",
+    "pros": [
+      "Good quality",
+      "Comfortable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 65,
+      "total_votes": 70,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": false,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-17 22:13:58.883405",
+    "created_at": "2026-05-17 22:13:58.883405",
+    "updated_at": "2026-05-17 22:13:58.883405"
+  },
+  {
+    "id": 136,
+    "product_id": 29,
+    "product_name": "PerformanceGear Water Bottle",
+    "user_id": 1,
+    "user_name": "Jordan M.",
+    "rating": 5,
+    "title": "Best gym bottle I have ever owned!",
+    "comment": "I am obsessed with this bottle! The nylon material feels so lightweight and durable, which is perfect for my indoor spin classes. Its super easy to carry around and fits perfectly in my gym bag. Honestly, it's a total game changer for my daily workouts! Highly recommend!",
+    "pros": [
+      "Comfortable",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 75,
+      "total_votes": 76,
+      "helpfulness_ratio": 0.99
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Tablet",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-05-09 07:59:14.081192",
+    "created_at": "2026-05-09 07:59:14.081192",
+    "updated_at": "2026-05-09 07:59:14.081192"
+  },
+  {
+    "id": 137,
+    "product_id": 29,
+    "product_name": "PerformanceGear Water Bottle",
+    "user_id": 5,
+    "user_name": "Russell J.",
+    "rating": 5,
+    "title": "Absolutely love this lightweight bottle!",
+    "comment": "I bought this for my yoga sessions and it is perfect. The nylon material feels super durable but really lightweight, making it easy to carry around the studio. Its the perfect size for indoor workouts and looks so sleek too. Honestly, I'm obsessed with it!",
+    "pros": [
+      "Comfortable",
+      "Durable",
+      "Good value"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 36,
+      "total_votes": 56,
+      "helpfulness_ratio": 0.64
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": true,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-27 21:08:54.225399",
+    "created_at": "2026-06-27 21:08:54.225399",
+    "updated_at": "2026-06-27 21:08:54.225399"
+  },
+  {
+    "id": 138,
+    "product_id": 29,
+    "product_name": "PerformanceGear Water Bottle",
+    "user_id": 4,
+    "user_name": "Charles S.",
+    "rating": 3,
+    "title": "Decent bottle but feels a bit flimsy",
+    "comment": "I bought this for my gym sessions, and it works fine indoors. The nylon material is lightweight, which I like, but it feels thinner than expected. It gets scratches easily, so I'm a bit worried about durability long-term. Its okay for the price, just not amazing.",
+    "pros": [
+      "Durable",
+      "Comfortable"
+    ],
+    "cons": [
+      "Sizing issues"
+    ],
+    "helpfulness": {
+      "helpful_votes": 98,
+      "total_votes": 105,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Mobile",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2026-06-18 05:50:42.035672",
+    "created_at": "2026-06-18 05:50:42.035672",
+    "updated_at": "2026-06-18 05:50:42.035672"
+  },
+  {
+    "id": 139,
+    "product_id": 29,
+    "product_name": "PerformanceGear Water Bottle",
+    "user_id": 3,
+    "user_name": "Joshua C.",
+    "rating": 5,
+    "title": "Absolute game changer for my gym sessions!",
+    "comment": "I am obsessed with this bottle! The nylon material feels so much more durable than my old plastic ones, and its the perfect size for indoor workouts. It fits easily in my gym bag and doesn't leak at all. Honestly, its become my favorite workout companion! Highly recommend!",
+    "pros": [
+      "Good quality",
+      "Good value",
+      "Works well",
+      "Durable"
+    ],
+    "cons": [],
+    "helpfulness": {
+      "helpful_votes": 50,
+      "total_votes": 54,
+      "helpfulness_ratio": 0.93
+    },
+    "metadata": {
+      "verified_purchase": true,
+      "early_reviewer": false,
+      "vine_customer": false,
+      "device_used": "Desktop",
+      "review_language": "en",
+      "contains_media": false
+    },
+    "review_date": "2025-11-15 03:27:52.291777",
+    "created_at": "2025-11-15 03:27:52.291777",
+    "updated_at": "2025-11-15 03:27:52.291777"
+  }
+]

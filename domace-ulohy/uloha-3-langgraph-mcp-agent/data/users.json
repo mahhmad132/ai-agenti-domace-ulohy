@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "email": "jordan.moran@gmail.com",
+    "username": "jordan3783",
+    "first_name": "Jordan",
+    "last_name": "Moran",
+    "phone": "390-522-8354x1855",
+    "date_of_birth": "2005-06-04",
+    "gender": "female",
+    "is_active": true,
+    "is_premium": false,
+    "email_verified": false,
+    "registration_date": "2025-02-19 06:36:54.528359",
+    "last_login": "2026-08-11 23:52:21.626671",
+    "shipping_address": {
+      "street": "61528 Samantha Hollow",
+      "city": "Lake Madisonbury",
+      "state": "Missouri",
+      "postal_code": "96531",
+      "country": "VU",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "661 Hughes Brooks Suite 081",
+      "city": "Debramouth",
+      "state": "Virginia",
+      "postal_code": "59320",
+      "country": "TD",
+      "is_default": true
+    },
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "preferred_categories": [
+        "Sports",
+        "Electronics"
+      ],
+      "language": "en",
+      "currency": "GBP",
+      "notifications": {
+        "order_updates": false,
+        "price_drops": true,
+        "new_arrivals": true
+      }
+    },
+    "stats": {
+      "orders_count": 37,
+      "total_spent": 3343.32,
+      "average_order_value": 90.36,
+      "last_login": "2026-08-11 23:52:21.626671",
+      "login_count": 126,
+      "wishlist_items": 14,
+      "cart_items": 2
+    },
+    "loyalty_points": 576,
+    "referral_code": "REF000001",
+    "created_at": "2025-02-19 06:36:54.528359",
+    "updated_at": "2026-08-15 04:21:35.330984"
+  },
+  {
+    "id": 2,
+    "email": "jessica.johnson@gmail.com",
+    "username": "jessica6834",
+    "first_name": "Jessica",
+    "last_name": "Johnson",
+    "phone": "+1-885-813-0880x7096",
+    "date_of_birth": "1987-03-02",
+    "gender": "female",
+    "is_active": true,
+    "is_premium": true,
+    "email_verified": false,
+    "registration_date": "2026-06-29 13:32:37.778116",
+    "last_login": "2026-08-09 03:39:59.563806",
+    "shipping_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "8809 Kathryn Course Apt. 685",
+      "city": "Lake Travis",
+      "state": "Rhode Island",
+      "postal_code": "22057",
+      "country": "GE",
+      "is_default": true
+    },
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": true,
+      "preferred_categories": [
+        "Electronics",
+        "Books"
+      ],
+      "language": "fr",
+      "currency": "USD",
+      "notifications": {
+        "order_updates": true,
+        "price_drops": true,
+        "new_arrivals": false
+      }
+    },
+    "stats": {
+      "orders_count": 34,
+      "total_spent": 3945.51,
+      "average_order_value": 116.04,
+      "last_login": "2026-08-09 03:39:59.563806",
+      "login_count": 43,
+      "wishlist_items": 3,
+      "cart_items": 1
+    },
+    "loyalty_points": 1365,
+    "referral_code": "REF000002",
+    "created_at": "2026-06-29 13:32:37.778116",
+    "updated_at": "2026-07-06 01:02:03.136923"
+  },
+  {
+    "id": 3,
+    "email": "joshua.case@yahoo.com",
+    "username": "joshua5379",
+    "first_name": "Joshua",
+    "last_name": "Case",
+    "phone": "+1-945-265-8093",
+    "date_of_birth": "1976-12-15",
+    "gender": "male",
+    "is_active": true,
+    "is_premium": false,
+    "email_verified": false,
+    "registration_date": "2026-03-30 21:24:14.442246",
+    "last_login": "2026-07-29 17:53:46.246083",
+    "shipping_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "4360 Edwards Spurs",
+      "city": "New Johnton",
+      "state": "Hawaii",
+      "postal_code": "11989",
+      "country": "DM",
+      "is_default": true
+    },
+    "preferences": {
+      "newsletter": true,
+      "marketing_emails": false,
+      "preferred_categories": [
+        "Home & Garden",
+        "Electronics",
+        "Books"
+      ],
+      "language": "de",
+      "currency": "USD",
+      "notifications": {
+        "order_updates": false,
+        "price_drops": false,
+        "new_arrivals": true
+      }
+    },
+    "stats": {
+      "orders_count": 27,
+      "total_spent": 1998.85,
+      "average_order_value": 74.03,
+      "last_login": "2026-07-29 17:53:46.246083",
+      "login_count": 82,
+      "wishlist_items": 2,
+      "cart_items": 0
+    },
+    "loyalty_points": 386,
+    "referral_code": "REF000003",
+    "created_at": "2026-03-30 21:24:14.442246",
+    "updated_at": "2026-04-05 19:55:10.056389"
+  },
+  {
+    "id": 4,
+    "email": "charles.snow@gmail.com",
+    "username": "charles6510",
+    "first_name": "Charles",
+    "last_name": "Snow",
+    "phone": "230.792.2776x0706",
+    "date_of_birth": "1996-01-20",
+    "gender": "male",
+    "is_active": true,
+    "is_premium": false,
+    "email_verified": true,
+    "registration_date": "2025-02-15 18:44:13.985366",
+    "last_login": "2026-08-09 14:08:38.571646",
+    "shipping_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "732 Everett Islands Suite 984",
+      "city": "New Riley",
+      "state": "Pennsylvania",
+      "postal_code": "84580",
+      "country": "GE",
+      "is_default": true
+    },
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "preferred_categories": [
+        "Sports",
+        "Electronics"
+      ],
+      "language": "es",
+      "currency": "USD",
+      "notifications": {
+        "order_updates": true,
+        "price_drops": true,
+        "new_arrivals": true
+      }
+    },
+    "stats": {
+      "orders_count": 20,
+      "total_spent": 4364.59,
+      "average_order_value": 218.23,
+      "last_login": "2026-08-09 14:08:38.571646",
+      "login_count": 52,
+      "wishlist_items": 20,
+      "cart_items": 0
+    },
+    "loyalty_points": 870,
+    "referral_code": "REF000004",
+    "created_at": "2025-02-15 18:44:13.985366",
+    "updated_at": "2025-09-30 22:42:43.048591"
+  },
+  {
+    "id": 5,
+    "email": "russell.johnson@gmail.com",
+    "username": "russell9942",
+    "first_name": "Russell",
+    "last_name": "Johnson",
+    "phone": "(398)528-9531x069",
+    "date_of_birth": "1967-08-23",
+    "gender": "male",
+    "is_active": true,
+    "is_premium": true,
+    "email_verified": true,
+    "registration_date": "2024-08-30 13:12:15.854140",
+    "last_login": "2026-08-13 15:06:57.367654",
+    "shipping_address": {
+      "street": "62469 Norton Bypass",
+      "city": "North Jessica",
+      "state": "Nevada",
+      "postal_code": "94097",
+      "country": "AE",
+      "is_default": true
+    },
+    "billing_address": {
+      "street": "69204 Miranda Neck",
+      "city": "Port Caitlinport",
+      "state": "Oklahoma",
+      "postal_code": "96366",
+      "country": "FM",
+      "is_default": true
+    },
+    "preferences": {
+      "newsletter": false,
+      "marketing_emails": false,
+      "preferred_categories": [
+        "Sports"
+      ],
+      "language": "en",
+      "currency": "EUR",
+      "notifications": {
+        "order_updates": true,
+        "price_drops": false,
+        "new_arrivals": true
+      }
+    },
+    "stats": {
+      "orders_count": 9,
+      "total_spent": 3719.73,
+      "average_order_value": 413.3,
+      "last_login": "2026-08-13 15:06:57.367654",
+      "login_count": 50,
+      "wishlist_items": 0,
+      "cart_items": 4
+    },
+    "loyalty_points": 6891,
+    "referral_code": "REF000005",
+    "created_at": "2024-08-30 13:12:15.854140",
+    "updated_at": "2025-08-24 04:36:24.722199"
+  }
+]

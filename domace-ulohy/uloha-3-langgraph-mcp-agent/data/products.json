@@ -1,0 +1,1300 @@
+[
+  {
+    "id": 1,
+    "name": "SmartLine Tablet",
+    "description": "Power your lifestyle with the SmartLine Tablet. Featuring an 8\" screen, MediaTek Helio processor, and 256GB storage, plus a long-lasting 8000mAh battery for seamless performance.",
+    "category": "Electronics",
+    "brand": "SmartLine",
+    "price": 1446,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 27,
+    "is_active": true,
+    "rating": 3.2,
+    "review_count": 436,
+    "sku": "ELE-000001",
+    "weight": 0.38,
+    "dimensions": {
+      "length": 33.0,
+      "width": 30.2,
+      "height": 7.9,
+      "unit": "cm"
+    },
+    "features": {
+      "screen_size": "8\"",
+      "storage": "256GB",
+      "processor": "MediaTek Helio",
+      "battery": "8000mAh"
+    },
+    "images": {
+      "main_image": "images/products/1/SmartLine_Tablet.webp",
+      "thumbnail": "images/products/1/SmartLine_Tablet_thumb.webp",
+      "gallery": [
+        "images/products/1/SmartLine_Tablet.webp"
+      ]
+    },
+    "tags": [
+      "tablet",
+      "gadget",
+      "device",
+      "tech",
+      "electronics"
+    ],
+    "created_at": "2026-05-25 09:47:39.553013",
+    "updated_at": "2026-07-19 14:26:15.945774"
+  },
+  {
+    "id": 2,
+    "name": "NextGen Smartwatch",
+    "description": "Experience seamless wireless connectivity with the NextGen Smartwatch. Powered by AC power and backed by a 3-year warranty, it is the ultimate reliable electronic companion.",
+    "category": "Electronics",
+    "brand": "NextGen",
+    "price": 1850,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 8,
+    "is_active": true,
+    "rating": 4.0,
+    "review_count": 421,
+    "sku": "ELE-000002",
+    "weight": 2.17,
+    "dimensions": {
+      "length": 48.5,
+      "width": 23.9,
+      "height": 7.8,
+      "unit": "cm"
+    },
+    "features": {
+      "power": "AC Power",
+      "warranty": "3 years",
+      "connectivity": "Wireless"
+    },
+    "images": {
+      "main_image": "images/products/2/NextGen_Smartwatch.webp",
+      "thumbnail": "images/products/2/NextGen_Smartwatch_thumb.webp",
+      "gallery": [
+        "images/products/2/NextGen_Smartwatch.webp"
+      ]
+    },
+    "tags": [
+      "gadget",
+      "device",
+      "smartwatch",
+      "tech",
+      "electronics"
+    ],
+    "created_at": "2026-07-26 07:16:07.564125",
+    "updated_at": "2026-08-13 04:21:45.940321"
+  },
+  {
+    "id": 3,
+    "name": "DigitalMax Camera",
+    "description": "Capture every moment with the DigitalMax Camera. Featuring wireless connectivity and USB rechargeable power, it offers seamless use. Includes a 1-year warranty for peace of mind.",
+    "category": "Electronics",
+    "brand": "DigitalMax",
+    "price": 1981,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 59,
+    "is_active": true,
+    "rating": 4.7,
+    "review_count": 314,
+    "sku": "ELE-000003",
+    "weight": 4.37,
+    "dimensions": {
+      "length": 24.8,
+      "width": 15.7,
+      "height": 24.0,
+      "unit": "cm"
+    },
+    "features": {
+      "power": "USB Rechargeable",
+      "warranty": "1 year",
+      "connectivity": "Wireless"
+    },
+    "images": {
+      "main_image": "images/products/3/DigitalMax_Camera.webp",
+      "thumbnail": "images/products/3/DigitalMax_Camera_thumb.webp",
+      "gallery": [
+        "images/products/3/DigitalMax_Camera.webp"
+      ]
+    },
+    "tags": [
+      "gadget",
+      "device",
+      "tech",
+      "electronics",
+      "camera"
+    ],
+    "created_at": "2025-12-10 12:21:09.188057",
+    "updated_at": "2026-08-12 18:50:42.248166"
+  },
+  {
+    "id": 4,
+    "name": "InnoCore Smartwatch",
+    "description": "Stay connected with the InnoCore Smartwatch. Featuring seamless Bluetooth connectivity and reliable AC power, it is built to last with a 3-year warranty. Professional tech at your wrist.",
+    "category": "Electronics",
+    "brand": "InnoCore",
+    "price": 1641,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 4.6,
+    "review_count": 61,
+    "sku": "ELE-000004",
+    "weight": 2.66,
+    "dimensions": {
+      "length": 48.0,
+      "width": 31.5,
+      "height": 10.2,
+      "unit": "cm"
+    },
+    "features": {
+      "power": "AC Power",
+      "warranty": "3 years",
+      "connectivity": "Bluetooth"
+    },
+    "images": {
+      "main_image": "images/products/4/InnoCore_Smartwatch.webp",
+      "thumbnail": "images/products/4/InnoCore_Smartwatch_thumb.webp",
+      "gallery": [
+        "images/products/4/InnoCore_Smartwatch.webp"
+      ]
+    },
+    "tags": [
+      "gadget",
+      "device",
+      "smartwatch",
+      "tech",
+      "electronics"
+    ],
+    "created_at": "2025-12-13 11:52:23.778372",
+    "updated_at": "2026-07-28 01:39:17.502568"
+  },
+  {
+    "id": 5,
+    "name": "NextGen Headphones",
+    "description": "Experience pure sound with NextGen over-ear headphones. Featuring True noise cancellation and Bluetooth 5.0, enjoy seamless connectivity and 20 hours of battery life.",
+    "category": "Electronics",
+    "brand": "NextGen",
+    "price": 1288,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 4.7,
+    "review_count": 85,
+    "sku": "ELE-000005",
+    "weight": 0.6,
+    "dimensions": {
+      "length": 49.5,
+      "width": 19.3,
+      "height": 14.3,
+      "unit": "cm"
+    },
+    "features": {
+      "type": "Over-ear",
+      "noise_cancellation": true,
+      "battery_life": "20 hours",
+      "connectivity": "Bluetooth 5.0"
+    },
+    "images": {
+      "main_image": "images/products/5/NextGen_Headphones.webp",
+      "thumbnail": "images/products/5/NextGen_Headphones_thumb.webp",
+      "gallery": [
+        "images/products/5/NextGen_Headphones.webp"
+      ]
+    },
+    "tags": [
+      "gadget",
+      "device",
+      "tech",
+      "mobile",
+      "communication",
+      "headphones",
+      "electronics"
+    ],
+    "created_at": "2026-06-09 11:05:42.137995",
+    "updated_at": "2026-08-01 13:41:35.849422"
+  },
+  {
+    "id": 6,
+    "name": "FutureTech Speaker X",
+    "description": "Experience superior sound with the FutureTech Speaker X. Featuring reliable wired connectivity and steady AC power, this premium speaker includes a 3-year warranty for lasting peace of mind.",
+    "category": "Electronics",
+    "brand": "FutureTech",
+    "price": 1408,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 20,
+    "is_active": true,
+    "rating": 3.6,
+    "review_count": 86,
+    "sku": "ELE-000006",
+    "weight": 2.25,
+    "dimensions": {
+      "length": 42.0,
+      "width": 33.7,
+      "height": 13.5,
+      "unit": "cm"
+    },
+    "features": {
+      "power": "AC Power",
+      "warranty": "3 years",
+      "connectivity": "Wired"
+    },
+    "images": {
+      "main_image": "images/products/6/FutureTech_Speaker_X.webp",
+      "thumbnail": "images/products/6/FutureTech_Speaker_X_thumb.webp",
+      "gallery": [
+        "images/products/6/FutureTech_Speaker_X.webp"
+      ]
+    },
+    "tags": [
+      "speaker",
+      "gadget",
+      "device",
+      "tech",
+      "electronics"
+    ],
+    "created_at": "2025-09-01 05:52:29.415158",
+    "updated_at": "2026-08-06 01:16:01.499154"
+  },
+  {
+    "id": 7,
+    "name": "StreetWear Dress",
+    "description": "Elevate your look with this StreetWear blue denim dress. Available in size S, this essential piece blends style and quality for any occasion. Shop the ultimate denim essential today.",
+    "category": "Clothing",
+    "brand": "StreetWear",
+    "price": 163,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 52,
+    "is_active": true,
+    "rating": 3.5,
+    "review_count": 396,
+    "sku": "CLO-000007",
+    "weight": 0.49,
+    "dimensions": {
+      "length": 48.5,
+      "width": 27.6,
+      "height": 3.4,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "S",
+      "color": "Blue",
+      "material": "Denim"
+    },
+    "images": {
+      "main_image": "images/products/7/StreetWear_Dress.webp",
+      "thumbnail": "images/products/7/StreetWear_Dress_thumb.webp",
+      "gallery": [
+        "images/products/7/StreetWear_Dress.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "denim",
+      "size-s",
+      "blue",
+      "apparel",
+      "dress",
+      "style",
+      "clothing"
+    ],
+    "created_at": "2026-07-05 14:04:14.855278",
+    "updated_at": "2026-07-27 05:53:35.636951"
+  },
+  {
+    "id": 8,
+    "name": "FashionForward Jeans",
+    "description": "Upgrade your wardrobe with FashionForward Navy Jeans in size XL. Crafted from durable polyester, these stylish jeans offer a sleek look for any occasion. Shop the collection today!",
+    "category": "Clothing",
+    "brand": "FashionForward",
+    "price": 32.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 89,
+    "is_active": true,
+    "rating": 4.2,
+    "review_count": 424,
+    "sku": "CLO-000008",
+    "weight": 1.26,
+    "dimensions": {
+      "length": 38.1,
+      "width": 13.2,
+      "height": 23.2,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "XL",
+      "color": "Navy",
+      "material": "Polyester"
+    },
+    "images": {
+      "main_image": "images/products/8/FashionForward_Jeans.webp",
+      "thumbnail": "images/products/8/FashionForward_Jeans_thumb.webp",
+      "gallery": [
+        "images/products/8/FashionForward_Jeans.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "size-xl",
+      "apparel",
+      "clothing",
+      "style",
+      "jeans",
+      "polyester",
+      "navy"
+    ],
+    "created_at": "2025-10-04 13:22:14.140115",
+    "updated_at": "2026-08-05 22:42:54.056996"
+  },
+  {
+    "id": 9,
+    "name": "FashionForward Boots",
+    "description": "Elevate your style with FashionForward Boots in classic black. Crafted from a premium cotton blend, these size 11, regular width boots offer a sleek look for any outfit.",
+    "category": "Clothing",
+    "brand": "FashionForward",
+    "price": 170,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 23,
+    "is_active": true,
+    "rating": 3.5,
+    "review_count": 309,
+    "sku": "CLO-000009",
+    "weight": 1.26,
+    "dimensions": {
+      "length": 19.3,
+      "width": 40.0,
+      "height": 15.0,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "M",
+      "color": "Black",
+      "material": "Cotton Blend",
+      "shoe_size": "11",
+      "width": "Regular"
+    },
+    "images": {
+      "main_image": "images/products/9/FashionForward_Boots.webp",
+      "thumbnail": "images/products/9/FashionForward_Boots_thumb.webp",
+      "gallery": [
+        "images/products/9/FashionForward_Boots.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "apparel",
+      "size-m",
+      "style",
+      "cotton blend",
+      "black",
+      "boots",
+      "clothing"
+    ],
+    "created_at": "2026-08-13 00:46:08.633857",
+    "updated_at": "2026-08-02 09:15:39.879358"
+  },
+  {
+    "id": 10,
+    "name": "TrendSetter Sweater Elite",
+    "description": "Elevate your wardrobe with the TrendSetter Sweater Elite. This premium red denim sweater in size XL offers a bold, stylish look for any occasion. Shop the ultimate elite style today.",
+    "category": "Clothing",
+    "brand": "TrendSetter",
+    "price": 89,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 4.9,
+    "review_count": 456,
+    "sku": "CLO-000010",
+    "weight": 4.42,
+    "dimensions": {
+      "length": 5.4,
+      "width": 19.7,
+      "height": 14.1,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "XL",
+      "color": "Red",
+      "material": "Denim"
+    },
+    "images": {
+      "main_image": "images/products/10/TrendSetter_Sweater_Elite.webp",
+      "thumbnail": "images/products/10/TrendSetter_Sweater_Elite_thumb.webp",
+      "gallery": [
+        "images/products/10/TrendSetter_Sweater_Elite.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "size-xl",
+      "denim",
+      "red",
+      "apparel",
+      "style",
+      "sweater",
+      "clothing"
+    ],
+    "created_at": "2025-09-14 15:44:17.599121",
+    "updated_at": "2026-07-19 07:08:41.427082"
+  },
+  {
+    "id": 11,
+    "name": "ModernFit Hoodie",
+    "description": "Elevate your everyday style with the ModernFit Hoodie in versatile gray. Crafted from a premium cotton blend, this size L essential offers perfect comfort and modern style.",
+    "category": "Clothing",
+    "brand": "ModernFit",
+    "price": 150,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 32,
+    "is_active": true,
+    "rating": 4.9,
+    "review_count": 299,
+    "sku": "CLO-000011",
+    "weight": 2.73,
+    "dimensions": {
+      "length": 11.7,
+      "width": 27.5,
+      "height": 6.1,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "L",
+      "color": "Gray",
+      "material": "Cotton Blend"
+    },
+    "images": {
+      "main_image": "images/products/11/ModernFit_Hoodie.webp",
+      "thumbnail": "images/products/11/ModernFit_Hoodie_thumb.webp",
+      "gallery": [
+        "images/products/11/ModernFit_Hoodie.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "apparel",
+      "hoodie",
+      "gray",
+      "style",
+      "cotton blend",
+      "size-l",
+      "clothing"
+    ],
+    "created_at": "2026-06-05 11:45:54.025537",
+    "updated_at": "2026-07-27 21:03:56.707432"
+  },
+  {
+    "id": 12,
+    "name": "StyleCraft Dress",
+    "description": "Elevate your wardrobe with the StyleCraft Dress in classic black. Crafted from quality polyester, this XXL size dress offers timeless style for any occasion.",
+    "category": "Clothing",
+    "brand": "StyleCraft",
+    "price": 74,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 43,
+    "is_active": true,
+    "rating": 3.2,
+    "review_count": 382,
+    "sku": "CLO-000012",
+    "weight": 4.89,
+    "dimensions": {
+      "length": 35.0,
+      "width": 36.0,
+      "height": 17.3,
+      "unit": "cm"
+    },
+    "features": {
+      "size": "XXL",
+      "color": "Black",
+      "material": "Polyester"
+    },
+    "images": {
+      "main_image": "images/products/12/StyleCraft_Dress.webp",
+      "thumbnail": "images/products/12/StyleCraft_Dress_thumb.webp",
+      "gallery": [
+        "images/products/12/StyleCraft_Dress.webp"
+      ]
+    },
+    "tags": [
+      "fashion",
+      "apparel",
+      "dress",
+      "style",
+      "polyester",
+      "black",
+      "size-xxl",
+      "clothing"
+    ],
+    "created_at": "2026-05-25 14:45:16.471356",
+    "updated_at": "2026-07-26 07:19:00.016580"
+  },
+  {
+    "id": 13,
+    "name": "KnowledgeHub Programming Guide",
+    "description": "Master coding with the KnowledgeHub Programming Guide. This 178-page English paperback is your essential resource for learning. ISBN: 978-1-86326-642-0.",
+    "category": "Books",
+    "brand": "KnowledgeHub",
+    "price": 22.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 65,
+    "is_active": true,
+    "rating": 3.6,
+    "review_count": 443,
+    "sku": "BOO-000013",
+    "weight": 0.81,
+    "dimensions": {
+      "length": 10.7,
+      "width": 21.3,
+      "height": 9.9,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 178,
+      "format": "Paperback",
+      "language": "English",
+      "isbn": "978-1-86326-642-0"
+    },
+    "images": {
+      "main_image": "images/products/13/KnowledgeHub_Programming_Guide.webp",
+      "thumbnail": "images/products/13/KnowledgeHub_Programming_Guide_thumb.webp",
+      "gallery": [
+        "images/products/13/KnowledgeHub_Programming_Guide.webp"
+      ]
+    },
+    "tags": [
+      "books",
+      "reading",
+      "literature",
+      "education",
+      "programming guide"
+    ],
+    "created_at": "2026-06-21 01:54:57.248756",
+    "updated_at": "2026-07-31 11:45:42.214566"
+  },
+  {
+    "id": 14,
+    "name": "InsightPublishing Biography",
+    "description": "Discover an inspiring journey in this 291-page English language biography. A high-quality paperback from InsightPublishing, perfect for your collection. ISBN: 978-0-494-29738-4.",
+    "category": "Books",
+    "brand": "InsightPublishing",
+    "price": 11.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 22,
+    "is_active": true,
+    "rating": 3.9,
+    "review_count": 90,
+    "sku": "BOO-000014",
+    "weight": 3.51,
+    "dimensions": {
+      "length": 20.5,
+      "width": 7.9,
+      "height": 16.5,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 291,
+      "format": "Paperback",
+      "language": "English",
+      "isbn": "978-0-494-29738-4"
+    },
+    "images": {
+      "main_image": "images/products/14/InsightPublishing_Biography.webp",
+      "thumbnail": "images/products/14/InsightPublishing_Biography_thumb.webp",
+      "gallery": [
+        "images/products/14/InsightPublishing_Biography.webp"
+      ]
+    },
+    "tags": [
+      "books",
+      "biography",
+      "reading",
+      "literature",
+      "education"
+    ],
+    "created_at": "2026-07-20 15:47:24.027997",
+    "updated_at": "2026-08-08 11:35:13.355165"
+  },
+  {
+    "id": 15,
+    "name": "ClearPath Novel",
+    "description": "Immerse yourself in the ClearPath novel. This 562-page English paperback is a compelling read for any book lover. ISBN: 978-1-70452-240-1. Order your copy today!",
+    "category": "Books",
+    "brand": "ClearPath",
+    "price": 33.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 81,
+    "is_active": true,
+    "rating": 3.8,
+    "review_count": 468,
+    "sku": "BOO-000015",
+    "weight": 4.84,
+    "dimensions": {
+      "length": 29.6,
+      "width": 20.6,
+      "height": 16.5,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 562,
+      "format": "Paperback",
+      "language": "English",
+      "isbn": "978-1-70452-240-1"
+    },
+    "images": {
+      "main_image": "images/products/15/ClearPath_Novel.webp",
+      "thumbnail": "images/products/15/ClearPath_Novel_thumb.webp",
+      "gallery": [
+        "images/products/15/ClearPath_Novel.webp"
+      ]
+    },
+    "tags": [
+      "books",
+      "reading",
+      "literature",
+      "novel",
+      "education"
+    ],
+    "created_at": "2025-12-26 09:54:46.343292",
+    "updated_at": "2026-08-10 19:30:54.374425"
+  },
+  {
+    "id": 16,
+    "name": "ThoughtWorks History",
+    "description": "Dive into history with this 554-page ThoughtWorks hardcover. A comprehensive English-language volume (ISBN: 978-1-04-117789-0) perfect for any collector's bookshelf.",
+    "category": "Books",
+    "brand": "ThoughtWorks",
+    "price": 36.0,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 3.0,
+    "review_count": 93,
+    "sku": "BOO-000016",
+    "weight": 4.25,
+    "dimensions": {
+      "length": 49.5,
+      "width": 37.8,
+      "height": 9.9,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 554,
+      "format": "Hardcover",
+      "language": "English",
+      "isbn": "978-1-04-117789-0"
+    },
+    "images": {
+      "main_image": "images/products/16/ThoughtWorks_History.webp",
+      "thumbnail": "images/products/16/ThoughtWorks_History_thumb.webp",
+      "gallery": [
+        "images/products/16/ThoughtWorks_History.webp"
+      ]
+    },
+    "tags": [
+      "history",
+      "books",
+      "reading",
+      "literature",
+      "education"
+    ],
+    "created_at": "2025-10-06 14:21:04.297528",
+    "updated_at": "2026-07-27 23:20:32.503856"
+  },
+  {
+    "id": 17,
+    "name": "LearningPress Mystery Pro",
+    "description": "Dive into 781 pages of intrigue with LearningPress Mystery Pro. This premium English hardcover is a must-have for enthusiasts. ISBN: 978-1-74304-038-6.",
+    "category": "Books",
+    "brand": "LearningPress",
+    "price": 36.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 4,
+    "is_active": true,
+    "rating": 4.2,
+    "review_count": 487,
+    "sku": "BOO-000017",
+    "weight": 3.2,
+    "dimensions": {
+      "length": 22.0,
+      "width": 25.6,
+      "height": 9.7,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 781,
+      "format": "Hardcover",
+      "language": "English",
+      "isbn": "978-1-74304-038-6"
+    },
+    "images": {
+      "main_image": "images/products/17/LearningPress_Mystery_Pro.webp",
+      "thumbnail": "images/products/17/LearningPress_Mystery_Pro_thumb.webp",
+      "gallery": [
+        "images/products/17/LearningPress_Mystery_Pro.webp"
+      ]
+    },
+    "tags": [
+      "books",
+      "reading",
+      "mystery",
+      "literature",
+      "education"
+    ],
+    "created_at": "2026-02-01 20:52:19.522963",
+    "updated_at": "2026-08-06 22:26:41.760632"
+  },
+  {
+    "id": 18,
+    "name": "ScholarPress Mystery",
+    "description": "Dive into the suspense of ScholarPress Mystery. This 193-page English hardcover is a must-read for mystery lovers. ISBN: 978-0-8291-1280-1. Grab your copy today!",
+    "category": "Books",
+    "brand": "ScholarPress",
+    "price": 87,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 4.8,
+    "review_count": 326,
+    "sku": "BOO-000018",
+    "weight": 2.12,
+    "dimensions": {
+      "length": 38.3,
+      "width": 29.5,
+      "height": 20.6,
+      "unit": "cm"
+    },
+    "features": {
+      "pages": 193,
+      "format": "Hardcover",
+      "language": "English",
+      "isbn": "978-0-8291-1280-1"
+    },
+    "images": {
+      "main_image": "images/products/18/ScholarPress_Mystery.webp",
+      "thumbnail": "images/products/18/ScholarPress_Mystery_thumb.webp",
+      "gallery": [
+        "images/products/18/ScholarPress_Mystery.webp"
+      ]
+    },
+    "tags": [
+      "books",
+      "reading",
+      "mystery",
+      "literature",
+      "education"
+    ],
+    "created_at": "2025-08-18 05:13:49.601815",
+    "updated_at": "2026-07-23 08:00:12.287873"
+  },
+  {
+    "id": 19,
+    "name": "HomeEssentials Coffee Maker Pro",
+    "description": "Elevate your morning routine with the HomeEssentials Coffee Maker Pro. This 12-cup drip coffee maker delivers consistent flavor for the whole family. Perfect for any home kitchen.",
+    "category": "Home & Garden",
+    "brand": "HomeEssentials",
+    "price": 289,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 25,
+    "is_active": true,
+    "rating": 4.7,
+    "review_count": 13,
+    "sku": "HOM-000019",
+    "weight": 2.71,
+    "dimensions": {
+      "length": 29.0,
+      "width": 5.4,
+      "height": 3.9,
+      "unit": "cm"
+    },
+    "features": {
+      "capacity": "12 cups",
+      "type": "Drip"
+    },
+    "images": {
+      "main_image": "images/products/19/HomeEssentials_Coffee_Maker_Pro.webp",
+      "thumbnail": "images/products/19/HomeEssentials_Coffee_Maker_Pro_thumb.webp",
+      "gallery": [
+        "images/products/19/HomeEssentials_Coffee_Maker_Pro.webp"
+      ]
+    },
+    "tags": [
+      "home",
+      "domestic",
+      "home & garden",
+      "household",
+      "coffee maker"
+    ],
+    "created_at": "2026-08-15 09:12:40.838954",
+    "updated_at": "2026-07-20 09:39:00.034328"
+  },
+  {
+    "id": 20,
+    "name": "HomeStyle Kitchen Utensils Elite",
+    "description": "Elevate your cooking with the HomeStyle Kitchen Utensils Elite. Premium tools designed for professional performance and lasting style in every home kitchen.",
+    "category": "Home & Garden",
+    "brand": "HomeStyle",
+    "price": 331,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 80,
+    "is_active": true,
+    "rating": 3.8,
+    "review_count": 100,
+    "sku": "HOM-000020",
+    "weight": 4.5,
+    "dimensions": {
+      "length": 28.8,
+      "width": 33.5,
+      "height": 18.0,
+      "unit": "cm"
+    },
+    "features": {},
+    "images": {
+      "main_image": "images/products/20/HomeStyle_Kitchen_Utensils_Elite.webp",
+      "thumbnail": "images/products/20/HomeStyle_Kitchen_Utensils_Elite_thumb.webp",
+      "gallery": [
+        "images/products/20/HomeStyle_Kitchen_Utensils_Elite.webp"
+      ]
+    },
+    "tags": [
+      "kitchen utensils",
+      "home",
+      "domestic",
+      "home & garden",
+      "household"
+    ],
+    "created_at": "2026-03-15 09:08:57.595899",
+    "updated_at": "2026-07-26 14:10:41.209659"
+  },
+  {
+    "id": 21,
+    "name": "HomeStyle Garden Tools",
+    "description": "Elevate your outdoor space with HomeStyle Garden Tools. Designed for quality and durability, our essential gardening kit makes maintaining your landscape effortless and stylish.",
+    "category": "Home & Garden",
+    "brand": "HomeStyle",
+    "price": 82,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 45,
+    "is_active": true,
+    "rating": 4.9,
+    "review_count": 37,
+    "sku": "HOM-000021",
+    "weight": 0.34,
+    "dimensions": {
+      "length": 5.4,
+      "width": 24.0,
+      "height": 14.5,
+      "unit": "cm"
+    },
+    "features": {},
+    "images": {
+      "main_image": "images/products/21/HomeStyle_Garden_Tools.webp",
+      "thumbnail": "images/products/21/HomeStyle_Garden_Tools_thumb.webp",
+      "gallery": [
+        "images/products/21/HomeStyle_Garden_Tools.webp"
+      ]
+    },
+    "tags": [
+      "home",
+      "domestic",
+      "garden tools",
+      "home & garden",
+      "household"
+    ],
+    "created_at": "2026-02-04 10:33:39.012126",
+    "updated_at": "2026-07-27 10:21:50.286082"
+  },
+  {
+    "id": 22,
+    "name": "HomeEssentials Furniture",
+    "description": "Elevate your living space with HomeEssentials Furniture. Discover high-quality pieces designed to bring comfort and style to your home and garden. Shop our collection today.",
+    "category": "Home & Garden",
+    "brand": "HomeEssentials",
+    "price": 496,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 83,
+    "is_active": true,
+    "rating": 3.0,
+    "review_count": 32,
+    "sku": "HOM-000022",
+    "weight": 1.68,
+    "dimensions": {
+      "length": 36.3,
+      "width": 25.8,
+      "height": 9.0,
+      "unit": "cm"
+    },
+    "features": {},
+    "images": {
+      "main_image": "images/products/22/HomeEssentials_Furniture.webp",
+      "thumbnail": "images/products/22/HomeEssentials_Furniture_thumb.webp",
+      "gallery": [
+        "images/products/22/HomeEssentials_Furniture.webp"
+      ]
+    },
+    "tags": [
+      "home",
+      "furniture",
+      "domestic",
+      "home & garden",
+      "household"
+    ],
+    "created_at": "2026-07-21 06:44:52.243692",
+    "updated_at": "2026-08-07 11:17:20.330070"
+  },
+  {
+    "id": 23,
+    "name": "HomeStyle Kitchen Utensils Max",
+    "description": "Elevate your cooking with HomeStyle Kitchen Utensils Max. Professional-grade tools designed for durability and style, perfect for every home chef seeking premium kitchenware.",
+    "category": "Home & Garden",
+    "brand": "HomeStyle",
+    "price": 111,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 6,
+    "is_active": true,
+    "rating": 3.9,
+    "review_count": 219,
+    "sku": "HOM-000023",
+    "weight": 3.5,
+    "dimensions": {
+      "length": 46.8,
+      "width": 35.0,
+      "height": 14.9,
+      "unit": "cm"
+    },
+    "features": {},
+    "images": {
+      "main_image": "images/products/23/HomeStyle_Kitchen_Utensils_Max.webp",
+      "thumbnail": "images/products/23/HomeStyle_Kitchen_Utensils_Max_thumb.webp",
+      "gallery": [
+        "images/products/23/HomeStyle_Kitchen_Utensils_Max.webp"
+      ]
+    },
+    "tags": [
+      "kitchen utensils",
+      "home",
+      "domestic",
+      "home & garden",
+      "household"
+    ],
+    "created_at": "2026-02-06 06:10:36.744860",
+    "updated_at": "2026-08-06 17:38:07.485058"
+  },
+  {
+    "id": 24,
+    "name": "QualityHome Plant Pot Max",
+    "description": "Elevate your greenery with the QualityHome Plant Pot Max. Durable and stylish, this premium planter is the perfect addition to your home and garden decor.",
+    "category": "Home & Garden",
+    "brand": "QualityHome",
+    "price": 498,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 18,
+    "is_active": true,
+    "rating": 3.5,
+    "review_count": 272,
+    "sku": "HOM-000024",
+    "weight": 3.71,
+    "dimensions": {
+      "length": 42.3,
+      "width": 23.6,
+      "height": 26.8,
+      "unit": "cm"
+    },
+    "features": {},
+    "images": {
+      "main_image": "images/products/24/QualityHome_Plant_Pot_Max.webp",
+      "thumbnail": "images/products/24/QualityHome_Plant_Pot_Max_thumb.webp",
+      "gallery": [
+        "images/products/24/QualityHome_Plant_Pot_Max.webp"
+      ]
+    },
+    "tags": [
+      "home",
+      "plant pot",
+      "domestic",
+      "home & garden",
+      "household"
+    ],
+    "created_at": "2025-12-17 13:53:02.445393",
+    "updated_at": "2026-08-08 08:46:53.252514"
+  },
+  {
+    "id": 25,
+    "name": "PerformanceGear Basketball Plus",
+    "description": "Dominate the court with the PerformanceGear Basketball Plus. Crafted from durable rubber, this versatile ball is suitable for both indoor and outdoor play. Elevate your game today!",
+    "category": "Sports",
+    "brand": "PerformanceGear",
+    "price": 97,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 25,
+    "is_active": true,
+    "rating": 4.1,
+    "review_count": 83,
+    "sku": "SPO-000025",
+    "weight": 2.79,
+    "dimensions": {
+      "length": 39.1,
+      "width": 10.0,
+      "height": 16.8,
+      "unit": "cm"
+    },
+    "features": {
+      "material": "Rubber",
+      "suitable_for": "Both"
+    },
+    "images": {
+      "main_image": "images/products/25/PerformanceGear_Basketball_Plus.webp",
+      "thumbnail": "images/products/25/PerformanceGear_Basketball_Plus_thumb.webp",
+      "gallery": [
+        "images/products/25/PerformanceGear_Basketball_Plus.webp"
+      ]
+    },
+    "tags": [
+      "athletic",
+      "sports",
+      "basketball",
+      "fitness",
+      "exercise",
+      "rubber"
+    ],
+    "created_at": "2025-12-09 11:31:19.883176",
+    "updated_at": "2026-08-09 00:18:40.152548"
+  },
+  {
+    "id": 26,
+    "name": "EndurancePro Dumbbells Pro",
+    "description": "Elevate your fitness with EndurancePro Dumbbells Pro. Featuring a 5 lbs weight and durable neoprene material, these are perfect for targeted strength training.",
+    "category": "Sports",
+    "brand": "EndurancePro",
+    "price": 40.0,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 13,
+    "is_active": true,
+    "rating": 4.4,
+    "review_count": 130,
+    "sku": "SPO-000026",
+    "weight": 4.61,
+    "dimensions": {
+      "length": 12.1,
+      "width": 16.5,
+      "height": 19.6,
+      "unit": "cm"
+    },
+    "features": {
+      "weight": "5 lbs",
+      "material": "Neoprene"
+    },
+    "images": {
+      "main_image": "images/products/26/EndurancePro_Dumbbells_Pro.webp",
+      "thumbnail": "images/products/26/EndurancePro_Dumbbells_Pro_thumb.webp",
+      "gallery": [
+        "images/products/26/EndurancePro_Dumbbells_Pro.webp"
+      ]
+    },
+    "tags": [
+      "athletic",
+      "sports",
+      "fitness",
+      "exercise",
+      "dumbbells",
+      "neoprene"
+    ],
+    "created_at": "2026-02-09 13:35:12.012002",
+    "updated_at": "2026-07-25 04:33:28.038253"
+  },
+  {
+    "id": 27,
+    "name": "SportsPro Fitness Tracker",
+    "description": "Elevate your indoor workouts with the SportsPro Fitness Tracker. Featuring a premium leather finish, this stylish tracker is the perfect companion for your indoor fitness routine.",
+    "category": "Sports",
+    "brand": "SportsPro",
+    "price": 241,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 47,
+    "is_active": true,
+    "rating": 4.0,
+    "review_count": 48,
+    "sku": "SPO-000027",
+    "weight": 0.52,
+    "dimensions": {
+      "length": 35.9,
+      "width": 40.8,
+      "height": 15.0,
+      "unit": "cm"
+    },
+    "features": {
+      "material": "Leather",
+      "suitable_for": "Indoor"
+    },
+    "images": {
+      "main_image": "images/products/27/SportsPro_Fitness_Tracker.webp",
+      "thumbnail": "images/products/27/SportsPro_Fitness_Tracker_thumb.webp",
+      "gallery": [
+        "images/products/27/SportsPro_Fitness_Tracker.webp"
+      ]
+    },
+    "tags": [
+      "athletic",
+      "sports",
+      "fitness",
+      "exercise",
+      "fitness tracker",
+      "leather"
+    ],
+    "created_at": "2025-10-25 18:16:59.413462",
+    "updated_at": "2026-07-16 18:32:48.169018"
+  },
+  {
+    "id": 28,
+    "name": "FitGear Running Shoes",
+    "description": "Conquer any terrain with FitGear Running Shoes. Designed for trail surfaces, these size 9.5 shoes provide the perfect grip for your outdoor adventures. Elevate your run today.",
+    "category": "Sports",
+    "brand": "FitGear",
+    "price": 192,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 30,
+    "is_active": true,
+    "rating": 3.2,
+    "review_count": 458,
+    "sku": "SPO-000028",
+    "weight": 3.51,
+    "dimensions": {
+      "length": 10.6,
+      "width": 47.8,
+      "height": 20.3,
+      "unit": "cm"
+    },
+    "features": {
+      "shoe_size": "9.5",
+      "surface": "Trail"
+    },
+    "images": {
+      "main_image": "images/products/28/FitGear_Running_Shoes.webp",
+      "thumbnail": "images/products/28/FitGear_Running_Shoes_thumb.webp",
+      "gallery": [
+        "images/products/28/FitGear_Running_Shoes.webp"
+      ]
+    },
+    "tags": [
+      "athletic",
+      "sports",
+      "fitness",
+      "exercise",
+      "running shoes"
+    ],
+    "created_at": "2026-07-12 15:20:32.701786",
+    "updated_at": "2026-08-13 02:15:20.410576"
+  },
+  {
+    "id": 29,
+    "name": "PerformanceGear Water Bottle",
+    "description": "Elevate your indoor workouts with the PerformanceGear Water Bottle. Crafted from durable nylon, this essential sports bottle is designed for your fitness routine.",
+    "category": "Sports",
+    "brand": "PerformanceGear",
+    "price": 219,
+    "currency": "USD",
+    "in_stock": false,
+    "stock_quantity": 0,
+    "is_active": true,
+    "rating": 4.6,
+    "review_count": 237,
+    "sku": "SPO-000029",
+    "weight": 0.32,
+    "dimensions": {
+      "length": 8.1,
+      "width": 9.7,
+      "height": 27.8,
+      "unit": "cm"
+    },
+    "features": {
+      "material": "Nylon",
+      "suitable_for": "Indoor"
+    },
+    "images": {
+      "main_image": "images/products/29/PerformanceGear_Water_Bottle.webp",
+      "thumbnail": "images/products/29/PerformanceGear_Water_Bottle_thumb.webp",
+      "gallery": [
+        "images/products/29/PerformanceGear_Water_Bottle.webp"
+      ]
+    },
+    "tags": [
+      "athletic",
+      "sports",
+      "fitness",
+      "exercise",
+      "water bottle",
+      "nylon"
+    ],
+    "created_at": "2026-03-22 03:41:28.169869",
+    "updated_at": "2026-07-28 00:28:46.347006"
+  },
+  {
+    "id": 30,
+    "name": "FitGear Bicycle",
+    "description": "Elevate your fitness with the FitGear Bicycle. Built with durable synthetic material, this indoor bicycle is perfect for your home workouts. Experience professional quality today.",
+    "category": "Sports",
+    "brand": "FitGear",
+    "price": 209,
+    "currency": "USD",
+    "in_stock": true,
+    "stock_quantity": 52,
+    "is_active": true,
+    "rating": 4.4,
+    "review_count": 417,
+    "sku": "SPO-000030",
+    "weight": 3.47,
+    "dimensions": {
+      "length": 32.7,
+      "width": 48.8,
+      "height": 10.1,
+      "unit": "cm"
+    },
+    "features": {
+      "material": "Synthetic",
+      "suitable_for": "Indoor"
+    },
+    "images": {
+      "main_image": "images/products/30/FitGear_Bicycle.webp",
+      "thumbnail": "images/products/30/FitGear_Bicycle_thumb.webp",
+      "gallery": [
+        "images/products/30/FitGear_Bicycle.webp"
+      ]
+    },
+    "tags": [
+      "synthetic",
+      "athletic",
+      "sports",
+      "fitness",
+      "bicycle",
+      "exercise"
+    ],
+    "created_at": "2026-05-01 07:39:26.821663",
+    "updated_at": "2026-08-13 17:49:39.450215"
+  }
+]
